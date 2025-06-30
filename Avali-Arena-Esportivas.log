@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.5.7)  30 JUN 2025 13:40
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.5.7)  30 JUN 2025 13:47
  restricted system commands enabled.
 **Avali-Arena-Esportivas.tex
 (./Avali-Arena-Esportivas.tex
@@ -1965,18 +1965,18 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 11.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [2<./pre-pos-textuais/cabecalho.png><./pre-pos-textuais//rodape.png>]
 <figura/screenshot001.png, id=215, 126.4725pt x 155.07938pt>
 File: figura/screenshot001.png Graphic file (type png)
 <use figura/screenshot001.png>
 Package luatex.def Info: figura/screenshot001.png  used on input line 18.
-(luatex.def)             Requested size: 157.96976pt x 193.70438pt.
+(luatex.def)             Requested size: 213.96529pt x 262.3678pt.
 )
 (./Secoes2//02-Amostra.tex
 File: pre-pos-textuais/cabecalho.png Graphic file (type png)
@@ -1995,11 +1995,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 6.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [3<./figura/screenshot001.png>]
 <figura/screenshot002.png, id=223, 167.12437pt x 107.65219pt>
@@ -2038,11 +2038,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 45.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [4<./figura/screenshot002.png>]
 <figura/screenshot004.png, id=232, 164.11313pt x 139.27031pt>
@@ -2081,11 +2081,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 85.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [5<./figura/screenshot003.png><./figura/screenshot004.png>]
 <figura/screenshot006.png, id=242, 158.09062pt x 90.3375pt>
@@ -2124,11 +2124,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 128.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [6<./figura/screenshot005.png><./figura/screenshot006.png>]
 <figura/screenshot008.png, id=252, 176.91093pt x 146.04562pt>
@@ -2167,11 +2167,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 175.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [7<./figura/screenshot007.png><./figura/screenshot008.png>]
 <figura/screenshot010.png, id=262, 162.6075pt x 84.315pt>
@@ -2210,11 +2210,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 214.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [8<./figura/screenshot009.png><./figura/screenshot010.png>]
 <figura/screenshot012.png, id=272, 192.72pt x 115.93312pt>
@@ -2253,11 +2253,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 255.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [9<./figura/screenshot011.png><./figura/screenshot012.png>]
 <figura/screenshot014.png, id=282, 164.11313pt x 92.59593pt>
@@ -2296,11 +2296,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 298.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [10<./figura/screenshot013.png><./figura/screenshot014.png>]
 <figura/screenshot017.png, id=292, 160.34906pt x 104.64093pt>
@@ -2339,11 +2339,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 332.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [11<./figura/screenshot015.png><./figura/screenshot017.png>])
 (./Secoes2//03-Material-metodos.tex) (./Secoes2//04-Analise-do-tratamento.tex
@@ -2364,11 +2364,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 15.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [12<./figura/screenshot016.png>]
 File: pre-pos-textuais/cabecalho.png Graphic file (type png)
@@ -2388,11 +2388,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 68.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [13]
 <figura/screenshot030.png, id=322, 312.41719pt x 211.54031pt>
@@ -2422,11 +2422,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 134.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [14]
 <figura/screenshot032.png, id=332, 426.09187pt x 53.44969pt>
@@ -2456,11 +2456,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 165.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [15<./figura/screenshot030.png><./figura/screenshot031.png><./figura/screenshot0
 32.png>]
@@ -2481,11 +2481,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 174.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [16<./figura/screenshot033.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 215--215
@@ -2538,11 +2538,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 263.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [17]
 File: pre-pos-textuais/cabecalho.png Graphic file (type png)
@@ -2562,11 +2562,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 265.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [18<./figura/screenshot036.png><./figura/screenshot035.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 280--280
@@ -2614,11 +2614,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 304.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [19<./figura/screenshot038.png>]) (./Secoes2//05-Metodo-evolutivo.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--12
@@ -2641,11 +2641,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 12.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [20<./figura/screenshot037.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 20--25
@@ -2678,11 +2678,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 39.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [21<./figura/screenshot039.png>]) (./Secoes2//06-Conclusao.tex)
 File: pre-pos-textuais/cabecalho.png Graphic file (type png)
@@ -2702,11 +2702,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 69.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [22<./figura/screenshot040.png>] (./Secoes2//07-referencias.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
@@ -2746,11 +2746,11 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
 Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 72.
-(luatex.def)             Requested size: 326.6361pt x 72.51598pt.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 76.86601pt, for example:
-(fancyhdr)                \setlength{\footskip}{76.86601pt}.
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [23] (./Avali-Arena-Esportivas.aux)
  ***********
@@ -2775,7 +2775,7 @@ Here is how much of LuaTeX's memory you used:
    24 hlist, 2 vlist, 10 rule, 1 local_par, 7 glue, 4 kern, 1 penalty, 1 margin_
 kern, 3 glyph, 76 attribute, 118 glue_spec, 64 attribute_list, 3 write, 16 pdf_l
 iteral, 1 pdf_action, 16 pdf_colorstack nodes
-   avail lists: 1:2,2:1976,3:398,4:252,5:401,6:123,7:6762,8:56,9:1075,10:24,11:5
+   avail lists: 1:2,2:1976,3:398,4:252,5:401,6:123,7:6754,8:56,9:1075,10:24,11:5
 81
  59760 multiletter control sequences out of 65536+600000
  60 fonts using 14922327 bytes
@@ -2789,7 +2789,7 @@ s/arialbd.ttf><C:/Users/josen/AppData/Local/Programs/MiKTeX/fonts/type1/public/l
 m/lmmi12.pfb><C:/Users/josen/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm
 /lmr12.pfb><C:/Users/josen/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/l
 msy10.pfb>
-Output written on Avali-Arena-Esportivas.pdf (23 pages, 2490311 bytes).
+Output written on Avali-Arena-Esportivas.pdf (23 pages, 2490141 bytes).
 
 PDF statistics: 460 PDF objects out of 1000 (max. 8388607)
  100 named destinations out of 1000 (max. 131072)
