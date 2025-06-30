@@ -1,0 +1,2635 @@
+%% This BibTeX bibliography file was created using BibDesk.
+%% http://bibdesk.sourceforge.net/
+
+%% => Para  modelos de bibtex procurar e VERBoSUS
+%% => Caso tenho o doi procurar em doi2.bib.org
+
+%%%%%%%%%%%%%%%%%%%%%%%%%Bibliography by JOSENEY %%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% METODOLOGIA CIENTIFICA 
+
+@book{Adu,
+	author    = {Adu, Philip and Miles, Anthony },
+	year      = {2021},
+	title     = {Dissertation Research Methods: A Step-by-Step Guide to Writing Up Your Reasearch in the Social Sciencies},
+	publisher = {Taylor \& Francis Group},
+	address   = {Baskerville, UK },
+	Edition     = {1},
+	isbn      = {97810033268154}
+}
+
+@book{Krishnaswamy,
+	author    = {Krishnaswamy, K. N. and Sivakumar, Appa Iver and Mathirajan, M },
+	year      = {2012},
+	title     = {Management Research Methodology: Integration of Principles, Methods and Techniques},
+	publisher = {Pearson Education },
+	address   = {New Delhi, India },
+	Edition     = {1},
+	isbn      = {97881131798811}
+}
+
+@book{Alpaydin,
+	author    = {Alpaydin,Ethem},
+	year      = {2014},
+	title     = {Introduction to Machine Learning},
+	publisher = {MIT Press},
+	address   = {Cambridge, Massachussetts},
+	Edition = {3},
+	isbn      = {978026202819}
+}
+
+@book{Grekousis,
+	author    = {Grekousis,George},
+	year      = {2020},
+	title     = {Spatial Analysis Methods and Practice: Describe - Explore - Explain though GIS},
+	publisher = {Cambridge  Press},
+	address   = {Cambridge },
+	Edition     = {1},
+	isbn      = {9781108498982}
+}
+
+@book{Clifford,
+	author    = {Clifford, Nicholas and French, Shaun and Valentine, Gil},
+	year      = {2010},
+	title     = { Key Methods in Geography },
+	publisher = {SAGE Publications Ltda},
+	Edition = {2},
+	isbn      = {9781412935098}
+}
+
+@book{Matthews,
+	author    = {Matthews, John A. },
+	year      = {1981},
+	title     = { Quantitative and Statistical Approaches to Geography: A Practical Manual },
+	publisher = {PERGAMAN Press},
+	edition =    {1},
+	isbn      = {0-08-024295-2}
+}
+
+% AMOSTRAGEM
+@book{Lohr,
+	author    = {Lohs, Sharon L.},
+	year      = {2022},
+	title     = { Sampling Design and Analysis },
+	publisher = {CRC Press},
+	Edition   = {3},
+	isbn      = {9780129298899}
+}
+
+
+@book{Bolfarine1,
+	author    = {Bolfarine, Heleno},
+	year      = {2005},
+	title     = { Elementos de amostragem },
+	publisher = {Blucher},
+	Edition = {4},
+	isbn      = {9788521203674}
+}
+% SIG
+%%%%=== SIG=====
+@book{Menno,
+author 		= {Menno, Jan Kraak ; Ormeling, Ferjan },
+year 		= {2010},
+Title		= {{\textbf{Cartography: Visualization of Geospatial Data} }},
+publisher 	= { Person Education Limited},
+edition 	= {3},
+isbn 		= { 978-0-273-72279-3},
+address 	= {London,United Kingdom},
+pages 	= { 249}
+}
+
+@book{Burroung,
+author = {Burroung, Peter A.; Mc Donnell, Rachael A.},
+year = {2009},
+Title= {{\textbf{Principles of Geopgraphical Information Systems}}},
+publisher = {Oxford Universitu Press},
+edition = {6},
+isbn = { 978-0-19-823365-7},
+address = {Oxford, New York},
+pages = { 353}
+}
+
+@Mastersthesis{camara,
+	Title                    = {Modelos, Linguagens e Arquiteturas para bancos de dados geograficos},
+	Author                   = {Camara, Gilberto},
+	Year                     = {1995},
+	File                     = {:/home/nsamarak/Bureau/docs_drone/S3Report_LOPEZDEVEGA.pdf},
+	Owner                    = {CAMARA},
+	School                   = {INPE},
+	Timestamp                = {1995.12.20}
+}
+
+@book{Ferreira,
+author = {Ferreira, Marcos C\'esar },
+year = {2014},
+Title= {{\textbf{Iniciaç\~ao a análise geoespacial: Teoria, T\'ecnica e exemplos para geoprocessamento}}},
+publisher = {Editora Unesp},
+edition = {3},
+isbn = { 978--85-393-0537-7},
+address = {S\~ao Paulo, SP},
+pages = { 347}
+}
+
+@book{Heywood,
+	author = {Heywood,Ian; Cornelius, Sarah; Carver,Steve },
+	year = {2006},
+   Title= {{\textbf{An Introduction to Geographical Information System}}},
+	publisher = {Pearson Education Limited},
+	edition = {3},
+	address = {Harlow, England},
+	booktitle = {Pearson},
+	isbn = {978-0-13-129317-5},
+	keywords = {Heywood},
+	pages = {465}
+}
+
+@book{straqhler,
+author = {Strahler, Alan; Merali, Zeeya},
+year = {2008},
+Title= {{\textbf{Visualizing Physical Geography}}},
+publisher = {John Wiley e Sons},
+edition = {1},
+isbn = {047009572-5},
+address = {Florida},
+pages = { 626}
+}
+
+@book{Demers,
+author 		= {DeMers, Michael N},
+year 			= {1999},
+Title			= {{\textbf{Fundamentais of Geographic Information Systems}}},
+publisher = {CRC Press},
+edition = {2},
+isbn = {0-471-31423-4},
+address = {John Wiley and Sons},
+pages = { 491}
+}
+
+@book{TOMLIM,
+author 		= {Tomlim, Dana C. },
+year 			= {2013},
+Title			= {{\textbf{ GIS and Cartographic Modeling }}},
+publisher = { Person Education },
+edition = {1},
+isbn = { 9781589483316},
+address = {New Jersey, UAS},
+pages = { 491}
+}
+
+@book{Smith,
+	author = { Smith, Michael J de; Goodchild, Michael F.; Longley, Paul A },
+	year = {2013},
+   Title= {{\textbf{Geospatial Analysis: A Comprehensive Guide to Principles, Techniques and Software Tools}}},
+	publisher = {Winchelsea Pres},
+	address = { Winchelsea, UK},
+	edition = {4},
+	pages = {60}
+}
+
+
+% Geoestatistica %  GEOESTATISTICA
+@book{Andriotti,
+	Author    =  {  Andriotti, Jose Leonardo Silva },
+	Title = {  Fundamentos de Estatistica e Geoestatistica },
+	Edition = {2},
+	Publisher = {Unisinos},
+	address = { Sao Leopoldo, RS, Brasil},
+	isbn = { 8574311715},
+	Year = {2009}
+}
+
+@book{Yamamoto,
+	Author    =  {  Yamamoto, Jorge Kazuo and Landin, Paulo M. Barbosa },
+	Title = {  Geoestatistica: Conceitos + aplicacoes  },
+	Edition = {1},
+	Publisher = {Oficina dos Textos },
+	address = { Sao Paulo, SP, Brasil},
+	isbn = { 9788579750779},
+	Year = {2013}
+}
+
+@book{Dormam,
+	Author    =  {  Dorman, Michael },
+	Title = {  Learnin R for Geospatial Analysis },
+	Edition = {1},
+	Publisher = { Packt Publishimn Ltda},
+	address = { Birmanghm , UK},
+	isbn = { 9781783984367},
+	Year = {2014}
+}
+
+@book{Webster,
+	Author    =  {  Webster, Richard and Oliver, Margaret },
+	Title = {  Geostatistics for Environmental Scientists },
+	Edition = {2},
+	Publisher = { Packt Publishimn Ltda},
+	address = { John Wily Sons , UK},
+	isbn = { 978047002858},
+	Year = {2007}
+}
+
+@book{Bivand,
+	Author    =  { Bivand, Roger S. and Pebesma, Edzer and Gomez-Rubio, Virgilio },
+	Title = { Applied Spatial Data Analysis with R },
+	Edition = {2},
+	Publisher = { Springer},
+	address = { London, UK},
+	isbn = { 9781461476177},
+	Year = {2013}
+}
+
+
+% SENSORIAMENTO REMOTO
+@book{Congalton,
+	Author    =  {  Congalton,Russel G and Green, Kass },
+	Title = {  \textbf{Assessing the Accuracy of Remotely Sensed Data : Principles and Practices}},
+	Edition = {2},
+	Publisher = {CRC Press},
+	isbn = {978-1-4200-5512-2},
+	Year = {2009}
+}
+
+@book{Chuvieco,
+	Author    =  { Chuvieco, Emilio S. },
+	Title = {  Teledeteccion Ambiental: La observacion de la Tierra},
+	Edition = {3},
+	address = { Barcelona, Espanha},
+	Publisher = {Ariel Ciencias},
+	isbn = {9788434480733},
+	Year = {2008}
+}
+
+
+@article{ESTES,
+	author    = "ESTES, J. E.",
+	year      = "1983",
+	title     = "Fundaments of Image Analysis: Analysis of Visible and Themar Infrared",
+	journal   = "Manual of Remote Sensing American Soxiety of Photogrammetry",
+	volume    = "volume (4)",
+	pages     = "362-368" 
+}
+
+@book{Wegmann,
+	author    = {Wegmann, M. Leutner and Dech, S },
+	year      = {2016},
+	title     = {Remote Sensing and GIS for Exologists: Usang Open Source  Software},
+	publisher = {Pelagic Publishing},
+	isbn      = {978178470285 }
+}
+
+@book{Lilesat,
+	author    = {Lillesand, Thomas M and Kiefe, R. },
+	year      = {2016},
+	title     = {Remote Sensing and Interpretation},
+	edition = {7},
+	address = {Hoboken, USA},
+	publisher = {John Wiley and Sons},
+	isbn      = {8781118343289 }
+}
+
+@book{meneses,
+	author    = {Meneses, Paulo Roberto and Almeira, Tati and Baptista, Gustavo Macedo de Mello },
+	year      = {2019},
+	title     = { Reflectância  dos Materiais Terrestres análise e interpretação},
+	edition = {1},
+	address = { Sao Paulo, Brasil},
+	publisher = {Oficina dos textos},
+	isbn      = {9788579753015}
+}
+
+@book{Liu,
+	author    = {Liu, Willian Tse Horng },
+	year      = {2015},
+	title     = {Aplicações de sensoriamento remoto},
+	publisher = {Oficina dos Textos},
+	isbn      = {8577040400}
+}
+
+@book{Jensensens,
+	author    = {Jensen, John R.},
+	year      = {1949},
+	edition = {2015},
+	volume = {4},
+	title     = { Introductory digital processing: a remote sensing perspective},
+	publisher = {Pearson Education, inc},
+	address = { University of South Carolina, USA},
+	isbn      = {9780134058160}
+}
+
+@book{JensenAmb,
+	author    = {Jensen, John R.},
+	year      = {2009},
+	title     = { Sensoriamento Remoto do Ambiente: uma perspectiva em recursos terrestres},
+	publisher = {Editora Parêntese},
+	isbn      = {9788560507061}
+}
+ 
+@book{Centeno,
+	author    = {Centeno, J. A. Silva},
+	year      = {2003},
+	title     = { Sensoriamento Remoto e Processamento de Imagens Digitais},
+	publisher = {Editora UFPR},
+	address = { Curitiba, PR -Brasil},
+	isbn      = {8535909559}
+}
+
+@book{Mutanga,
+	author    = {Kumar, Lalit and Mutanga, Onisimo},
+	year      = {2019},
+	title     = { Google Earth Engine Applications},
+	publisher = {MDPI},
+	address = {Basel, Switzerlan},
+	isbn      = {978303897775},
+	pages     = { 422}
+}
+
+@book{Cardille,
+	author    = {Cardille, Jeffrey A. and Crowley, Morgan A. and Saah, David and Clinton, Nicholas E.},
+	year      = {2024},
+	title     = { Cloud- Based Remote Sensing with Google Earth Engine: Fundamentals and Applications},
+	publisher = {Springer},
+	isbn      = {9783031265877},
+	pages     = { 1210}
+}
+
+@book{Sausen,
+	author    = { Sausen, Tania Maria and Lacruz, Maria Silvia Pardi },
+	year      = {2015},
+	title     = {  Sensoriamento Remoto para Desastres},
+	publisher = {Oficina de Textos},
+	address = {Sao Paulo, SP},
+	isbn      = {9788579751752}
+}
+
+@book{Schowengerdt,
+	author    = {Schowengerdt, Robert A.},
+	year      = {2007},
+	title     = { Remote Sensing Models and Methods for Image Processing},
+	publisher = {Elvier},
+	edition = {3},
+	address = { Tucson, Arizona, USA},
+	isbn      = {9780123694072}
+}
+
+@book{Liu,
+	author    = {Liu, Jian-Guo },
+	year      = {2009},
+	title     = {Essential Image Processing and GIS for Remote Sensing  },
+	publisher = { John Wiley Sons},
+	edition = {1},
+	address = { Garsington, Oxford, UK},
+	isbn      = {978470510322}
+}
+
+@book{Thekapbail,
+	author    = {Thenkabail, Prasad},
+	year      = {2016},
+	title     = {Land Resousces monitoring , modeling, and mapping with remote sensing  },
+	publisher = {CRC Press},
+	edition = {1},
+	address = { Boca Raton, FL, USA},
+	isbn      = {9781482217957}
+}
+
+
+% PDI
+@book{Crosta,
+	author    = {Crosta, Alvaro Penteado},
+	year      = {1993},
+	title     = { Processamento Digital de Imagens de Sensoriamento Remoto },
+	publisher = {Editora UNICAMP},
+	isbn      = {8585369027}
+}
+
+@book{Gonzalez,
+	author    = {Gonzalez, Rafael C.},
+	year      = {2010},
+	title     = { Processamento de Imagens Digitais},
+	publisher = {Prentice-Hall},
+	isbn      = {9788576054016}
+}
+
+@book{SCOTT,
+	author    = {Scott, Umbaugh E.},
+	year      = {2010},
+	title     = { DIGITAL IMAGE PROCESSING AND ANALYSIS},
+	publisher = {Taylor and Francis Group},
+	isbn      = {9781439802069}
+}
+
+@book{Dey,
+	author    = {Dey, Sandipan},
+	year      = {2018},
+	title     = { Hands-On Image Processing with Python},
+	publisher = {Packt Publishing},
+	isbn      = {9781789343731}
+}
+
+@book{Zanotta,
+	author    = {Zanotta, D. Z. et al},
+	year      = {2019},
+	title     = { Processamento de Imagens de Satélite },
+	publisher = {Oficina de Textos},
+	isbn      = {9788579753169}
+}
+
+
+@book{Petrou,
+	author    = {Petrou, Maria },
+	year      = {1999},
+	title     = {Imagem Processing: the fundamentals},
+	publisher = {John Wiley and Sons Ltd},
+	isbn      = {9780471998834 }
+}
+
+@book{Tanimoto,
+	author    = {Tanimoto, Steven },
+	year      = {2012},
+	title     = {An interdisciplinary introduction to image processing},
+	publisher = {Massachusetts Institute of Technology},
+	isbn      = {9780262017169}
+}
+
+% ESTATISTICA
+
+% R linguagem
+@article{Florencio,
+	author    = "Florencio, Lutemberg de Araujo",
+	year      = "2009",
+	title     = "Utilzação do Software (Gratuito) R na Engenharia de Avaliações",
+	journal   = "Cobreap XV",
+	volume    = "XV",
+	pages     = "32" 
+}
+
+% CARTOGRAFIA
+@book{Tyner,
+	author    = {Tyner, Judith A. },
+	year      = {2010},
+	title     = {Principles of map design},
+	publisher = {The GuilFord Press},
+	isbn      = {9781606235447}
+}
+
+ 
+@book{Slocum,
+	author = {Slocum, Terry; McMaster, Robert B.; Kessler, Fritz C. ; Howard, Hugh H.},
+	year = {2009},
+	Title= {{\textbf{Thematic Cartography and Visualization}}},
+	publisher = { Prentice-Hall},
+	edition = { 3},
+	isbn = {978-0-13-229834-6},
+	keywords = {Slocum},
+	address = {New Jersey},
+	pages = { 576}
+	}
+	
+@article{Peucker,
+	author    = "Peucker, Thomas K;Chrisman, Nicholas",
+	year      = "1975",
+   Title    = "\textbf{Cartographic Data Structures}",
+	journal   = "American Cartographer",
+	volume    = "2",
+	pages     = "55-69" 
+}
+
+	
+% FOTOGRAMETRIA
+
+@book{Bittencourt,
+	author    = {Andrade, José Bittencourt de   },
+	year      = {1998},
+	title     = {Fotogrametria },
+	publisher = {Editora SBEE},
+	isbn      = {8586180076}
+}
+
+@book{Anderson,
+	author    = {Anderson, Paul Simon },
+	year      = {1982},
+	title     = {Fundamentos para Fotointerpretação},
+	publisher = {Sociedade Brasileira de Cartografia},
+	address   = {Rio de Janeiro}
+}
+
+@book{Loch,
+	author    = {Loch, Carlos },
+	year      = {2008},
+	title     = {A interpretação de imagens aéreas: noções básicas e algumas aplicações nos campos profissionais},
+	publisher = {Editora da UFSC},
+	isbn      = {9788532804136}
+}
+
+@book{Brito,
+	author    = {Brito, Jorge Luís e Silva  },
+	year      = {2007},
+	title     = {Fotogrametria Digital },
+	publisher = {Editora da UERJ},
+	isbn      = {978857511114-7}
+}
+
+@book{Marchetti,
+	author    = {Marchetti, Delmar A.B  },
+	year      = {1998},
+	title     = { Princípios de Fotogrametria e Fotointerpretação },
+	publisher = {Editora Nobel},
+	isbn      = {8521304129}
+}
+
+@book{Wolf,
+	author    = {Wolf, Paul R. and Dewitt, B. A  },
+	year      = {2000},
+	title     = { Elements of Photogrammetrym with applications in GIS},
+	publisher = {McGrawHill},
+	isbn      = {9780071761116}
+}
+
+@book{KRAUS,
+	author    = {Kraus, K.},
+	year      = {2007},
+	title     = { Photogrammetry: Fundamentals and Standard Processes},
+	publisher = {Institute for Photogrannetry - Vienna Univertity of technology},
+	isbn      = {9783110190076}
+}
+
+%%%%%%%%%%% PERICIA AMBIENTAL %%%%%%%%%%%%%%%%%
+@book{Magri,
+	Author = { Magri, Paulo Palmieri and Marros, Jonas and Harcia, Marcela H. and Neto, Antonio Carvalho },
+	Editor     = {Magri, Paulo Palmieri and Seco, Victor Manoel Ventura },
+	year      = {2023},
+	title     = { Pericia Ambiental: expertises e abordagens ambientais},
+	subTitle = { \textbf{Incidência de àrea de Preservação Permanente em Terreno Urbano} },
+	publisher = {Leud Editora},
+		address   = {Sao Paulos, SP},
+	isbn      = {9788574564401}
+}
+
+@book{Arantes,
+	Author = {  Arantes, Carlos Augusto and Arantes, Carla},
+	year      = {2016},
+	title     = { Pericia Ambiental: Aspectos Técnicos e Legais},
+	publisher = { Boreal Editora},
+		edition = { 2},
+	 address   = {Birigui, SP },
+	isbn      = {9788599286562}
+}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@book{Sheskin,
+	author    = {Sheskin, David J. },
+	year      = {1981},
+	title     = { Handbook of parametric and nonparametric statistica procedures},
+	publisher = {Chapmam \& Hall - CRC}, 
+	address   = {Boca Raton , USA},
+	edition =    {3},
+	isbn      = {1-58488-440-1}
+}
+ 
+@article{Abreu,
+	author    = "Abreu, et al ",
+	year      = "2013",
+	title     = "Cloud Detection Tools - Uma ferramenta para a detecção de nuvens e sombras em imagens de satélite",
+	journal   = "Anais XVI Simpósio de Sensoriamento Remoto",
+	pages     = "4241" 
+}
+
+@article{Qiang,
+	author    = "Qiang Dong and Jinghong Liu",
+	year      = "2018",
+	title     = "Seamline  Determination Based on PKGC Segmentation Image Mosaicking",
+	journal   = "MDPI",
+	volume    = "volume (1)",
+	pages     = "2017121721" 
+}
+ 
+@book{Ariza,
+	author    = {Lopes, Francisco Javier Ariza },
+	year      = {2002},
+	title     = {Calidad en la Producción Cartográfica},
+	publisher = {ra-ma},
+	address   = {Madri, Espanha},
+	isbn      = {9788478975242}
+}
+
+@book{Barelli,
+	author    = {Barelli, Felipe },
+	year      = {1982},
+	title     = {Introdução à Visão Computacional: Uma abordagem prática com Python e OpenCv},
+	publisher = {Casa do Código},
+	isbn      = {9788594188571}
+}
+ 
+% TOPOGRAFIA
+
+@book{Lochcarlos,
+author = {Loch, Carlos },
+year = {1995},
+Title= {{\textbf{Topografia Comteporanea: Planimetria}}},
+publisher = { UFSC},
+edition = { 1},
+keywords = {loch},
+address = {Florianopolis, SC},
+pages = { 320 }
+}
+
+@book{Lelis,
+author = {Espartel,Lelis },
+year = {1978},
+Title= {{\textbf{Curso de Topografia}  }},
+publisher = {Globo},
+edition = { 6},
+keywords = {lelis},
+address = {Porto ALegre,RS},
+pages = { 706 }
+} 
+ 
+%%  VALORACAO
+@misc{IDAF,
+	author = {IDAF},
+	title = {{  Instituto de Defesa Agropecuária Florestal do Espírito Santo   }},
+	howpublished = "\url{ https://idaf.es.gov.br }",
+	note={\   Portal Simlam em módulo Publico url{ http://simlam.idaf.es.gov.br/Publico/areas/navegadores/mapa/IdafNavEmpreendimento.html /}},
+	year = {2021}, 
+	note = "[Online; accessed 24-Agosto-2021]"
+}
+
+@misc{INCAPER,
+	author =  {  INCAPER, },
+	title = {{   Instituto Capixaba de Pesquisa Assistência Técnica e Extensão Rural  }},
+	howpublished = "\url{https://meteorologia.incaper.es.gov.br/previsao-do-tempo-24hs/}",
+	year = {2021}, 
+	note = "[Online; accessed 24-Agosto-2021]"
+}
+
+@misc{IJSN,
+	author = {IJSN},
+	title = {{  Instituto Jones Santos Neves   }},
+	howpublished = "\url{http://www.ijsn.es.gov.br/}",
+	note={\   Portal Simlam em módulo Publico url{ http://www.ijsn.es.gov.br/mapas/}},
+	year = {2021}, 
+	note = {Online; accessed 24-Agosto-2021}
+}
+
+@misc{Geobases,
+	author = {Geobases},
+	title = {{  SISTEMA INTEGRADO DE BASES GEOESPACIAIS DO ESTADO DO ESPÍRITO SANTO   }},
+	howpublished = "\url{https://geobases.es.gov.br/}",
+	year = {2021}, 
+	note = "[Online; accessed 24-Agosto-2021]"
+}
+
+@misc{SEAMA,
+	author = { SEAMA,Secretária do Meio Ambiente e Recursos Hídricos},
+	title = {{  Atlas da Mata atlântica do estado do Espírito Santo: 2007-2008 e 2012-2025  }},
+	howpublished = "\url{https://seama.es.gov.br/atlas-da-mata-atlantica-es/}",
+	year = {2021}, 
+	note = "[Online; accessed 24-Agosto-2021]"
+}
+
+@misc{UFES,
+	author            = {UFES, Universidade Federal do Espírito Santo },
+	title                = {{  Laboratório de Meteorologia e Ecofisiologia Florestal }},
+	howpublished = "\url{https://lmef0.webnode.com/chuva/}",
+	year               = {2021}, 
+	note               = "[Online; accessed 24-Agosto-2021]"
+}
+
+@misc{POSTGIS,
+	author = {Postgis, PostGIS manual },
+	title = {{  PostGIS 3.1.4dev Manual DEV}},
+	howpublished = "\url{https://postgis.net/docs/}",
+	year = {2021}, 
+	note = "[Online; accessed 27-Agosto-2021]"
+}
+
+@techreport{NBR14653-3,
+	type = { . },
+	key = {ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS},
+	month = mar,
+	year = {2019},
+	title = {{ NBR14653-3: Avaliações de Bens - parte 3: Imóveis Rurais,   }},
+	volume = {2019},
+	address = {Rio de Janeiro, RJ},
+	institution = {ABNT}
+}
+
+ 
+%% Saved with string encoding Unicode (UTF-8) 
+
+%% %% Modificado 31-07-2015, Youssef Cherem: remoção de maiúsculas entre chaves, como {A}.
+
+
+@string{abntex.doc.header = {$Header: /home/cvsroot/abntex/texmf/bibtex/bib/abntex/abntex-doc.bib,v 1.1 2003/03/21 18:28:12 gweber Exp $}}
+
+
+@book{ibge1993,
+	Address = {Rio de Janeiro},
+	Author = {IBGE},
+	Date-Added = {2013-08-21 13:48:18 +0000},
+	Date-Modified = {2013-08-21 13:55:50 +0000},
+	Edition = {3},
+	Organization = {http://biblioteca.ibge.gov.br/visualizacao/livros/liv23907.pdf},
+	Publisher = {Centro de Documenta{\c c}{\~a}o e Dissemina{\c c}{\~a}o de Informa{\c c}{\~o}es. Funda{\c c}{\~a}o Intituto Brasileiro de Geografia e Estat{\'\i}stica},
+	Title = {Normas de apresenta{\c c}{\~a}o tabular},
+	Urlaccessdate = {21 ago 2013},
+	Year = {1993}}
+
+@manual{abntex2modelo-livro,
+	Annote = {Este documento {\'e} derivado do \cite{abnt-bibtex-doc}},
+	Author = {Youssef Cherem},
+	Date-Added = {2013-08-20 11:04:36 +0000},
+	Date-Modified = {2015-04-27 22:41:44 +0000},
+	Organization = {Equipe abnTeX2},
+	Title = {Modelo de Livro produzido com abnTeX2},
+	Url = {http://www.abntex.net.br/},
+	Year = {2015},
+	Bdsk-Url-1 = {http://www.abntex.net.br/}}
+
+@manual{NBR14724:2011,
+	Address = {Rio de Janeiro},
+	Date-Added = {2013-03-18 14:19:32 +0000},
+	Date-Modified = {2013-03-18 14:20:15 +0000},
+	Month = mar,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 15,
+	Subtitle = {Informa{\c c}\~ao e documenta{\c c}\~ao --- Trabalhos acad\^emicos --- Apresenta{\c c}\~ao},
+	Title = {{ABNT NBR} 14724:2011},
+	Year = 2011}
+
+@manual{NBR6024:2012,
+	Address = {Rio de Janeiro},
+	Date-Added = {2013-03-18 13:32:00 +0000},
+	Date-Modified = {2013-03-18 13:33:17 +0000},
+	Month = feb,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 4,
+	Subtitle = {Informa{\c c}\~ao e Documenta{\c c}\~ao - Numera{\c c}\~ao progressiva das se{\c c}\~oes de um documento - Apresenta{\c c}\~ao},
+	Title = {{ABNT NBR} 6024: 2012},
+	Year = 2012}
+
+@manual{abntex2modelo-glossario,
+	Author = {Lauro C{\'e}sar Araujo},
+	Date-Added = {2013-03-11 13:38:46 +0000},
+	Date-Modified = {2015-04-27 22:42:02 +0000},
+	Organization = {Equipe abnteX2},
+	Title = {Exemplo de uso de gloss{\'a}rio com abnTeX2},
+	Url = {http://www.abntex.net.br/},
+	Year = {2015},
+	Bdsk-Url-1 = {http://www.abntex.net.br/}}
+
+@manual{babel,
+	Author = {Johannes Braams},
+	Date-Added = {2013-02-17 14:07:33 +0000},
+	Date-Modified = {2013-02-17 14:07:33 +0000},
+	Month = {April},
+	Title = {Babel, a multilingual package for use with LATEX's standard document classes},
+	Url = {http://mirrors.ctan.org/info/babel/babel.pdf},
+	Urlaccessdate = {17.2.2013},
+	Year = {2008},
+	Bdsk-Url-1 = {http://mirrors.ctan.org/info/babel/babel.pdf}}
+
+@manual{oberdiek2011,
+	Author = {Heiko Oberdiek},
+	Date-Added = {2013-02-03 23:17:19 +0000},
+	Date-Modified = {2013-02-03 23:18:01 +0000},
+	Month = {dez},
+	Title = {The bookmark package},
+	Url = {https://www.ctan.org/pkg/bookmark},
+	Urlaccessdate = {27.2.2015},
+	Year = {2011}}
+
+@manual{enumitem,
+	Author = {Javier Bezos},
+	Date-Added = {2013-01-22 10:24:05 +0000},
+	Date-Modified = {2013-01-22 10:31:21 +0000},
+	Month = {9},
+	Organization = {CTAN},
+	Title = {Customizing lists with the enumitem package},
+	Url = {http://linorg.usp.br/CTAN/macros/latex/contrib/enumitem/enumitem.pdf},
+	Urlaccessdate = {22.1.2013},
+	Year = {2011},
+	Bdsk-Url-1 = {http://linorg.usp.br/CTAN/macros/latex/contrib/enumitem/enumitem.pdf}}
+
+@manual{abntex2modelo-projeto-pesquisa,
+	Annote = {Este documento {\'e} derivado do \cite{abnt-bibtex-doc}},
+	Author = {Lauro C{\'e}sar Araujo},
+	Date-Added = {2013-01-19 09:55:40 +0000},
+	Date-Modified = {2015-04-27 22:41:54 +0000},
+	Organization = {Equipe abnTeX2},
+	Title = {Modelo Can{\^o}nico de Projeto de pesquisa com abnTeX2},
+	Url = {http://www.abntex.net.br/},
+	Year = {2015},
+	Bdsk-Url-1 = {http://www.abntex.net.br/}}
+
+@manual{abntex2modelo-artigo,
+	Annote = {Este documento {\'e} derivado do \cite{abnt-bibtex-doc}},
+	Author = {Lauro C{\'e}sar Araujo},
+	Date-Added = {2013-01-15 00:08:47 +0000},
+	Date-Modified = {2015-04-27 22:41:58 +0000},
+	Organization = {Equipe abnTeX2},
+	Title = {Modelo Can{\^o}nico de Artigo cient{\'\i}fico com abnTeX2},
+	Url = {http://www.abntex.net.br/},
+	Year = {2015},
+	Bdsk-Url-1 = {http://www.abntex.net.br/}}
+
+@manual{abntex2modelo-relatorio,
+	Annote = {Este documento {\'e} derivado do \cite{abnt-bibtex-doc}},
+	Author = {Lauro C{\'e}sar Araujo},
+	Date-Added = {2013-01-15 00:06:21 +0000},
+	Date-Modified = {2015-04-27 22:41:51 +0000},
+	Organization = {Equipe abnTeX2},
+	Title = {Modelo Can{\^o}nico de Relat{\'o}rio T{\'e}cnico e/ou Cient{\'\i}fico com abnTeX2},
+	Url = {http://www.abntex.net.br/},
+	Year = {2015},
+	Bdsk-Url-1 = {http://www.abntex.net.br/}}
+
+@manual{DOI,
+	Address = {Oxford},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = feb,
+	Org-Short = {IDF},
+	Organization = {International DOI Foundation},
+	Title = {The {DOI} handbook},
+	Url = {doi:10.1000/182},
+	Year = 2003,
+	Bdsk-Url-1 = {doi:10.1000/182}}
+
+@manual{ISO4:1997,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Information and documentation --- Rules for the abbreviation of title words and titles of publications},
+	Title = {{ISO} 4:1997},
+	Year = 1997}
+
+@manual{ISO214:1976,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Documentation --- Abstracts for publications and documentation},
+	Title = {{ISO} 214:1976},
+	Year = 1976}
+
+@manual{ISO215:1986,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Documentation --- Presentation of contributions to periodicals and other serials},
+	Title = {{ISO} 215:1986},
+	Year = 1986}
+
+@manual{ISO639-1:2002,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Codes for the representation of names of languages --- Part 1: Alpha-2 code},
+	Title = {{ISO} 639-1:2002},
+	Year = 2002}
+
+@manual{ISO639-2:1998,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Codes for the representation of names of languages -- Part 2: Alpha-3 code},
+	Title = {{ISO} 639-2:1998},
+	Year = 1998}
+
+@manual{ISO690-2:1997,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Information and documentation --- Bibliographic references Part 2: Electronic documents or parts thereof},
+	Title = {{ISO} 690-2},
+	Url = {http://www.nlc-bnc.ca/iso/tc46sc9/standard/690-2e.htm},
+	Urlaccessdate = {31 mar. 2003},
+	Year = 1997,
+	Bdsk-Url-1 = {http://www.nlc-bnc.ca/iso/tc46sc9/standard/690-2e.htm}}
+
+@manual{ISO690:1987,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Information and documentation --- Bibliographic references --- Content, form and structure},
+	Title = {{ISO} 690:1987},
+	Url = {http://www.nlc-bnc.ca/iso/tc46sc9/standard/690-1e.htm},
+	Urlaccessdate = {31 mar. 2003},
+	Year = 1987,
+	Bdsk-Url-1 = {http://www.nlc-bnc.ca/iso/tc46sc9/standard/690-1e.htm}}
+
+@manual{ISO832:1994,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Information and documentation --- Bibliographic description and references --- Rules for the abbreviation of bibliographic terms},
+	Title = {{ISO} 832:1994},
+	Url = {http://www.nlc-bnc.ca/iso/tc46sc9/standard/832e.htm},
+	Urlaccessdate = {31 mar. 2003},
+	Year = 1994,
+	Bdsk-Url-1 = {http://www.nlc-bnc.ca/iso/tc46sc9/standard/832e.htm}}
+
+@manual{ISO999:1996,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Information and documentation --- Guidelines for the content, organization and presentation of indexes},
+	Title = {{ISO} 999:1996},
+	Url = {http://www.nlc-bnc.ca/iso/tc46sc9/standard/999e.htm},
+	Urlaccessdate = {31 mar. 2003},
+	Year = 1996,
+	Bdsk-Url-1 = {http://www.nlc-bnc.ca/iso/tc46sc9/standard/999e.htm}}
+
+@manual{ISO2108:1992,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Information and documentation --- International Standard Book Numbering ({ISBN})},
+	Title = {{ISO} 2108:1992},
+	Url = {http://www.nlc-bnc.ca/iso/tc46sc9/standard/2108e.htm},
+	Urlaccessdate = {31 mar. 2003},
+	Year = 1992,
+	Bdsk-Url-1 = {http://www.nlc-bnc.ca/iso/tc46sc9/standard/2108e.htm}}
+
+@manual{ISO2788:1986,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Documentation --- Guidelines for the establishment and development of monolingual thesauri},
+	Title = {{ISO} 2788:1986},
+	Year = 1986}
+
+@manual{ISO3297:1998,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Information and documentation --- International standard serial number ({ISSN})},
+	Title = {{ISO} 3297:1998},
+	Year = 1998}
+
+@manual{ISO3901:2001,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Information and documentation --- International Standard Recording Code ({ISRC})},
+	Title = {{ISO} 3901:2001},
+	Year = 2001}
+
+@manual{ISO5122:1979,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Documentation --- Abstract sheets in serial publications},
+	Title = {{ISO} 5122:1979},
+	Year = 1979}
+
+@manual{ISO5123:1984,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Documentation --- Headers for microfiche of monographs and serials},
+	Title = {{ISO} 5123:1984},
+	Year = 1984}
+
+@manual{ISO5963:1985,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Documentation --- Methods for examining documents, determining their subjects, and selecting indexing terms},
+	Title = {{ISO} 5963:1985},
+	Year = 1985}
+
+@manual{ISO5964:1985,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Documentation --- Guidelines for the establishment and development of multilingual thesauri},
+	Title = {{ISO} 5964:1985},
+	Year = 1985}
+
+@manual{ISO7154:1983,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Documentation --- Bibliographic filing principles},
+	Title = {{ISO} 7154:1983},
+	Year = 1983}
+
+@manual{ISO7220:1996,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Information and documentation --- Presentation of catalogues of standards},
+	Title = {{ISO} 7220:1996},
+	Year = 1996}
+
+@manual{ISO10324:1997,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Information and documentation --- Holdings statements --- Summary level},
+	Title = {{ISO} 10324:1997},
+	Year = 1997}
+
+@manual{ISO10444:1994,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Information and documentation --- International standard technical report number ({ISRN})},
+	Title = {{ISO} 10444:1994},
+	Year = 1994}
+
+@manual{ISO10957:1993,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Information and documentation --- International standard music number ({ISMN})},
+	Title = {{ISO} 10957:1993},
+	Url = {http://www.nlc-bnc.ca/iso/tc46sc9/standard/10957e.htm},
+	Urlaccessdate = {24 abr. 2003},
+	Year = 1993,
+	Bdsk-Url-1 = {http://www.nlc-bnc.ca/iso/tc46sc9/standard/10957e.htm}}
+
+@manual{ISO11108:1996,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Information and documentation --- Archival paper --- Requirements for permanence and durability},
+	Title = {{ISO} 11108:1996},
+	Year = 1996}
+
+@manual{ISO11798:1999,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Information and documentation --- Permanence and durability of writing, printing and copying on paper --- Requirements and test methods},
+	Title = {{ISO} 11798:1999},
+	Year = 1999}
+
+@manual{ISO15706:2002,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Information and documentation --- International Standard Audiovisual Number ({ISAN})},
+	Title = {{ISO} 15706:2002},
+	Url = {http://www.nlc-bnc.ca/iso/tc46sc9/standard/15706e.htm},
+	Urlaccessdate = {24 abr. 2003},
+	Year = 2002,
+	Bdsk-Url-1 = {http://www.nlc-bnc.ca/iso/tc46sc9/standard/15706e.htm}}
+
+@manual{ISO15707:2001,
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ISO},
+	Organization = {International Standards Organization},
+	Subtitle = {Information and documentation --- International Standard Musical Work Code ({ISWC})},
+	Title = {{ISO} 15707:2001},
+	Url = {http://www.nlc-bnc.ca/iso/tc46sc9/15707.htm},
+	Urlaccessdate = {24 abr. 2003},
+	Year = 2001,
+	Bdsk-Url-1 = {http://www.nlc-bnc.ca/iso/tc46sc9/15707.htm}}
+
+@manual{NBR6021:1994,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = oct,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 3,
+	Subtitle = {Apresenta{\c c}\~ao de peri\'odicos},
+	Title = {{NBR} 6021},
+	Year = 1994}
+
+@manual{NBR6022:1994,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = aug,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 2,
+	Subtitle = {Apresenta{\c c}\~ao de artigos em publica{\c c}\~oes peri\'odicos},
+	Title = {{NBR} 6022},
+	Year = 1994}
+
+@manual{NBR6022:2018,
+	Address = {Rio de Janeiro},
+	Month = may,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 2,
+	Subtitle = {Informa{\c c}\~ao e documenta{\c c}\~ao -- Artigo em publica{\c c}\~ao peri\'odica t\'ecnica e/ou cient\'ifica -- Apresenta{\c c}\~ao},
+	Title = {{NBR} 6022},
+	Year = 2018}
+
+@manual{NBR6023:2000,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = aug,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 22,
+	Subtitle = {Informa{\c c}\~ao e documenta{\c c}\~ao --- Refer\^encias --- Elabora{\c c}\~ao},
+	Title = {{NBR} 6023},
+	Year = 2000}
+
+@manual{NBR6023:2002,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = aug,
+	Note = {Substitui a Ref.~\citeonline{NBR6023:2000}},
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 24,
+	Subtitle = {Informa{\c c}\~ao e documenta{\c c}\~ao --- Refer\^encias --- Elabora{\c c}\~ao},
+	Title = {{NBR} 6023},
+	Year = 2002}
+
+@manual{NBR6024:1989,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = aug,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 2,
+	Subtitle = {Numera{\c c}\~ao progressiva das se{\c c}\~oes de um documento},
+	Title = {{NBR} 6024},
+	Year = 1989}
+
+@manual{NBR6025:2002,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = set,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 6,
+	Subtitle = {Informa{\c c}\~ao e documenta{\c c}\~ao --- Revis\~ao de originais e provas},
+	Title = {{NBR} 6025},
+	Year = 1989}
+
+@manual{NBR6026:1994,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = mar,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 2,
+	Subtitle = {Legenda bibliogr\'afica},
+	Title = {{NBR} 6026},
+	Year = 1994}
+
+@manual{NBR6027:1989,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = aug,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 2,
+	Subtitle = {Sum\'ario},
+	Title = {{NBR} 6027},
+	Year = 1989}
+
+@manual{NBR6028:1980,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Subtitle = {Resumos},
+	Title = {{NBR} 6028},
+	Year = 1980}
+
+@manual{NBR6028:1990,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = may,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 3,
+	Subtitle = {Resumos},
+	Title = {{NBR} 6028},
+	Year = 1990}
+
+@manual{NBR6029:2002,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = sep,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 9,
+	Subtitle = {Informa{\c c}\~ao e documenta{\c c}\~ao --- Livros e folhetos --- Apresenta{\c c}\~ao},
+	Title = {{NBR} 6029},
+	Year = 2002}
+
+@manual{NBR6032:1989,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = aug,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 14,
+	Subtitle = {Abrevia{\c c}\~oes de T{\'\i}tulos de peri\'odicos e publica{\c c}\~oes seriadas},
+	Title = {{NBR} 6032},
+	Year = 1989}
+
+@manual{NBR6033:1989,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = aug,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 5,
+	Subtitle = {Ordem alfab\'etica},
+	Title = {{NBR} 6033},
+	Year = 1989}
+
+@manual{NBR6034:1989,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = aug,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 3,
+	Subtitle = {Prepara{\c c}{\~a}o de {\'\i}ndice de publica{\c c}{\~o}es},
+	Title = {{NBR} 6034},
+	Year = 1989}
+
+@manual{NBR10520:1988,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = oct,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 3,
+	Subtitle = {Apresenta{\c c}\~ao de cita{\c c}\~oes em documentos --- Procedimentos},
+	Title = {{NBR} 10520},
+	Year = 1988}
+
+@manual{NBR10520:2001,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = jul,
+	Note = {Substitui a Ref.~\citeonline{NBR10520:1988}},
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 4,
+	Subtitle = {Informa{\c c}\~ao e documenta{\c c}\~ao --- Apresenta{\c c}\~ao de cita{\c c}\~oes em documentos},
+	Title = {{NBR} 10520},
+	Year = 2001}
+
+@manual{NBR10520:2002,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = aug,
+	Note = {Substitui a Ref.~\citeonline{NBR10520:2001}},
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 7,
+	Subtitle = {Informa{\c c}\~ao e documenta{\c c}\~ao --- Apresenta{\c c}\~ao de cita{\c c}\~oes em documentos},
+	Title = {{NBR} 10520},
+	Year = 2002}
+
+@manual{NBR10522:1988,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = oct,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 9,
+	Subtitle = {Abrevi{\c c}\~ao na descri{\c c}\~ao bibliogr\'afica},
+	Title = {{NBR} 10522},
+	Year = 1988}
+
+@manual{NBR10523:1988,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = oct,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 5,
+	Subtitle = {Entrada para nomes de l{\'\i}ngua portuguesa em registros bibliogr\'aficos},
+	Title = {{NBR} 10523},
+	Year = 1988}
+
+@manual{NBR10719:1989,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = aug,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 17,
+	Title = {Apresenta{\c c}\~ao de relat\'orios t\'ecnico-cient{\'\i}ficos},
+	Year = 1989}
+
+@manual{NBR12256:1992,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = apr,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 4,
+	Title = {Apresenta{\c c}\~ao de originais},
+	Year = 1992}
+
+@manual{NBR14724:2001,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = jul,
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 6,
+	Subtitle = {Informa{\c c}\~ao e documenta{\c c}\~ao --- trabalhos acad\^emicos --- apresenta{\c c}\~ao},
+	Title = {{NBR} 14724},
+	Year = 2001}
+
+@manual{NBR14724:2002,
+	Address = {Rio de Janeiro},
+	Date-Added = {2012-12-20 12:30:58 +0000},
+	Date-Modified = {2012-12-20 12:30:58 +0000},
+	Month = aug,
+	Note = {Substitui a Ref.~\citeonline{NBR14724:2001}},
+	Org-Short = {ABNT},
+	Organization = {Associa{\c c}\~ao Brasileira de Normas T\'ecnicas},
+	Pages = 6,
+	Subtitle = {Informa{\c c}\~ao e documenta{\c c}\~ao --- trabalhos acad\^emicos --- apresenta{\c c}\~ao},
+	Title = {{NBR} 14724},
+	Year = 2002}
+
+@manual{memoir,
+	Address = {Normandy Park, WA},
+	Author = {Peter Wilson and Lars Madsen},
+	Date-Added = {2012-12-20 01:04:36 +0000},
+	Date-Modified = {2013-03-21 11:57:49 +0000},
+	Organization = {The Herries Press},
+	Title = {The Memoir Class for Configurable Typesetting - User Guide},
+	Url = {http://mirrors.ctan.org/macros/latex/contrib/memoir/memman.pdf},
+	Urlaccessdate = {19.12.2012},
+	Year = {2010},
+	Bdsk-Url-1 = {http://ctan.tche.br/macros/latex/contrib/memoir/memman.pdf}}
+
+@manual{abntex2modelo,
+	Annote = {Este documento {\'e} derivado do \cite{abnt-bibtex-doc}},
+	Author = {Lauro C{\'e}sar Araujo},
+	Date-Added = {2012-12-20 00:53:31 +0000},
+	Date-Modified = {2015-04-27 22:41:48 +0000},
+	Organization = {Equipe abnTeX2},
+	Title = {Modelo Can{\^o}nico de Trabalho Acad{\^e}mico com abnTeX2},
+	Url = {http://www.abntex.net.br/},
+	Year = {2015},
+	Bdsk-Url-1 = {http://www.abntex.net.br/}}
+
+@manual{abntex2classe,
+	Annote = {Este documento substitui o \cite{abnt-classe-doc}},
+	Author = {Lauro C{\'e}sar Araujo},
+	Date-Added = {2012-12-19 13:08:40 +0000},
+	Date-Modified = {2015-04-27 22:42:11 +0000},
+	Organization = {Equipe abnTeX2},
+	Title = {A classe abntex2: Modelo can{\^o}nico de trabalhos acad{\^e}micos brasileiros compat{\'\i}vel com as normas ABNT NBR 14724:2011, ABNT NBR 6024:2012 e outras},
+	Url = {http://www.abntex.net.br/},
+	Year = {2015},
+	Bdsk-Url-1 = {http://www.abntex.net.br/}}
+
+@manual{abntex2cite-alf,
+	Annote = {Este documento {\'e} derivado do \cite{abnt-bibtex-alf-doc}},
+	Author = {Lauro C{\'e}sar Araujo},
+	Date-Added = {2012-12-19 13:08:00 +0000},
+	Date-Modified = {2015-04-27 22:41:33 +0000},
+	Organization = {Equipe abnTeX2},
+	Title = {O pacote abntex2cite: t{\'o}picos espec{\'\i}ficos da ABNT NBR 10520:2002 e o estilo bibliogr{\'a}fico alfab{\'e}tico (sistema autor-data},
+	Url = {http://www.abntex.net.br/},
+	Year = {2015},
+	Bdsk-Url-1 = {http://www.abntex.net.br/}}
+
+@manual{abntex2cite,
+	Annote = {Este documento {\'e} derivado do \cite{abnt-bibtex-doc}},
+	Author = {Lauro C{\'e}sar Araujo},
+	Date-Added = {2012-12-19 13:06:14 +0000},
+	Date-Modified = {2015-04-27 22:41:38 +0000},
+	Organization = {Equipe abnTeX2},
+	Title = {O pacote abntex2cite: Estilos bibliogr{\'a}ficos compat{\'\i}veis com a ABNT NBR 6023},
+	Url = {http://www.abntex.net.br/},
+	Year = {2015},
+	Bdsk-Url-1 = {http://www.abntex.net.br/}}
+	
+	
+
+@manual{abnt-bibtex-doc,
+	Author = {Gerald Weber},
+	Organization = {Grupo abnTeX},
+	Title = {Estilo bibtex compat{\'\i}vel com a `norma' 6023/2000 da {ABNT}},
+	Url = {http://abntex.codigolivre.org.br},
+	Year = {2003},
+	Bdsk-Url-1 = {http://abntex.codigolivre.org.br}}
+
+@manual{abnt-bibtex-alf-doc,
+	Author = {Gerald Weber},
+	Organization = {Grupo abnTeX},
+	Subtitle = {Quest\~oes espec{\'\i}ficas da `norma' 10520/2001},
+	Title = {Estilo bibtex compat{\'\i}vel com a `norma' 6023/2000 da {ABNT}},
+	Url = {http://abntex.codigolivre.org.br},
+	Year = {2003},
+	Bdsk-Url-1 = {http://abntex.codigolivre.org.br}}
+
+@manual{abnt-classe-doc,
+	Author = {Santini Frasson, Miguel Vin{\'\i}cius},
+	Date-Modified = {2013-02-04 12:04:50 +0000},
+	Organization = {Grupo abnTeX},
+	Subtitle = {confec{\c c}{\~a}o de trabalhos acad{\^e}micos em {\LaTeX} segundo as normas {ABNT}},
+	Title = {Classe {ABNT}},
+	Url = {http://abntex.codigolivre.org.br},
+	Year = {2002},
+	Bdsk-Url-1 = {http://abntex.codigolivre.org.br}}
+
+@manual{tabela-simbolos-doc,
+	Author = {Gerald Weber},
+	Organization = {Grupo abnTeX},
+	Title = {Tabelas de s{\'\i}mbolos usando makeindex},
+	Url = {http://abntex.codigolivre.org.br},
+	Year = {2003},
+	Bdsk-Url-1 = {http://abntex.codigolivre.org.br}}
+
+@manual{biblatex-abnt,
+	Author = {Daniel Ballester Marques},
+	Date-Added = {2018-06-12 08:42:14 +0000},
+	Date-Modified = {2018-06-12 08:42:38 +0000},
+	Organization = {Equipe abnTeX},
+	Title = {biblatex-abnt},
+	Url = {http://www.abntex.net.br/},
+	Year = {2018},
+	Bdsk-Url-1 = {http://mirrors.ctan.org/macros/latex/contrib/biblatex-contrib/biblatex-abnt/doc/biblatex-abnt.pdf}}
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%REDES NEURAIS %%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@book{Salim,
+	Address = {Cambridge-UK},
+	Author = {Heddam, Salim},
+	Publisher  = {Uni, McGill},
+	Isbn = {978-0-12-821285-1},
+	Keywords = {ezra poundd the cantos,zhao ziqiangd g uanzi},
+	Pages = {1--23},
+	Title = {\textbf{Handbook of Hydroinformatics Volume I:} Classic Soft-Computing Techniques},
+	subTitle = { Bat algoritm optimezed extreme learnin machine: A new modeling strategy for predictin river water turbidity at the United States },
+	Editor = {\textbf{Coord.} , Saeid and Eslamian, Faezeh},
+	Year = {2023}
+}
+ 
+@book{Montazeri,
+	Author = {Montazeri, Amir  and Emami, Sajad K. and Zaghiyan, Mohammad R. and Eslamian, Saeid},
+	Address = {Cambridge-UK},
+	Publisher  = {Uni, McGill},
+	Isbn = {978-0-12-821285-1},
+	Keywords = {ezra poundd the cantos,zhao ziqiangd g uanzi},
+	Pages = {1--23},
+	Title = {\textbf{Handbook of Hydroinformatics Volume I:} Classic Soft-Computing Techniques},
+	SubTitle = {\textbf{ Bat algoritm optimezed extreme learnin machine: A new modeling strategy for predictin river water turbidity at the United States }},
+	Editor = {\textbf{Coord.} , Saeid and Eslamian, Faezeh},
+	Year = {2023}
+}
+
+@book{Kneale,
+	Address = {London, UK},
+	ArchivePrefix = {arXiv},
+	ArxivId = {arXiv:1011.1669v3},
+	Author = {Kneale, Pauline E. and See, LInda},
+	Editor = {\textbf{Coord.} , Abrahart, Robert J},
+	Booktitle = {A.A. Balkema Pulishers},
+	Eprint = {arXiv:1011.1669v3},
+	Isbn = {0-203-02411-7},
+	Issn = {10960309},
+	Edition = {2},
+	Keywords = {redes neurais},
+	Number = {1},
+	Pages = {1--5},
+	Pmid = {942051},
+	Title = {{\textbf{NEURAL NETWORKS FOR HYDROLOGICAL MODELLING}}},
+	subTitle = { Neural Network Modelling: Basic Tools and Broader Issues },
+	Volume = {11},
+	Year = {2004}
+}
+
+@book{DAWSON,
+	Address = {London, UK},
+	ArchivePrefix = {arXiv},
+	ArxivId = {arXiv:1011.1669v3},
+	Author = { Dawson, Christian W. and ilby, Robert L.},
+	Editor = {\textbf{Coord.} , Abrahart, Robert J},
+	Booktitle = {A.A. Balkema Pulishers},
+	Eprint = {arXiv:1011.1669v3},
+	Isbn = {0-203-02411-7},
+	Issn = {10960309},
+	Edition = {2},
+	Keywords = {redes neurais},
+	Number = {1},
+	Pages = {1--5},
+	Pmid = {942051},
+	Title = {{\textbf{NEURAL NETWORKS FOR HYDROLOGICAL MODELLING}}},
+	subTitle = { Single Networks Modelling Solutions },
+	Volume = {11},
+	Year = {2004}
+}
+
+@book{Gharehbaghi,
+	Address = {London, UK},
+	Author = {Gharehbaghi, Arash Gharehbaghi},
+	Publisher  = { CRC Press},
+	Isbn = {978-0-429-32125-2},
+	Keywords = {Conholi},
+	Pages = { 208},
+	Edition = {1},
+	Title = {\textbf{Deep Learnin in Time Series Analysis}  },
+	Year = {2023}
+}
+
+@book{LEWIS,
+	Address = { },
+	Author = {Lewis,N.D},
+	Publisher  = {  },
+	Isbn = { 978-1544752652},
+	Keywords = { },
+	Pages = { 227},
+	Edition = {1},
+	Title = {\textbf{Neural Networks for Time Series Forecasting with R}  },
+	Year = {2017}
+}
+
+@book{Conholi,
+	Address = {S\~ao Paulo},
+	Author = {Canholi, Alisio Pardo},
+	Publisher  = {Oficina dos Textos},
+	Isbn = {978-85-7975-160-8},
+	Keywords = {Conholi},
+	Pages = { 383},
+	Edition = {2 reimpress\~ao},
+	Title = {\textbf{Drenagem urbana e controle de enchentes }  },
+	Year = {2020}
+}
+
+@book{Moretti,
+	Address = {S\~ao Paulo},
+	Author = {Moretti, Pedro A.},
+	Publisher  = { Blucher},
+	Isbn = {978-85-212-0389-6},
+	Keywords = {Conholi},
+	Pages = { 545},
+	Edition = {2},
+	Title = {\textbf{ Analise de Séries Temporais}  },
+	Year = {2006}
+}
+
+@book{BOX,
+	Author = {Box, George E. P. and Jenkins, Gwilym M. and Reinsel, Gregory C. },
+	Publisher  = { John Wiley \& Sons },
+	Isbn = {978-0-470-27284-8},
+	Pages = { 756},
+	Edition = {4},
+	Title = {\textbf{ Time Series Analysis Forecasting and Control}   },
+	Year = {2008}
+}
+
+@book{Athanasopoulos,
+	Author = {Hyndman, Rob J  and Athanasopoulos, George },
+	Publisher  = { Texts, },
+	Isbn = {978-0-9875071-0-5},
+	Pages = { 545},
+	Edition = {1},
+	Title = {\textbf{ Forecasting Principles and Practice}   },
+	Year = {2014}
+}
+
+@book{Heydt,
+	Address = { Birmangham- UK},
+	Author = {Heydt, Michael},
+	Publisher  = { Pack Publishing},
+	Isbn = {978-1-78398-510-4},
+	Keywords = {Conholi},
+	Pages = { 298},
+	Edition = {1},
+	Title = {\textbf{ Master pandas for Finance Master pandas, an open source Python Data Analysis Library, for financial data analysis}   },
+	Year = {2015}
+}
+
+@book{Nielsen,
+	Address = {Boston, U.S.A},
+	Author = {Nielsen, Aileen},
+	Publisher  = { O'Reilly },
+	Isbn = {978-14920416558},
+	Keywords = {neisen},
+	Pages = { 545},
+	Edition = {2},
+	Title = {\textbf{ Practical Time Series Analysis Prediction ith Statistics end Machine Leaning } },
+	Year = {2019}
+}
+
+@book{Jabor,
+	Address = {S\~ao Paulo},
+	Author = {Jabor, Marcos Augusto},
+	Keywords = {Jabor},
+	Pages = { 198},
+	Title = {\textbf{ Drenagem de rodovias:Estudos hidrológicos e projetos de drenagem }  },
+	Year = {2023}
+}
+
+
+@book{Hasdiana2018,
+Address = {London, UK},
+ArchivePrefix = {arXiv},
+ArxivId = {arXiv:1011.1669v3},
+Author = {Abrahart, Robert J. and Kneale, Pauline E. and See, Linda M.},
+Booktitle = {A.A. Balkema Pulishers},
+Eprint = {arXiv:1011.1669v3},
+Isbn = {0-203-02411-7},
+Issn = {10960309},
+Edition = {2},
+Keywords = {redes neurais},
+Number = {1},
+Pages = {1--5},
+Pmid = {942051},
+Title = {{\textbf{NEURAL NETWORKS FOR HYDROLOGICAL MODELLING}}},
+Volume = {11},
+Year = {2004}
+}
+
+@book{Pereira,
+	Address = {Porto Alegre - RS - Brasil},
+	Author = {Pereira, Rivadavia S.},
+	Edition = {1},
+	Publisher = {Grafosul},
+	Title = {\textbf{A estatistica e suas aplica{\c c}\~oes}},
+	Isbn = {},
+	Year = {1978}}
+
+@book{Gujarati,
+	Address = {S\~ao Paulo-SP},
+	Author = {Gujarati, Damodar N.},
+	Edition = {3},
+	Publisher = {Pearson Makron Books},
+	Title = {\textbf{Econometria Básica}},
+	Isbn = {85-346-111-4},
+	Year = {2000}}
+
+@book{AileenNielsen2017,
+Address = {Birmingham},
+Author = {Pal, Avishek and Prakash, PKS},
+Publisher  = {Packt Publishing},
+file = {:D$\backslash$:/DROPBOX/Dropbox/M{\_}MENDELEY/PAL,PRAKASH=Practical time series analysis master time series data processing, visualization, and modeling using Python.pdf:pdf},
+isbn = {9781788290227},
+pages = {238},
+Title = {{\textbf{Practical Time Series Analysis}}},
+year = {2017}
+}
+
+@book{Stocks2016,
+Address = {Cambridge-UK},
+Author = {Eslaminian, Saeid and Eslamian, Faezeh},
+Publisher  = {Uni, McGill},
+file = {:D$\backslash$:/DROPBOX/Dropbox/M{\_}MENDELEY/ESLAMIAN=Handbook of HydroInformatics Volume I Classic Soft-Computing Techniques.pdf:pdf},
+Isbn = {978-0-12-821285-1},
+Keywords = {ezra poundd the cantos,zhao ziqiangd g uanzi},
+Pages = {1--23},
+Title = {{\textbf{Handbook of Hydroinformatics} Volume I: Classic Soft-Computing Techniques}},
+Year = {2023}
+}
+
+@book{bueno,
+Address = {S\~ao Paulo},
+Author = {Bueno,Rodrigo de Losso da Silveira},
+editor = {Cengale},
+isbn = {978-8522111572},
+keywords = {bueno},
+pages = {1--23},
+Title = {{\textbf{Econometria de Séries Temporais}}},
+year = {2011}
+}
+
+@book{MachiwalDeepeshJha2017,
+Address = {New Delhi -India},
+archivePrefix = {arXiv},
+arxivId = {arXiv:1011.1669v3},
+Author = {{Machiwal, Deepesh Jha}, Madan Kumar},
+Publisher  = {Springer},
+eprint = {arXiv:1011.1669v3},
+file = {:D$\backslash$:/DROPBOX/Dropbox/M{\_}MENDELEY/MACHIWAL,JHA=Hydrologic Time Series Analysis Theory and Practice.pdf:pdf},
+isbn = {978-94-007-1860-9},
+number = {1},
+pages = {51--66},
+pmid = {25246403},
+Title = {{\textbf{Hydrologic Time Series Analysis: Theory and Practice}}},
+volume = {6},
+year = {2012}
+}
+
+@book{tucci,
+	Address = {Porto Alegre},
+	Author = {Tucci, Carlos E.},
+	Edition = {2},
+	Publisher = {ABRH-UFRGS},
+	Title = {\textbf{Hidrologia: Ciencia e Aplica{\c c}\~ao}},
+	isbn = {978-85-7025-298-6},
+	Year = {2001}
+	}
+
+
+
+@book{tucci2005,
+	Address = {Porto Alegre},
+	Author = {Tucci, Carlos E.},
+	Edition = {2},
+	Publisher = {ABRH-UFRGS},
+	Title = {\textbf{Modelos Hidrológicos} },
+	isbn = { 978-85- 7025-82302},
+	Year = {2005}}
+
+@thesis{sa,
+	Author = {Josete De  Fatima de Sá},
+	Title = {\textbf{Integra{\c c}\~ao de Modelo Distribuido e Geoprocessamento}},
+	type = {Tese de Mestrado},
+	institution = {UFRGS},
+	date = {1995},
+	Year = {1995},
+	OPTsubTitle = {subTitle},
+	OPTTitleaddon = {Titleaddon},
+	OPTlanguage = {language},
+	OPTnote = {note},
+	OPTlocation = {location},
+	OPTmonth = {month},
+	OPTisbn = {isbn},
+	OPTchapter = {chapter},
+	OPTpages = {pages},
+	OPTpagetotal = {pagetotal},
+	OPTaddendum = {addendum},
+	OPTpubstate = {pubstate},
+	OPTdoi = {doi},
+	OPTeprint = {eprint},
+	OPTeprintclass = {eprintclass},
+	OPTeprinttype = {eprinttype},
+	OPTurl = {url},
+	OPTurldate = {urldate},
+}
+
+
+@book{tucci2017,
+	Address = {Porto Alegre},
+	Author = {Tucci, Carlos E.},
+	Edition = {1},
+	Publisher = {ABRH-UFRGS},
+	Title = {\textbf{Regionaliza{\c c}\~ao de vaz\~oes} },
+	isbn = { 978-85-88686-40-3},
+	Year = {2017}}
+
+@book{Mijares,
+	Address = {Balderas, Mexico},
+	Author = {Mijares, Francisco J. Aparicio},
+	Edition = {1},
+	Publisher = {LIMUSA},
+	Title = {\textbf{Fundamentos de Hidrologia de Superficie} },
+	isbn = {  968-18-3914-8},
+	Year = {1992}}
+
+@book{Collischann,
+	Address = {Porto Alegre},
+	Author = { Collishann, Walter; Dorneles, Fernando },
+	Edition = {1},
+	Publisher = {ABRH-UFRGS},
+	Title = {\textbf{Hidrologia para Engenharia e Ciências Ambientais} },
+	isbn = { 978-85-88686-40-3},
+	Year = {2013}}
+
+@book{Harrington,
+	Address = {Shelter Island, NY, EUA},
+	Author = { Harrington, Peter},
+	Edition = {1},
+	Publisher = {Manning},
+	Title = {\textbf{Machine Learning in Action} },
+	isbn = { 9781617290183},
+	Year = {2012}}
+	
+@book{Mohri,
+	Address = {Cambridge, Massachusetts, EUA},
+	Author = { Mohri, Mehryar; Rostanuzadeh, Afshin; Talwalkar, Ameet},
+	Edition = {2},
+	Publisher = {MIT  Press},
+	Title = {\textbf{Foundations of Machine Learning } },
+	isbn = { 978 654321},
+	Year = {2018}}	
+
+@book{Wolf,
+	Address = {Cambridge, Massachusetts, EUA},
+	Author = { Wolf, Andrew},
+	Edition = {2},
+	Publisher = {MIT  Press},
+	Title = {\textbf{Machine Learning Simplified}},
+	isbn = { 978 654321},
+	Year = {2022}}	
+
+@book{Singh,
+	Address = { "Raipur , India"},
+	Author = { "Singh Pradeep"},
+	Edition = {2},
+	Publisher = {Wiley },
+	Title = {\textbf{Fundamentls and Methods of Machine and Deep Learning}},
+	isbn = { 978 -1-119-82125-0},
+	Year = {2022}}	
+
+
+@article{Akaike1974,
+author = "Akaike, Hirotugu",
+doi = "10.1109/TAC.1974.1100705",
+file = ":D$\backslash$:/DROPBOX/Dropbox/M{\_}MENDELEY/tac.1974.1100705.pdf:pdf",
+issn = "15582523",
+journal = "IEEE Transactions on Automatic Control",
+number = "6",
+pages = "716--723",
+title = "\textbf{A New Look at the Statistical Model Identification}",
+volume = "19",
+year = "1974"
+}
+
+@article{Rissanen1978,
+	abstract = {The number of digits it takes to write down an observed sequence x1, ..., xN of a time series depends on the model with its parameters that one assumes to have generated the observed data. Accordingly, by finding the model which minimizes the description length one obtains estimates of both the integer-valued structure parameters and the real-valued system parameters. {\textcopyright} 1978.},
+	author = {Rissanen, J.},
+	doi = {10.1016/0005-1098(78)90005-5},
+	file = {:D$\backslash$:/DROPBOX/Dropbox/M{\_}MENDELEY/0005-1098(78)90005-5.pdf:pdf},
+	issn = {00051098},
+	journal = {Automatica},
+	keywords = {Modeling,identification,parameter estimation,statistics,stochastic systems},
+	number = {5},
+	pages = {465--471},
+	title = {{\textbf{Modeling by shortest data description}}},
+	volume = {14},
+	year = {1978}
+}
+ 
+
+@article{Ebrahimian,
+	Author    = "Ebrahimian, M.; See, L.; Abdul Malek, I.",
+	year      = "2009",
+	Title     = "Applicalion of Natural Resource Conservation Service - curve number method for runoff estimation wilh SIG in the Kardeh watershed  , Iran",
+	journal   = "European Journal of Seientific Research",
+	volume    = "34",
+	pages     = "575-590. 2009" 
+}
+
+@article{Nunes,
+	Author    = "Nunes, F. G.; Fiori, A. P.",
+	year      = "2007",
+	Title     = " \textbf{A utilizaç\~o do método de Ven Te Chow - Soil Conservation Service (SCS) na estimativa da vaz\~ao máxima da bacia hidrográfica do rio Atuba}",
+	journal   = "Geografar",
+	volume    = "2",
+	pages     = "139-155" 
+}
+
+@article{Morsch,
+	Author    = "M.R.Morsch.;JJ Mascaro ",
+	year      = "2017",
+	Title     = "\textbf{ Sustentabitidade Urbana: Recupera{\c c}\~ao dos rios como um dos princípios da infraestrutura verde}.",
+	journal   = " Ambiente Construído",
+	volume    = "17",
+	pages     = "p.305-321" 
+}
+
+@article{Matalas,
+	Author    = "Matalas, N. C",
+	year      = " 1967",
+	Title     = "\textbf{ Time Series Analysis}.",
+	journal   = "Water Resousces Research",
+	volume    = "3",
+	pages     = "p.817-829" 
+}
+
+@article{Yevjavich,
+	Author    = "Yevjavich, Vujica",
+	year      = " 1974",
+	Title     = "\textbf{ Determinism and Stochasticity in Hydrology}.",
+	journal   = " Jornal of hidrology",
+	volume    = "22",
+	pages     = "p.225-238" 
+}
+
+
+@article{Lorrai,
+	Author    = "Lorrai, M; Sechi, G. M.",
+	year      = "1995",
+	Title     = "\textbf{Neural nets for modelling rainfall-runoff transformations}",
+	journal   = "Water Resources Management",
+	volume    = "9",
+	pages     = "299-313" 
+}
+
+@online{hidrologia,
+        Title = \textbf{{Hidrologia Avançada}  },
+        date = {2023},
+        	Year = {2023}, 
+        organization = {Youtube},
+        Author = {HIdrologia UFC - Prof. Assis Filho},
+        url = {  https://www.youtube.com/watch?v=3b6bfoUAAyo&t=356s  },
+    }
+
+
+	@article{Lorrai1995,
+	Author = {Lorrai, M. and Sechi, G. M.},
+	doi = {10.1007/BF00872489},
+	file = {:D$\backslash$:/DROPBOX/Dropbox/M{\_}MENDELEY/bf00872489.pdf:pdf},
+	issn = {09204741},
+	journal = {Water Resources Management},
+	keywords = {hydrology,neural networks,rainfall-runoff models},
+	number = {4},
+	pages = {299--313},
+	Title = {{\textbf{Neural nets for modelling rainfall-runoff transformations}}},
+	volume = {9},
+	year = {1995}
+	}
+
+	@book{Haan1977,
+	Author = {Haan, Charles T.},
+	Publisher  = {The Iowa State University Press},
+	file = {:D$\backslash$:/DROPBOX/Dropbox/M{\_}MENDELEY/HAAN,Charles=Statistical-Methods-in-Hydrology.pdf:pdf},
+	Title = {{\textbf{Statistical Methods in Hydrology}}},
+	Address = {Ammes, Iowa},
+	edition = {1},
+	year = {1977}
+	}
+	
+
+@book{Peixeiro,
+Address = {Shelter Island, NY},
+Author = {Peixeiro, Marco},
+Edition = {1},
+Publisher= {Manning Publications},
+Title = {{\textbf{Time Series Forecasting in Python}}},
+file = {:D$\backslash$:/DROPBOX/Dropbox/M{\_}MENDELEY/PEIXEIRO,Marcco=Time Series Forecasting in Python.pdf:pdf},
+isbn = {978-1617299889},
+pages = {456},
+year = {2022}
+}
+
+@book{Vishwas2020,
+Address = {Bengaluru, India},
+Author = {Vishwas, B V and PATEL, ASHISH},
+Publisher  = {APRESS},
+doi = {10.1007/978-1-4842-5992-4},
+file = {:D$\backslash$:/DROPBOX/Dropbox/M{\_}MENDELEY/VISHWAS,PATEL=Hands-on Time Series Analysis With Python From Basics To Bleeding Edge Techniques.pdf:pdf},
+isbn = {9781484259917},
+Address = {Bengaluru, India},
+Title = {{\textbf{Hands-on Time Series Analysis with Python}}},
+year = {2020}
+}
+
+@book{Ny2023,
+Address = {New York},
+Author = {Meylan, Paul and Favre, Anne-Catherine and Musy, Andre},
+Publisher  = {CRC Press},
+file = {:D$\backslash$:/DROPBOX/Dropbox/M{\_}MENDELEY/MAYLAN,FAVRE,MUSY=Predictive hydrology a frequency analysis approach(2).pdf:pdf},
+isbn = {9781439883419},
+pages = {219},
+Title = {{\textbf{Predictive Hydrology A Frequency Analysis Approach}}},
+Address = { NY, EUA},
+year = {2011}
+}
+
+%%%%%%%%%%%%%%%%%%%% MODELO DE TERRENO %%%%
+
+
+@Article{Martinelli,
+	author    = "Martinelli, Gustavo",
+	year      = "2007",
+   Title    = "\textbf{Mountain biodiversity in Brazil}",
+	journal   = "Revista Brasileira de Botanica",
+	pages     = "587-597" 
+}
+
+@article{Chaverri-Polini,
+	author    = "Chaverri-Polini,A",
+	year      = "1998",
+   Title    = "\textbf{Mountains, biodiversity and Conservation}",
+	journal   = "Unasyla 195",
+	pages     = "23-33" 
+}
+
+@book{Melo,
+	author = {Oliveira, Fabiano Melo Gonçalves de },
+	year = {2017},
+   Title= {{\textbf{Direito Ambiental}}},
+	publisher = {Florense},
+	address = {S\~ao Paulo, SP},
+	booktitle = {Forense},
+	isbn = {978-85-309-7566-1},
+	keywords = {melo},
+	pages = {822}
+}
+
+@book{Bierman,
+	author = { Birerman, Paul R.; Montgomrey, David R. },
+	year = {2014},
+   Title= {{\textbf{Key Concepts in Geomorphology}}},
+	publisher = {W.F. Freeman and Company Publishers},
+	address = {New Yoork, Ny},
+	edition = {4},
+	isbn = {978-1.42292-3892-3860-1},
+	pages = {532}
+}
+
+@book{Reddy,
+	author = { Reddy, M. Anji },
+	year = {2008},
+   Title= {{\textbf{Textbook of Remote Sensing and Geographical Information System}}},
+	publisher = {BS Publications},
+	address = {Giriraj Lane,Sultan Bazar, India},
+	edition = {3},
+	isbn = {978-81-7800-135-7},
+	pages = {478}
+}
+
+@book{Petersen,
+	author = {Petersen, James F.; Sack, Dorothy; Gabler, Robert E.},
+	year = {2011},
+   Title= {{\textbf{Fundaments of Physical Geography}}},
+	publisher = {Cengage},
+	address = {Belmont, CA,USA},
+	edition = {1},
+	isbn = {978-0-538-73463-9},
+	pages = {499}
+}
+
+@book{Christopherson,
+	author = {Christopherson, Robert W.; Birkeland, Ginger H.},
+	year = {2016},
+   Title= {{\textbf{Fundaments of Physical Geography}}},
+	publisher = {Pearson},
+	address = {Toronto, CA},
+	edition = {4},
+	isbn = {978-0-13-345-522-1},
+	pages = {750}
+}
+
+@book{Sala,
+	author = { Sala, Maria; Batalha Ramon J. },
+	year = {1999},
+   Title= {{\textbf{Teoria y metodos en Geografia Fisica}}},
+	publisher = {Editorial Sintesis},
+	address = { Madri , ES},
+	edition = {1},
+	pages = {302}
+}
+
+@book{Felgueiras,
+	author = { Felgueiras, Carlos A.; Camara, Gilberto },
+	year = {2002},
+   Title= {{\textbf{Modelagem Numerica de Terreno}}},
+	publisher = {INPE},
+	address = { Sao Jose dos Campos ,SP, Brasil},
+	edition = {1},
+	howpublished = "\url{http://www.dpi.inpe.br/gilberto/livro/introd/cap7-mnt.pdf}",
+	note = "[Online; accessed 04-abril-2023]"
+	pages = {36}
+}
+
+
+@book{Singh,
+	author = { Singh, Vijay P. },
+	year = {2017},
+   Title= {{\textbf{Handbookof Applied Hydrology}}},
+	publisher = {Mc Graw Hill},
+	address = { New York},
+	isbn = {978-0-07-1835509-1},
+	edition = {2},
+	pages = {1383}
+}
+
+@MISC{Maizlish,
+	author =       {Maizlish, A},
+   Title=        {\textbf{Prominence and orometrics: a study of the measurement of mountains}},
+	year =         {2013},
+	howpublished = "\url{http:// www.peaklist.org/theory/theory.html}",
+	note = "[Online; accessed 04-abril-2023]"
+}
+
+@MISC{Stalliviere,
+	author =       {Stalliviere, Iran Carlos c.},
+   Title=        {\textbf{Proeminencia topografica}},
+	year =         {2010},
+	howpublished = "\url{http://igeo.ufrgs.br/museudetopografia/images/acervo/artigos/Proeminncia_Topografica.pdf}",
+	note = "[Online; accessed 04-abril-2023]"
+}
+
+@article{Ioan,
+	author    = "Ioan , Bica",
+	year      = "2012",
+   Title    = "\textbf{The prominence of the peaks from rodnei mountains (romania) with relevance for mountaineering. Methodological and practical aspects}",
+	journal   = "Studia Universitatis Babeş-Bolyai Educatio Artis Gymnasticae",
+	doi = "10.24193/subbeag.64(3).25",
+	pages     = "89-104" 
+}
+
+@article{Telma,
+	author    = "da Silva , Telma Mendes",
+	year      = "2007",
+   Title    = "\textbf{Mapeamentos geomorfologicos: escalas, aplicacoes e tecnicas de compartimentacao do relevo}.",
+	journal   = "Gale Academic OneFile",
+	doi = "10.24193/subbeag.64(3).25",
+	pages     = "89-104" 
+}
+
+@Article{Schmidt,
+	author    = "Schmidt , Andreas ; Stumme,Gerd ",
+	year      = "2018",
+   Title    = "\textbf{Prominence and Dominance in Networks}",
+	journal   = "Knowledge Engineering and Knowledge Management",
+	doi = "10.1007/978-3-030-03667-6_24",
+	pages     = "16" 
+}
+
+@Article{kelli,
+	author    = "Tonello, Kelly Cristina; Cardoso, Christiany Araújo; Dias, Herly Carkis Teixeira; Alves, Marcelo Rodrigo; Oliveira Juniior, Jos\'e Carlos de",
+	year      = "[s.d]",
+   Title    = "\textbf{As \'Area de preservaç\~ao permanente e sua importância para o manejo de bacias hidrográficas na zona da mata mineira}",
+	journal   = "[s.d.]",
+	pages     = "[s.p]" 
+}
+
+@article{Natural-Hazards,
+	author    = "Landslide... ",
+	year      = "2012",
+   Title    = "\textbf{Landslide susceptibility mapping using GlS-based statistical models in Rio de Janeiro state (Brazil)}",
+	journal   = "Natural Hazards",
+	pages     = "[s.p]" 
+}
+
+@article{Gagnon,
+	author    = "Gagnon, J; 	Lovejoy, S ;	Schertzer, D",
+	year      = "2006",
+   Title    = "\textbf{Multifractal earth topography	J.-S.}",
+	journal   = "European Geosciences Union and the American Geophysical Union",
+	pages     = "541-570" 
+}
+
+@article{WWF,
+	author    = "Mountain...",
+	year      = "[s.d.]",
+   Title    = "The importance of mountain ecosystems do World Wildlife Fund (WWF)",
+	journal   = "WWF",
+	pages     = "[s.p]" 
+}
+
+@article{nadalini1,
+	author    = "Nadalini, Ana Carolina Valerio",
+	year      = "2007",
+   Title    = "\textbf{Direito De Propriedade Sob A Ótica Ambiental}",
+	journal   = "Cobreap XIV",
+	volume    = "XIV",
+	pages     = "18" 
+}
+
+
+@article{Telma,
+	author    = "Silva, Telma Mendes da",
+	year      = "2007",
+   Title    = "\textbf{Mapeamentos geomorfológicos: escalas, aplicaç\~oes e t\'ecnicas de compartimentaç\~ao do relevo}",
+	journal   = "Geo Uerj",
+	howpublished = "\url{link.gale.com/apps/doc/A372693987/AONE?u=egn&sid=googleScholar&xid=486b8d44}",
+	note = "[Online; accessed 21-Abril-2023]" 
+}
+
+@article{Jenson,
+	author    = "Jenson,S.K ; Domingue, S.K ;RODRIGUES",
+	year      = "1988",
+   Title    = "\textbf{Extractiong topographic structure from digital elevation data for geographic informations system analysis}",
+	journal   = "Photogrammetric Engineering and Remote Sensing",
+	volume    = "54",
+	pages     = "1.593-1.600" 
+}
+
+@article{Neto-onofre,
+	author    = "Martinelli, Gustavo",
+	year      = "2015",
+   Title    = "\textbf{Impacto da alteraç\~ao dos parâmetros de delimitaç\~ao de APP em topo de morro no município de Poragatu - Goiás-Brasil}",
+	journal   = "Revista Geo \'elis\'ee",
+	pages     = "196-210" 
+}
+
+@article{guimaraes2,
+	author    = "Guimar\~aes, Felipe Silva; 	Moreira, Alecir Antônio Macial",
+	year      = "2018",
+   Title    = "\textbf{As \'Area De Preservaç\~ao Permanente De Topo De Morro E a Lei Federal No 12.651/2012: Um Estudo De Caso Na Regi\~ao Da Zona Da Mata – Mg}",
+	journal   = "Caminhos de Geografia",
+	issn ="1678-6343",
+	pages     = "175-187" 
+}
+
+@article{Onofre,
+	author    = "Aur\'elio Neto, Onofre; Garç\~ao, Lucimar Marques da Costa; Epifânio, Marist\'ela Guimar\~aes",
+	year      = "2015",
+   Title    = "\textbf{Impacto da alteraç\~ao dos parâmetros de delimitaç\~ao de APP em topo de morro no município de Porangatu – Goiás – Brasil}",
+	journal   = "Revista Geografia UEG",
+	pages     = "196-210" 
+}
+
+@article{Ribeiro,
+	author    = "Ribeiro,Carlos Antonio Alvares Soares ;  Soares,Vicente Paulo; Oliveira, Angelo Marcos Santos  ; Gleriani, Jos\'e Marinaldo ",
+	year      = "2005",
+   Title    = "\textbf{O Desafio Da Delimitaç\~ao De \'Area De Preservaç\~ao Permanente}",
+	journal   = "Revista Árvore",
+	volume    = "29",
+	pages     = "203-212" 
+}
+
+@article{Eugenio,
+	author    = "Eugenio,Fernando Coelho; Santos, Alexandre Rosa dos ; Louzada,	Franciane Lousada Rubini de Oliveria ;Pimentel, Leonardo Bergantini ;Moulin,Janine Varanda ",
+	year      = "2011",
+   Title    = "\textbf{Identificaç\~ao Das \'Area De Preservaç\~ao Permanente No Município De Alegre Utilizando Geotecnologia}",
+	journal   = "Revista Cerne Lavras ",
+	volume    = "04",
+	pages     = "563-571" 
+}
+
+@article{Oliveira,
+	author    = " Oliveira,Guilherme de Castro; Fernandes Filho, Elpidio Inacio  ",
+	year      = "2016",
+   Title    = "\textbf{Automated Mapping Of Permanent Preservation \'Area On Hilltops}",
+	journal   = "Revista Cerne Lavras ",
+	volume    = "22",
+	doi = "10.1590/01047760201622012100 1",
+	pages     = "111-120" 
+}
+
+@article{Oliveira2,
+	author    = "Oliveira, T. G.; Francisco, C. N.; Bohrer, C. B. A. ",
+	year      = "2021",
+   Title    = "\textbf{\'Area de Preservaç\~ao Permanente (APP) no topo de morros no estado do Rio de Janeiro: uma avaliaç\~ao dos dispositivos legais em diferentes unidades geomorfológicas}",
+	journal   = "Ciência Florestal, Santa Maria",
+	doi = "10.5902/1980509832492",
+	pages     = "491-514" 
+}
+
+@article{Huang,
+	author    = "Huang, Nan ; Yang, Xin  ; Liu, Hailong ",
+	year      = "2020",
+   Title    = "\textbf{A Method of Saddle Point Extraction based on Contour Spatial Relationship HUANG}",
+	doi = "10.12082/dqxxkx.2020.190572",
+	journal   = "Journal of Geo-information Science",
+	pages     = "410-421" 
+}
+
+@article{Hott1,
+	author    = "Hott , Marcos Cicarini ; Guimar\~aes, Marcelo  ; Miranda, Evaristo Eduardo de ",
+	year      = "2005",
+   Title    = "\textbf{Um m\'etodo para a determinaç\~ao automática de \'Area de preservaç\~ao permanente em topos de morros para o Estado de S\~ao Paulo}",
+	issn ="4109108500",
+	journal   = "XII Simpósio Brasileiro de Sensoriamento Remoto",
+	pages     = "3061-3068" 
+}
+
+@article{ribeiro2,
+	author    = "Ribeiro, Hugo Jos\'e; Ferreira,  Nilson Clementino ",
+	year      = "2014",
+   Title    = "\textbf{Análise Comparativa De Redes Hidrológicas Geradas A Partir De Superfícies Hidrologicamente Consistentes}",
+	issn ="41982-2170",
+	volume    = "20",
+	journal   = "BCG - Boletim de Ciencias Geodesicas",
+	pages     = "784-805" 
+}
+
+@article{Yang,
+	Author    = "Yang, Xianwu; Tang,Guoan; Meng,Xin;Xiong,Liayang ",
+	year      = "2019",
+   Title    = "\textbf{Classification of Karst Fenglin and Fengcong Landform Units Based on Spatial Relations of Terrains Feature points DEMs}",
+	Volume    = "11",
+	Doi = "10.3390/rs.11161950"
+	Journal   = "Mdpi-jornal remoresensing",
+	pages     = "784-805" 
+}
+
+@article{Llobera,
+	Author    = "Llobera,Marcos ",
+	year      = "2000",
+   Title    = "\textbf{Building past Landscape perception with GIS: Undestanding Topographic prominence}",
+	Volume    = "28",
+	Doi = "10.1006/jasc.2001.0720"
+	Journal   = "Mdpi-jornal remoresensing",
+	pages     = "784-805" 
+}
+
+@article{henrique,
+	author    = "Ribeiro, Hugo Jos\'e; Ferreira,  Nilson Clementino ",
+	year      = "2018",
+   Title    = "\textbf{Conversion of the Digital Surface Model to the Hydrologically Conditioned Digital Elevation Model for the Marinheiro Stream Watershed in Sete Lagoas, Brazil}",
+	volume    = "3",
+	journal   = "Revista Brasileira de Geografia Física",
+	pages     = "1127-1136" 
+}
+
+@article{poleto,
+	author    = "Poleto , Leandro Jos\'e Do Carmo ;Silva,Carlos Henrique Crespo Da  Sebasti\~ao Ribeiro Júnior ;Vieira,Carlos Antônio Oliveira  Dos Santos,Afonso De Paula ",
+	year      = "2008",
+   Title    = "\textbf{Validaç\~ao de Modelo Digital de Elevaç\~ao Hidrologicamente Consitente (MDEHC)}",
+	journal   = "II Simposio Brasileiro de Ciencias Geodesicas e Tecnologias da Geoinformacao",
+	pages     = "8-11" 
+}
+
+@article{franca,
+	author    = "França, Leandro Luiz Silva de; Passos, Joel Borges dos;
+	Portugal, Jose Luiz ",
+	year      = "2020",
+   Title    = "\textbf{Topological Validation: a Study Applied for Hydrographic Features of a Watershed}",
+	journal   = "Ciências Exatas e da Terra: Aprendizado, Integraç\~ao e Necessidades do País",
+	address = {Los Angeles,CA},
+	pages     = "3061-3068" 
+}
+
+@article{Oliveira3,
+	author    = "Oliveira ,Thuany Gomes de ; Francisco, Cristiane Nunes  ; Bohrer, Claudio Belmonte de Athayde ",
+	year      = "2021",
+   Title    = "\textbf{\'Area de Preservaç\~ao Permanente (APP) no topo de morros no estado do Rio de Janeiro: uma avaliaç\~ao dos dispositivos legais em diferentes unidades geomorfológicas}",
+	volume    = "31",
+	issn ="1980-5098",
+	journal   = "Ciencia Florestal , C.i. Santa Maria",
+	pages     = "491-514" 
+}
+
+@book{MONKHOUSE,
+	author = {Monkhouse,F.J.},
+	year = {2007},
+	Title= {{\textbf{ A Dictionary of Geography}}},
+	publisher = {Taylor e Francis},
+	edition = { 2},
+	keywords = {dicionary},
+	address = {New York,USA},
+	pages = { 387}
+}
+
+
+
+@book{Oliveira4,
+author = {Oliveira, Fabiano Melo de },
+year = {2017},
+Title= {{\textbf{Direito Ambiental }}},
+publisher = { Editora Forense},
+edition = { 2},
+keywords = {Ledoux},
+isbn = { 9788530975661},
+address = {S\~ao Paulo, SP},
+pages = { 286 }
+}
+
+
+@book{Li-Zhilin,
+author = {Zhilin li, Qing Zhu; Gold, Chris},
+year = {1960},
+Title= {{\textbf{Digital terrain modeling: principles and methodology}}},
+publisher = {CRC Press},
+edition = {1},
+isbn = {0-415-32462-9},
+address = {Florida},
+pages = { 324}
+}
+
+@article{Almeira1,
+	author    = "Almeida, A. M.; Paula, E. V. ",
+	year      = "2018",
+   Title    = "\textbf{\'Area de Preservaç\~ao Permanente de topos: das alteraç\~oes na legislaç\~ao brasileira às suas diferentes interpretaç\~oes}",
+	volume    = "37",
+	journal   = "Confins, [s. l.]",
+	howpublished = "\url{https://journals.openedition.org/confins/15261}",
+	note = "[Online; accessed 21-marco-2023]"
+}
+
+@article{Magdalena,
+	author    = "Ulises, Rodrigo; Francisco, Cristiane Nunes. Rodriguez, Daniel Andr\'es",
+	year      = "2019",
+   Title    = "\textbf{Aspectos Legais no Mapeamento das \'Area de preservacao ermanente (APP) no Topo de Morros: Um Estudo de Caso na Bacia do Rio Sao joao( RJ ).}",
+	issn ="978-85-17-00097-3",
+	journal   = "XIXSimpósio Brasileiro de Sensoriamento Remoto"
+}
+
+@article{Tomaz,
+	author    = "Podobnikar, Tomaz",
+	year      = "2012",
+   Title    = "\textbf{Detecting Mountain Peaks and Delineating Their Shapes Using Digital Elevation Model, Remote Sensing and Geogrhaphic Informations System  Using Autometric Methodological}",
+	issn ="2072-4292",
+	journal   = "MDPI-Remote Sensing"
+}
+
+@article{Grohmann,
+	Author    = "Grohmann, Carlos Henrique; Smith, Mike J.; Riccomini, Claudio",
+	Year      = "2011",
+   Title    = "\textbf{Multiscale Analysis of Topographic Surface Roughness in the Midland Valley, Scotland}",
+		volume    = "49",
+	Doi ="0196-2892",
+	journal   = "IEEE"
+}
+
+@article{Grohmann,
+	Author    = "Grohmann, Carlos Henrique; Smith, Mike J.; Riccomini, Claudio",
+	Year      = "2011",
+   Title    = "\textbf{Multiscale Analysis of Topographic Surface Roughness in the Midland Valley, Scotland}",
+	volume    = "49",
+	Doi ="0196-2892",
+	journal   = "IEEE"
+}
+
+@article{Grohmann2,
+	Author    = "Grohmann, Carlos Henrique; Riccomini, Claudio; Chamani, M. A.C.",
+	Year      = "2011",
+   Title    = "\textbf{Regional scale analysis of  landform configuration with base-level(Isobase) maps}",
+	volume    = "15",
+	Doi ="10.5194/hess-15-1493-2011",
+	journal   = "Hidrology and Earth System Sciences"
+}
+
+@book{Torres,
+	author = {Torres, Fillipe },
+	year = {2012},
+   Title= {{ \textbf{Introduç\~ao a Geomorfologia} }},
+	publisher = {Cengage},
+	keywords = {Geomorfologia},
+	address = {S\~ao Paulo, SP},
+	publisher={S\~ao Paulo},
+	pages = {322}
+}
+
+@book{Florenzano,
+	author = {Florenzano, Teresa Gallotti },
+	year = {2008},
+   Title= {{ \textbf{Geomorfologia: conceitos e tecnologias atuais} }},
+	publisher = {Oficina dos Textos},
+	keywords = {Geomorfologia},
+	address = {S\~ao Paulo, SP},
+	publisher={S\~ao Paulo},
+	pages = {330}
+}
+
+
+@book{Wolfgang ,
+	author = {Sarlet, Ingo Wolfgang ; Fensterseifer, Tiago},
+	year = {2021},
+   Title= {{ \textbf{Curso de Direito} }},
+	publisher = { Florense},
+	edition = {2},
+	keywords = {Wolfgang },
+	pages = {148}
+}
+
+@book{Rodrigues,
+	author = {Rodrigues, Marcelo Abelha},
+	year = {2021},
+   Title= {{ \textbf{Direito Ambiental Esquematizado}}},
+	publisher = { Saraiva},
+	edition = {8},
+	keywords = {Rodrigues},
+	doi =  { 10.5281/zenodo.3992107},
+	pages = {800}
+}
+
+@book{miroslav,
+	author = {Rozlozzník, Miroslav },
+	year = {2018},
+   Title= {{\textbf{Saddle-Point Problemas and Their Iterative Solution}}},
+	publisher = {Birkhauser},
+	address = {Prague, Czech},
+	booktitle = {Springer},
+	isbn = {978-3-030-01431-5},
+	keywords = {miroslav},
+	pages = {147}
+}
+
+@Mastersthesis{Tessa,
+   Title                   = {\textbf{\'A de preservaç\~ao permanente no entorno do Parque Nacional do Caparaó, no estado do Espírito Santo}},
+	Author                   = {Tessa, Chimalli},
+	Year                     = {2013},
+	Owner                    = {Tessa},
+	School                   = {UFES},
+	howpublished = "\url{http://repositorio.ufes.br/handle/10/5004}",
+	note = "[Online; accessed 21-marco-2023]"
+	Timestamp                = {2013.02.28}
+}
+
+@Book{Lei126512012,
+	author       = {BRASIL},
+   Title       = {\textbf{Lei nº 12.651}, de 25 de maio de 2012. Disp\~oe sobre a proteç\~ao da vegetaç\~ao nativa; altera as Leis nº 6.938, de 31 de agosto de 1981, 9.393, de 19 de dezembro de 1996, e 11.428, de 22 de dezembro de 2006; revoga as leis nº 4.771, de 15 de setembro de 1965, e 7.754, de 14 de abril de 1989, e a Medida Provisória nº 2.166-67, de 24 de agosto de 2001; e dá outras providências},
+	journal      = {Diário Oficial [da] República Federativa do Brasil},
+	year         = {2012},
+	date         = {2012-05-28},
+	organization = {Brasil},
+	issn         = {1677-7042},
+	howpublished = "\url{http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2012/Lei/L12651.htm}",
+	note = "[Online; accessed 21-marco-2023]",
+	urldate      = {2017-02-24},
+	address      = {Brasília, DF},
+	shorttitle   = {Lei nº 12.651/2012},
+	timestamp    = {2018-07-28}
+}
+
+@Book{Constituicao,
+	author       = {BRASIL},
+	Address={Brasília, DF},
+   Title       = {\textbf{Constituiç\~ao (1988): atualizada at\'e a Emenda Constitucional n. 128, de 22-12-2022}},
+	Furtherresp = {Constituiç\~ao da República Federativa do Brasil.},
+	Org-short = {Brasil},
+	Organization = {Brasil},
+	Publisher = {Senado},
+	Type={Constituiç\~ao (1988)},
+	Year = {1988},
+	Note={\   Disponivel  em url{ https://www.planalto.gov.br}},
+}
+
+@book{CONAMA,
+	author       = {BRASIL},
+   Title       = {Resoluç\~ao CONAMA Nº 303, de 20 de março de 2002, disp\~oe sobre parâmetros, definiç\~oes e limites de \'A de Preservaç\~ao Permanente},
+	Furtherresp = {Conselho Nacional de Meio Ambiente – CONAMA},
+	Org-short = {Brasil},
+	Organization = {Brasil},
+	Publisher = {Diário Oficial da Uni\~ao da República Federativa do Brasil nº 90},
+	Year = {2012},
+	organization = {Brasil},
+	note={\   Disponivel  em url{ http://conama.mma.gov.br/}},
+	address      = {Brasília, DF}
+}
+
+@Article{ANA,
+	author       = {ANA},
+   Title       = {AGÊNCIA NACIONAL DE ÁGUAS - Manual de construç\~ao da base hidrográfica ottocodificada: fase 1 - construç\~ao da base topológica de hidrografia e ot tobacias conforme a codificaç\~ao de bacias hidrográficas de Otto Pfafstetter: Vers\~ao 2.0.},
+	Furtherresp = {Conselho Nacional de Meio Ambiente – CONAMA},
+	Org-short = {Brasil},
+	Organization = {Brasil},
+	Year = {2007},
+	pages = {144},
+	organization = {Brasil},
+	address      = {Brasília, DF}
+}
+
+@Mastersthesis{Oliveira2015,
+	author = {Oliveira, Guilherme de Castro},
+   Title= {{\textbf{Precis\~ao de modelos digitais de terreno , mapeamento automático de APPS em topos de morros e a eficácia do novo Código Florestal}}},
+	pages = {139 f.},
+	year = {2015}
+}
+
+@book{KOTLYAKOV,
+	author = {Kotlyakov, V.M; Komarova, A.I},
+	year = {2007},
+	Title= {{\textbf{Elsevier s  Dictionary of Geography}}},
+	publisher = { Elsevier},
+	edition = { 1},
+	keywords = {dicionary},
+	address = {Oxford, UK},
+	pages = { 1073}
+	}
+	
+@book{Pebesma,
+	author = { Pebesma, Edzer and Bivand, Roger},
+	year = { 2023},
+	Title= { Spatial Data Science with Applications in R},
+	publisher = { CRC Press},
+	edition = { 1},
+	isbn = { 9781138311183},
+	keywords = {dicionary},
+	address = { New York, USA}
+	}	
+	

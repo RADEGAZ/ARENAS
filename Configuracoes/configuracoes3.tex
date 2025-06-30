@@ -1,0 +1,21 @@
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\pagestyle{fancy}
+
+\usepackage{lastpage} % number of last page 
+\geometry{a4paper,left=2.00cm, right=1.50cm, top=3.00cm, bottom=2.00cm}
+\renewcommand{\headrulewidth}{2pt}
+\fancypagestyle{plain}{%
+	\fancyhead[C]{
+		\begin{tabular}{ll}
+			\begin{tabular}[t]{c}
+				\includegraphics[scale=0.8]{LogoLinguaMat}%
+			\end{tabular} 
+		\end{tabular}   
+	}%
+}
+
+\fancyfoot[L]{\textbf\selectfont\sffamily{\\Av.Jerônimo Monteiro,1.000 - Ed. Trade Center-Centro-Vitória-ES-CEP:29.010-935}} 
+\rfoot{Page \thepage\ de \pageref{LastPage}}
+
+\pagestyle{plain}

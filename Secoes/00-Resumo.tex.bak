@@ -1,0 +1,37 @@
+%!TEX root = preambulo.tex
+
+\noindent  Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus. Donec aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae ornare odiometus a mi. Morbi ac orci et nisl hendrerit mollis. Suspendisse ut massa. Cras nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et magnis dis parturient mntes,nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullamcorper vestibulum turpis.
+Pellentesque cursus luctus mauris.Nulla malesuada porttitor diam. Donec felis erat, congue non, volutpat at, tincidunttristique, libero. Vivamus viverra fermentum felis. Donec nonummy pellentesque ante.
+Phasellus adipiscing semper elit. Proin fermentum massa ac quam. Sed diam turpis,molesti vitae, placerat a, molestie nec, leo. Maecenas lacinia. Nam ipsum ligula,eleifend at, accumsan nec, suscipit a, ipsum. Morbi blandit ligula feugiat magna. Nunceleifend consequat lorem. Sed lacinia nulla vitae enim. Pellentesque tincidunt purus
+
+\noindent Palavras chaves:\textbf{\textcolor{blue}{  \textit{ Hidrologia; Séries hidrológicas  ; Redes neurais; Previsão de vazão; SCS }  }}
+
+\begin{center}
+\textbf{Hydrological Series, a classic and modern approach for flow forecasting in small river basins}
+\end{center}
+\begin{center}
+	\textbf{\textit{ABSTRACT}}
+\end{center}
+\noindent  
+\noindent  Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus. Donec aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae ornare odiometus a mi. Morbi ac orci et nisl hendrerit mollis. Suspendisse ut massa. Cras nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et magnis dis parturient mntes,nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullamcorper vestibulum turpis.
+Pellentesque cursus luctus mauris.Nulla malesuada porttitor diam. Donec felis erat, congue non, volutpat at, tincidunttristique, libero. Vivamus viverra fermentum felis. Donec nonummy pellentesque ante.
+Phasellus adipiscing semper elit. Proin fermentum massa ac quam. Sed diam turpis,molesti vitae, placerat a, molestie nec, leo. Maecenas lacinia. Nam ipsum ligula,eleifend at, accumsan nec, susci :\textbf{\textcolor{blue}{ \textit{Hydrology; HydrCDSVological series; NeuVDSral netwoVFDSrks; DischaFVDSrge predicFSDtion; SCSDS} }}
+
+\begin{comment}
+	%
+	\cite{Anderson}
+	%
+	\cite{Anderson}\\
+	%
+	\citep{Anderson}\\
+	\citet{Anderson}\\
+	%
+	\citealp{Anderson}, \\
+	\citealt{Anderson}, \\
+	\citeauthor{Anderson}, \\
+	\citeyear{Anderson}, \\
+	\citeyearpar{Anderson}, \\
+	\citeauthor*{Anderson}, \\
+	\citep*{Anderson}, \\
+	\citet*{Tanimoto}
+\end{comment}

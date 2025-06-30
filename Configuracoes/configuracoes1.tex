@@ -1,0 +1,68 @@
+\usepackage{geometry}
+\geometry{a4paper,left=3.0cm, right=2.0cm,top=120pt, bottom=2.0cm }
+%---
+% alterando o aspecto da cor azul
+\definecolor{blue}{RGB}{41,5,195}
+% informações do PDF
+\makeatletter
+\hypersetup{
+	pagebackref=true,
+	pdftitle={\@title}, 
+	pdfauthor={\@author},
+	pdfsubject={Modelo de artigo científico com abnTeX2},
+	pdfcreator={LaTeX with abnTeX2},
+	pdfkeywords={abnt}{latex}{abntex}{abntex2}{atigo científico}, 
+	colorlinks=true,       		% false: boxed links; true: colored links
+	linkcolor=blue,          	% color of internal links
+	citecolor=blue,        		% color of links to bibliography
+	filecolor=magenta,      		% color of file links
+	backref=page,           % Para back ref
+	urlcolor=blue,
+	bookmarksdepth=4
+}
+\makeatother
+%--
+% O tamanho do parágrafo é dado por:
+\setlength{\parindent}{1.25cm}
+\usepackage{threeparttable} 
+% Controle do espaçamento entre um parágrafo e outro:
+\setlength{\parskip}{0.1cm}  % tente também \onelineskip
+
+% Espaçamento simples
+%\SingleSpacing
+
+% Configurações do pacote backref
+% Usado sem a opção hyperpageref de backref
+\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+% Texto padrão antes do número das páginas
+\renewcommand{\backref}{}
+% Define os textos da citação
+\renewcommand*{\backrefalt}[4]{
+	\ifcase #1 %
+	Nenhuma citação no texto.%
+	\or
+	Citado na página #2.%
+	\else
+	Citado #1 vezes nas páginas #2.%
+	\fi}%
+
+%--
+
+
+\fancyfoot{} % Limpar all fields rodape
+\pagestyle{fancyplain}                    % aplicando o estilo plain
+%\pagestyle{headings}                    % aplicando o estilo plain
+\fancyhead{} % Limpar all fields cabecalho
+\usepackage{fancyhdr}
+%\geometry{a4paper, includehead, top=-0.4cm, left=2cm}
+\setlength\headwidth{\paperwidth}
+
+\fancyhfoffset[L]{3cm}\fancyhfoffset[R]{2cm}
+
+\cfoot{\includegraphics[width=0.7\headwidth]{rodape}}
+\renewcommand{\headrulewidth}{0pt}
+
+\chead{\includegraphics[width=\headwidth]{cabecalho}}
+\renewcommand{\headrulewidth}{0pt}
+\rfoot{Page \thepage\ de \pageref{LastPage}}
+%======= 

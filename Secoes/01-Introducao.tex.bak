@@ -1,0 +1,28 @@
+%!TEX root = preambulo.tex
+
+\section{Introdução}
+
+\hspace*{1.25 cm} O rompimento da barragem  de fundão,no povoado de bento rodrigues,  dentro do município  de Mariana em MG , em 5 de novembro de 2015, lançando rejeitos de mineração de ferro, na Bacia hidrográfica do Rio Doce ocasionou uma serie de prejuízos, tanto na perda da vida humana, tanto na contaminação ambiental  a jusante deste corpo hidrico. \\
+%
+\hspace*{1.25 cm} O volume de rejeitos, lançados trazendo material estranho ao bioma tipico desta região, alterou ao mesmo tempo a situação do bioma destes corpos hídricos, como da vegetação marginal .\\
+%
+\hspace*{1.25 cm} A cobertura deste evento, noticiado  em todas a grande imprensa nacional, com em outras internacionais como  \textit{The Wall Street Jornal}, \textit{The Guardian}, \textit{Le Monde}, entre outros.\\
+%
+\hspace*{1.25 cm} Em acordo com o Ministério publico (MP) e sua controladora a anglo-australiana  \textit{BHP Billinton} ,  baseado nos princípios de poluidor pagador, trazidos no artigo 3º , inciso IV , da Lei 6.938/81 (Politica Nacional do Meio Ambiente) , estabeleceram um termo de pactuação e posterior outra repactuação.  A repactuação atendendo o principio do poluidor-pagador, visa o dever de corrigir, recuperar e/ou eliminar os efeitos negativos ja produzidos em uma contaminação antrópica. \\
+% 
+\hspace*{1.25 cm}  A repactuação, utilizando ferramentas de cartografia , acordo com \cite[p~79]{Magri}, determinando ações de reparação aos atingidos e a  amplitude de localização geográfica em que ocorram ações de contaminação, e  por meio de direta interveniência  judicial e administrativa, e a fundação criada para reparação do rio Doce, denominada Fundação Renova.\\
+ %
+\hspace*{1.25 cm} Passados 09(nove) anos, por  data base  (23/05/2025), ao diminuir a luz os holofotes deste desastre,  nos perguntamos como objeto de pesquisa ,  os efeitos da contaminação de rejeitos podem ser ainda hoje detectados por sensores orbitais, e existe alterações passiveis de serem observados por estes sensores. Nisto são objetos inclusivos de perícia ambiental , como descreve \cite[p.130]{Arantes} \\
+ %
+\hspace*{1.25 cm}  E nisto a própria justificativa deste estudo, se faz. Tendo como base a delimitação e a re-pactuação entre Ministério Publico (MP) e a Fundação Renova. Incluem-se ainda sobre a analise dos enquadramentos dos corpos de água e diretrizes ambientais trazidos, Resolução Conana n$\textordmasculine$ 357 de março de 2005 , alterado pelas Resoluções 410/2009 e 430/2011 , podem ser observados em locais dentro e fora da repactuação.\\
+%
+\hspace*{1.25 cm} \textbf{\textcolor{red}{ Aqui o joseney e/ou radegaz ira entrar com    escrito }}   \textcolor{gray!22}{et lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. 		Praesent eget sem vel leo ultrices bibendum. Aenean faucibus. Morbi dolor nulla,		malesuada eu, pulvinar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec 		varius orei eget risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis}\\
+%
+\hspace*{1.25 cm} \textbf{\textcolor{blue}{ Aqui o marcos ira entrar com a base da repactuação por escrito }}   \textcolor{gray!22}{et lectus vestibulum urna fringilla ultrices. Phasellus eu tellus sit amet tortor gravida placerat. Integer sapien est, iaculis in, pretium quis, viverra ac, nunc. 		Praesent eget sem vel leo ultrices bibendum. Aenean faucibus. Morbi dolor nulla,		malesuada eu, pulvinar at, mollis ac, nulla. Curabitur auctor semper nulla. Donec 		varius orei eget risus. Duis nibh mi, congue eu, accumsan eleifend, sagittis quis}\\
+%  existe indícios de área possivelmente contaminadas que não foram incluídos na re-pactuação. \\
+\hspace*{1.25 cm} Com base na exposição acima, as seguintes hipóteses são formuladas:
+\begin{description} [itemsep=1pt,parsep=1pt]\vspace{0.00mm} 
+	\item[H1:] O sensor orbita Landsat 8 consegue identificar alterações em respostas em radiância na época  do ocorrido, e seus efeitos ainda podem ser mensurados
+	\item[H2:] Se este sensor orbital consegue distinguir alterações espectral  do fenômeno, o mesmo consegue determinar sua amplitude espacial geográfica.
+	\item[H3:] Existe resquícios desta contaminação no local , e que podem ser mensurados.
+\end{description}

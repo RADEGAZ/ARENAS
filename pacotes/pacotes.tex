@@ -1,0 +1,63 @@
+%!TEX root = PREAMBULO.tex
+\usepackage{lmodern}			% Usa a fonte Latin Modern			
+\usepackage[T1]{fontenc}		% seleção de códigos de fonte.
+\usepackage[utf8]{inputenc}		% determina a codificação utiizada (conversão automática dos acentos)
+\usepackage{hyperref}  			% controla a formação do índice
+\usepackage{parskip}			% espaçamento entre os parágrafos
+\usepackage{microtype} 			% para melhorias de justificação
+\usepackage{morefloats}			% permite mais floats
+\usepackage{indentfirst} % identar o  primeiro paragrafo
+\usepackage{lipsum}  % textos exparsos
+% Babel e ajustes
+\usepackage[brazil]{babel}		% idiomas
+\addto\captionsbrazil{
+	%% ajusta nomes padroes do babel
+	\renewcommand{\bibname}{Refer\^encias}
+	\renewcommand{\indexname}{\'Indice}
+	\renewcommand{\listfigurename}{Lista de ilustra\c{c}\~{o}es}
+	\renewcommand{\listtablename}{Lista de tabelas}
+	%% ajusta nomes usados com a macro \autoref
+	\renewcommand{\pageautorefname}{p\'agina}
+	\renewcommand{\sectionautorefname}{se{\c c}\~ao}
+	\renewcommand{\subsectionautorefname}{subse{\c c}\~ao}
+	\renewcommand{\paragraphautorefname}{par\'agrafo}
+	\renewcommand{\subsubsectionautorefname}{subse{\c c}\~ao}
+	\renewcommand{\paragraphautorefname}{subse{\c c}\~ao}
+}  
+
+\usepackage{color}
+ 
+
+% COMANDOS PROPRIOS
+\newcommand{\abnTeX}{abn\TeX}
+\newcommand{\abnTeXForum}{\url{http://groups.google.com/group/abntex2}}
+\newcommand{\abnTeXSite}{\url{http://www.abntex.net.br/}}
+
+\title{\textbf{A classe \textsf{abntex2}}: \\ \Large{Documentos
+		técnicos e científicos brasileiros \\compatíveis com as normas ABNT}}
+
+%   \thanks{Este documento
+	%   se referete ao \textsf{abntex2} versão \fileversion,
+	%   de \filedate.}
+
+ 
+
+
+\EnableCrossrefs
+\CodelineIndex
+\RecordChanges
+
+\changes{v1.0}{2013/02/01}{Versão inicial}
+\changes{v1.9.3}{2015/01/26}{Release 1.9.3}
+\changes{v1.9.4}{2018/06/06}{Release 1.9.4}
+
+\usepackage[fontsize=12pt]{scrextend}
+\usepackage{backref}
+\usepackage{lastpage}     % para conseguir identificar a quantidade de páginas no preâmbulo
+\usepackage{fancyhdr} 		    % para incluir headings e footers
+% ------------------------------------------------------
+\usepackage{fontspec} %% => Ligar fonte Arial
+\setmainfont{Arial}
+\usepackage{fontspec} %% => Ligar fonte Arial
+\setmainfont{Arial}
+% ------------------------------------------------------ 

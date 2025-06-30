@@ -1,0 +1,33 @@
+\setlength{\parindent}{0cm} % SEM IDENTECAO
+
+
+%\renewcommand{\footrulewidth}{1pt}
+
+%\geometry{a4paper, includehead, top=-0.4cm, left=2cm}
+\setlength\headwidth{\paperwidth}
+\fancyhead{} % Limpar all fields cabecalho
+\fancyfoot{} % Limpar all fields rodape
+\pagestyle{fancyplain}                    % aplicando o estilo 
+\fancyhfoffset[L]{0.2cm}\fancyhfoffset[R]{0.2cm}
+
+\chead{\includegraphics[width=\headwidth]{pre-pos-textuais/cabecalho}}
+\renewcommand{\headrulewidth}{0pt}
+
+%\clearpage\begingroup\pagestyle{empty}\cleardoublepage\endgroup
+
+\usepackage{lastpage} % number of last page 
+\rfoot{Page \thepage\ de \pageref{LastPage}}
+\cfoot{\includegraphics[width=0.7\headwidth]{pre-pos-textuais//rodape}}
+
+\renewcommand{\footrulewidth}{0pt} 
+\renewcommand{\headrulewidth}{0pt}
+\usepackage{lastpage} % number of last page 
+\rfoot{Page \thepage\ de \pageref{LastPage}}
+
+
+\makeatletter
+\patchcmd{\BR@backref}{\newblock}{\newblock(~}{}{}
+\patchcmd{\BR@backref}{\par}{)\par}{}{}
+\makeatother
+
+\renewcommand{\backrefxxx}[3]{(page \hyperlink{page.#1}{#1})}

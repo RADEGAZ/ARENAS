@@ -1,0 +1,73 @@
+%!TEX root = preambulo.tex
+% ---
+% Pacotes de citações
+% ---
+%\usepackage[brazilian,hyperpageref]{backref}	 % Paginas com as citações na bibl
+\usepackage[alf, % Permite ficar em ordem alfabetica
+abnt-repeated-author-omit=true,  % Omitir autores com o mesmo nome
+abnt-emphasize=bf, %Nome em destaque em negrito
+abnt-etal-list=0, % utilizar o parentese em luga do colchete
+]{abntex2cite}	% Citações padrão ABNT
+\usepackage{nomencl} 			% Lista de simbolos
+\usepackage{color}				% Controle das cores
+\usepackage{nomencl} 			% Lista de simbolos
+\usepackage{color}				% Controle das cores
+\usepackage{graphicx,subcaption}		% Inclusão de gráficos
+\usepackage{float} % Força o posicionamento da figura
+\usepackage{microtype} 			% para melhorias de justificação
+% ---
+\usepackage{wrapfig}
+\usepackage{blindtext} % Para gerar comentarios
+\usepackage{tikz}
+\usetikzlibrary{calc,positioning,arrows,shapes,shadows,fit,patterns,quotes,spy}
+\usepackage{quoting}
+\usepackage{setspace} % Este pacote altera o espaçamento entre linhas
+\usepackage{amsmath} % modo matematico
+% ---
+\usepackage{todonotes} % Para comentarios magicos
+\usepackage{comment}
+\usepackage{verbatim}  % Comentários em multilinhas
+\usepackage{listings}
+
+\usepackage{xcolor} % Para cores personalizadas
+
+\definecolor{keywords}{RGB}{255,0,90}
+\definecolor{comments}{RGB}{0,0,113}
+\definecolor{red}{RGB}{160,0,0}
+\definecolor{green}{RGB}{0,150,0}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\lstdefinestyle{mystyle}{
+	backgroundcolor=\color{backcolour},   
+	commentstyle=\color{codegreen},
+	keywordstyle=\color{magenta},
+	numberstyle=\tiny\color{codegray},
+	stringstyle=\color{codepurple},
+	basicstyle=\ttfamily\footnotesize,
+	breakatwhitespace=false,         
+	breaklines=true,                 
+	captionpos=b,                    
+	keepspaces=true,                 
+	numbers=left,                    
+	numbersep=5pt,                  
+	showspaces=false,                
+	showstringspaces=false,
+	showtabs=false,                  
+	tabsize=2
+}
+\lstset{style=mystyle}
+\usepackage[framemethod=TikZ]{mdframed}
+\mdfdefinestyle{MyFrame}{%
+	linecolor=blue,
+	outerlinewidth=2pt,
+	roundcorner=20pt,
+	innertopmargin=\baselineskip,
+	innerbottommargin=\baselineskip,
+	innerrightmargin=20pt,
+	innerleftmargin=20pt,
+	backgroundcolor=gray!40!white}
+
+
+% ------------------------------------------------------

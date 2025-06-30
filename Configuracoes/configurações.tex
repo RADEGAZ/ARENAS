@@ -1,0 +1,20 @@
+\usepackage{fancyhdr} 		    % para incluir headings e footers
+\usepackage[headheight=55pt]{geometry}
+\pagestyle{fancy}
+\fancyhf{}
+\usepackage{lastpage} % number of last page 
+
+\geometry{a4paper,left=2.00cm, right=1.50cm, top=3.00cm, bottom=2.00cm}
+%\renewcommand{\headrulewidth}{2pt}
+\fancypagestyle{plain}{%
+	\fancyhead[C]{
+			\begin{tabular}[t]{c}
+				\includegraphics[scale=0.8]{cabecalho-cobreap-revisado2}%
+			\end{tabular} 
+	}%
+}
+
+\fancyfoot[L]{\textbf\selectfont\sffamily{\\Av.Jerônimo Monteiro,1.000 - Ed. Trade Center-Centro-Vitória-ES-CEP:29.010-935}} 
+\rfoot{Page \thepage\ de \pageref{LastPage}}
+
+\pagestyle{plain}
