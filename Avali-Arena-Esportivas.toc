@@ -1,0 +1,33 @@
+\babel@toc {brazil}{}\relax 
+\contentsline {section}{\numberline {1}INTRODUÇÃO }{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1} Considerações preliminares }{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2} Objeto do Estudo de caso }{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2} AMOSTRA }{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1} ARENA DO GRÊMIO }{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}ALLIANZ PARQUE}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}ESTÁDIO MILTON SANTOS}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}ESTÁDIO MARACANÃ}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}ARENA PANTANAL}{6}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}ARENA AMAZONIA}{6}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}ARENA DAS DUNAS}{7}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}ESTÁDIO BEIRA RIO}{7}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}ESTÁDIO PEDRO LUDOVICO TEIXEIRA}{8}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}ESTÁDIO CASTELÃO}{8}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11}ARENA PERNANBUCO}{9}{subsection.2.11}%
+\contentsline {subsection}{\numberline {2.12}ARENA MRV}{9}{subsection.2.12}%
+\contentsline {subsection}{\numberline {2.13}ARENA DO ESPORTE}{10}{subsection.2.13}%
+\contentsline {subsection}{\numberline {2.14}ESTÁDIO URBANO CALDEIRA}{10}{subsection.2.14}%
+\contentsline {subsection}{\numberline {2.15}ESTÁDIO INDEPENDÊNCIA}{11}{subsection.2.15}%
+\contentsline {subsection}{\numberline {2.16}ARENA DA BAIXADA}{11}{subsection.2.16}%
+\contentsline {section}{\numberline {3}METODOLOGIA}{12}{section.3}%
+\contentsline {section}{\numberline {4}ANÁLISE DO TRATAMENTO ESTATÍSTICO - CUSTO BENFEITORIAS / TERRENO}{12}{section.4}%
+\contentsline {subsection}{\numberline {4.1}AMOSTRA ESTÁDIO - CUSTO BENFEITORIAS}{12}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}MODELO ESTATÍSTICO DO TRATAMENTO CIENTÍFICO - SisDEA}{14}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}RESULTADOS}{15}{subsubsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.3}AMOSTRA ESTÁDIO VALOR DO TERRENO}{17}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}MODELO ESTATÍSTICO DO TRATAMENTO CIENTÍFICO - SisDEA}{18}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}ESTIMATIVAS}{19}{subsubsection.4.4.1}%
+\contentsline {section}{\numberline {5}MÉTODO EVOLUTIVO}{20}{section.5}%
+\contentsline {subsection}{\numberline {5.1}DETERMINAÇÃO DO VALOR TOTAL DA ARENA}{20}{subsection.5.1}%
+\contentsline {section}{\numberline {6} CONCLUSÃO }{22}{section.6}%
+\contentsline {section}{\numberline {7}REFERÊNCIAS}{23}{section.7}%
