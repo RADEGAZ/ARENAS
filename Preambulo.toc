@@ -1,0 +1,23 @@
+\babel@toc {brazil}{}\relax 
+\contentsline {section}{\numberline {1}Introdução}{3}{section.1}%
+\contentsline {section}{\numberline {2} Objetivos}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1} Objetivos Gerais}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2} Objetivos Específicos}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Material e Método}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Local de Estudo}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Sensoriamento Remoto}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Amostragem}{7}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Geoestatística}{9}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Dados Espaço - Temporal}{9}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Operações}{10}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}Indices Espectrais}{10}{subsubsection.3.6.1}%
+\contentsline {subsubsection}{\numberline {3.6.2}Geostatistica}{12}{subsubsection.3.6.2}%
+\contentsline {subsubsection}{\numberline {3.6.3}Validação cruzada do modelo predito }{13}{subsubsection.3.6.3}%
+\contentsline {section}{\numberline {4} Resultados }{14}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Índices espectrais}{14}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Geoestátistica}{15}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Analise da validação cruzada do Modelo }{19}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Dinâmica temporal }{20}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Discussão }{21}{section.5}%
+\contentsline {section}{\numberline {6}Conclusão}{22}{section.6}%
+\contentsline {section}{Referências}{23}{section.6}%

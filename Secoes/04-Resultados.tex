@@ -2,6 +2,8 @@
 
 \section{ Resultados }
  
+ \subsection{Índices espectrais}
+ 
 \hspace*{1.25 cm} O critério inicial de nosso procedimentos se estabeleceu inicialmente pela estabilidade dos indicadores bióticos do local. Tendo o  estado inicial em $ T_{0} =  2013$, sem ação antrópica do fenômeno, em $T _{1} =  2016$ o local já sofrendo a ação do fenômeno externo, e o conjunto da situação, mais próximo do momento atual em que o fenômeno se encerou $T _{2} =  2023$. \\
 \hspace*{1.25 cm} Devido a situações como efeitos atmosféricos de  cobertura de nuvens, brumas. Impossibilitou a obtenção de imagens de resoluções temporais menores.\\ 
  % {{{   
@@ -77,7 +79,7 @@
 		\label{fig:mdtamostras}\\{ Fonte:   Elaborado pelos Autores (2025)}
 	\end{center}
 \end{wrapfigure} 
-
+\subsection{Geoestátistica}
  %------------------
   \hspace*{1.25 cm}  Neste momento, a percepção do objeto observado ser uma superfície, quase continua(excluídos vazios radiométricos), torna-se inerente ao fenômeno de estudo. E por ser uma superfície, com valores máximos, mínimos, direção, desvio padrão e variância do valor do índice com coordenada (x,y). Deve ser tratada como tal, e ser analisadas  por técnicas da geoestátistica.   \\
   %------------------
@@ -259,21 +261,23 @@ Estimated statistics:
 A matrix: 1 × 1 of type dbl
 0.9465385  # % de explicacao do modelo
 \end{lstlisting}   
-  \begin{wrapfigure}{l}{0.506\textwidth}
-	\begin{center}
-		\centering  \small \caption{Modelagem por krigagem}
-		\includegraphics[width=0.97\linewidth]{FIGURAS/MODELOKRIGAGEM-MELHOR}
-		\label{fig:rplotkriga}\\{ Fonte:   Elaborado pelos Autores (2025)}
-	\end{center}
-\end{wrapfigure} 	 
+ 	\begin{figure}[H]
+	\centering  \small \caption{Modelagem por krigagem}
+	\includegraphics[width=0.57\linewidth]{FIGURAS/MODELOKRIGAGEM-MELHOR}
+	\label{fig:rplotkriga}\\{ Fonte:   Elaborado pelos Autores (2025)}
+\end{figure}
 
 
  \begin{comment}
- 	\begin{figure}[H]
- 		\centering  \small \caption{Modelagem por krigagem}
- 		\includegraphics[width=0.57\linewidth]{FIGURAS/Rplotkriga}
- 		\label{fig:rplotkriga}\\{ Fonte:   Elaborado pelos Autores (2025)}
- 	\end{figure}
+ 	  \begin{wrapfigure}{l}{0.506\textwidth}
+ 		\begin{center}
+ 			\centering  \small \caption{Modelagem por krigagem}
+ 			\includegraphics[width=0.97\linewidth]{FIGURAS/MODELOKRIGAGEM-MELHOR}
+ 			\label{fig:rplotkriga}\\{ Fonte:   Elaborado pelos Autores (2025)}
+ 		\end{center}
+ 	\end{wrapfigure} 	 
+ 	
+
  	
  	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -299,6 +303,61 @@ A matrix: 1 × 1 of type dbl
  	\end{center}
  	
  \end{comment}
+ 
+ \subsection{Analise da validação cruzada do Modelo }
+ 
+   \lstset{
+ 	language=R, % Define a linguagem como R
+ 	caption= Resultado do Teste Shapiro-Wilk em linguagem R,} % Legenda do código
+ \begin{lstlisting}[language=R]
+ 	Shapiro-Wilk normality test
+ 	
+ 	data:  Mod_esfe$pred
+ 	W = 0.93923, p-value = 1.384e-14
+ \end{lstlisting} 
+ 
+   \lstset{
+ 	language=R, % Define a linguagem como R
+ 	caption= Resultado do Teste de Correlação em linguagem R,} % Legenda do código
+ \begin{lstlisting}[language=R]
+ 	
+ 	Pearson's product-moment correlation
+ 	
+ 	data:  Mod_esfe$pred and Mod_esfe$observed
+ 	t = 24.657, df = 574, p-value < 2.2e-16
+ 	alternative hypothesis: true correlation is not equal to 0
+ 	95 percent confidence interval:
+ 	0.6750592 0.7546794
+ 	sample estimates:
+ 	cor 
+ 	0.7172019 
+ \end{lstlisting}   
+ 
+% {{{   
+			\begin{minipage}[t!]{0.5\textwidth}
+					\begin{figure}[H]
+				    \centering  \small \caption{Analise gráfica da  normalidade}
+					\includegraphics[width=0.7\linewidth]{FIGURAS/valicas}
+					\label{fig:valicas}
+				\end{figure}
+				
+			\end{minipage}\hfill
+			\begin{minipage}[t!]{0.5\textwidth}
+					\begin{figure}[H]
+					\centering  \small \caption{Analise gráfica da  correlação entre variáveis}
+					\includegraphics[width=0.7\linewidth]{FIGURAS/painel-correla}
+					\label{fig:painel-correla}
+				\end{figure}
+				
+			\end{minipage} 
+			 			\begin{center}
+				Fonte:   Elaborado pelos Autores (2025)
+			\end{center}
+			% }}} 
+ 
+ 
+ 
+\subsection{Dinâmica temporal }
 \hspace*{1.25 cm} E finalmente, passamos para a análise temporal, o qual escolhemos uma posição geográfica onde ocorrem uma maio variação deste modelo superficial de variações de reflectância, pode análise temporal entre as diferenças  \( \Delta T = T_{2}  - T_{1} \)\\
 %
 \hspace*{1.25 cm}  Na Figura \ref{fig:INDICES}, mostra o comportamento anômalo de todos os índices espectrais ao inicio do ano de 2016, junto a margem.\\
