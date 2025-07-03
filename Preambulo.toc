@@ -1,9 +1,0 @@
-\babel@toc {brazil}{}\relax 
-\contentsline {section}{\numberline {1}Introdução}{3}{section.1}%
-\contentsline {section}{\numberline {2} Objetivos}{4}{section.2}%
-\contentsline {subsection}{\numberline {2.1} Objetivos Gerais}{4}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2} Objetivos Específicos}{4}{subsection.2.2}%
-\contentsline {section}{\numberline {3}Material e Método}{5}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Local de Estudo}{5}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Sensoriamento Remoto}{6}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Amostragem}{7}{subsection.3.3}%

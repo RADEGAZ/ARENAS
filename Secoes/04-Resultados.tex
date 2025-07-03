@@ -1,4 +1,4 @@
-%!TEX root = ..//preambulo.tex
+%!TEX root = ..//DInamica-temporal-espacial.tex
 
 \section{ Resultados }
  
@@ -157,7 +157,7 @@ Estimated statistics:
 - sd (before standardization) = 0.1402468
 \end{lstlisting}  
 % 
-\hspace*{1.25 cm} A produção inicial do variograma,  com procedimentos em \cite[p.224]{Bivand}, com a caracterização mensurada e sua distância em visão inicial da análise em Figura \ref{fig:variinical}\\
+\hspace*{1.25 cm} A produção inicial do variograma,  com procedimentos em \cite[p.224]{Bivand}, com a caracterização mensurada e sua distância em visão inicial da análise em Figura \ref{fig:variogramageor4}\\
  %%%===================
  
  \begin{comment}
@@ -218,26 +218,26 @@ Estimated statistics:
 				Fonte:   Elaborado pelos Autores (2025)
 			\end{center}
 			% }}
- \hspace*{1.25 cm} 	Em todas as Figuras \ref{fig:variogramageor4} e \ref{fig:superfdicie} que a estacionáriedade  inicia-se visualmente em aproximadamente em 0,9 e seu "range" em torno de 1300 metros\\
+ \hspace*{1.25 cm} 	Em todas as Figuras \ref{fig:variogramageor4} e \ref{fig:superficie-de-tendencia} que a estacionáriedade  inicia-se visualmente em aproximadamente em 0,9 e seu "range" em torno de 1300 metros\\
  %		
  \hspace*{1.25 cm} Na Figura \ref{fig:variogramageor4} o processo da escolha da função, na Figura \ref{fig:varexpfitsp} a função escolhida, e finalmente na Figura \ref{fig:xvalid.cruzadaesferica2} a validação cruzada, com a regressão em homocedasticidade\\
  %%-------------- 
- \hspace*{1.25 cm} Em Figura \ref{fig:superfdicie}, temos a superfície da interpolação, com a analise da covariância do modelo, distribuído espacialmente em Figura \ref{fig:htrrtyR} , com procedimentos vistos em   \cite[p.47]{delgado}, e como cada variável, seus resíduos, e observação contribuem na explicação do modelo em \ref{fig:Rplothddg} \\
+ \hspace*{1.25 cm} Em Figura \ref{fig:superficie-de-tendencia}, temos a superfície da interpolação, com a analise da covariância do modelo, distribuído espacialmente em Figura \ref{fig:superficie-de-tendencia} , com procedimentos vistos em   \cite[p.47]{delgado}, e como cada variável, seus resíduos, e observação contribuem na explicação do modelo em \ref{fig:Rplothddg} \\
    % {{{   
  			\begin{minipage}[t!]{0.31\textwidth}
  				\begin{figure}[H]
  					\centering \small \caption{Superfície interpolada}
  					\includegraphics[width=0.97\linewidth]{FIGURAS/superficie}
- 					\label{fig:superfdicie}
+ 					\label{fig:superficie-de-tendencia}
  				\end{figure}			
  				
  			\end{minipage}\hfill
  			\begin{minipage}[t!]{0.31\textwidth}
  				
  				\begin{figure}[H]
- 					\centering \small \caption{Modelo esférico}
+ 					\centering \small \caption{Mapa variografico}
  					\includegraphics[width=0.97\linewidth]{FIGURAS/varexpmap}
- 					\label{fig:htrrtyR}
+ 					\label{fig:mapavariografico}
  				\end{figure}			
  				
  			\end{minipage} 
@@ -267,7 +267,7 @@ A matrix: 1 × 1 of type dbl
 \end{lstlisting}   
  	\begin{figure}[H]
 	\centering  \small \caption{Modelagem por krigagem}
-	\includegraphics[width=0.57\linewidth]{FIGURAS/MODELOKRIGAGEM-MELHOR}
+	\includegraphics[width=0.4957\linewidth]{FIGURAS/MODELOKRIGAGEM-MELHOR}
 	\label{fig:rplotkriga}\\{ Fonte:   Elaborado pelos Autores (2025)}
 \end{figure}
 
@@ -289,7 +289,7 @@ A matrix: 1 × 1 of type dbl
 
  \end{comment}
   
-\hspace*{1.25 cm} O que nos animou a elaboração da krigagem em Figura \ref{fig:rplotkriga}, o que possibilita ao lado direito da figura os locais onde ocorrem os maiores erros, na determinação desta superfície. E para também o variograma ficou próximo ao da Figura \ref{fig:Rplothddg}  \\
+\hspace*{1.25 cm} O que nos animou a elaboração da krigagem em Figura \ref{fig:rplotkriga}, o que possibilita ao lado direito da figura os locais onde ocorrem os maiores erros, na determinação desta superfície. E para também o variograma ficou próximo ao da Figura \ref{fig:Rplothddg} 
  
  \begin{comment}
 \begin{figure}

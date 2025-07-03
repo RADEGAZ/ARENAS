@@ -1,0 +1,8 @@
+%!TEX root = ..//Avali-Arena-Esportivas.tex
+\section{METODOLOGIA}
+%
+\hspace*{1.25 cm} Em função das características do imóvel avaliando, do mercado imobiliário e da pesquisa realizada adotou-se o Método Evolutivo \(Vi = (Vt + Cb) * FC \) , por ser o que melhor reflete a realidade do imóvel avaliando.\\ 
+%
+\hspace*{1.25 cm} Diz a Norma: “8.2.4 - A composição do valor total do imóvel avaliando pode ser obtida através da conjugação de métodos, a partir do valor do terreno, considerados o custo de reprodução das benfeitorias devidamente depreciado e o fator de comercialização”,\\ 
+%
+\hspace*{1.25 cm} No presente caso, tanto o valor do terreno, e o custo das benfeitorias, foram obtidos pelo Método Comparativo Direto de Dados de Mercado - MCDDM.

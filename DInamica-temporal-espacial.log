@@ -1,0 +1,2979 @@
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.4.23)  3 JUL 2025 11:32
+ restricted system commands enabled.
+**DInamica-temporal-espacial.tex
+(./DInamica-temporal-espacial.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-05-27>
+Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "C:/Users/joseney.moro/AppData/Local
+/MiKTeX/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
+olved path "C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/luatex/luaot
+fload/fontloader-2023-12-28.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "C:/Users/joseney.moro/AppData/Local
+/MiKTeX/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (C:/Users/joseney.moro/
+AppData/Local/Programs/MiKTeX/tex/latex/base/ltxdoc.cls
+Document Class: ltxdoc 2024/02/08 v2.1j Standard LaTeX documentation class
+*************************************
+* Local config file ltxdoc.cfg used
+*************************************
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/base/ltxdoc.cfg
+File: ltxdoc.cfg 2022/06/14 v2.0d ltxdoc.cls configuration (LaTeX Project)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/base/size12.clo
+File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from C:/Users/joseney.moro/AppData/
+Local/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count192
+\c@section=\count193
+\c@subsection=\count194
+\c@subsubsection=\count195
+\c@paragraph=\count196
+\c@subparagraph=\count197
+\c@figure=\count198
+\c@table=\count199
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen140
+) (C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/base/doc.sty
+Package: doc 2024/04/26 v3.0p Standard LaTeX documentation package V3 (FMi)
+\c@StandardModuleDepth=\count266
+\guard@level=\count267
+\MacrocodeTopsep=\skip51
+\MacroIndent=\dimen141
+\macro@cnt=\count268
+\MacroTopsep=\skip52
+\IndexMin=\dimen142
+\c@IndexColumns=\count269
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.s
+ty
+Package: multicol 2024/05/23 v1.9h multicolumn formatting (FMi)
+\c@tracingmulticols=\count270
+\mult@box=\box52
+\multicol@leftmargin=\dimen143
+\c@unbalance=\count271
+\c@collectmore=\count272
+\doublecol@number=\count273
+\multicoltolerance=\count274
+\multicolpretolerance=\count275
+\full@width=\dimen144
+\page@free=\dimen145
+\premulticols=\dimen146
+\postmulticols=\dimen147
+\multicolsep=\skip53
+\multicolbaselineskip=\skip54
+\partial@page=\box53
+\last@line=\box54
+\mc@boxedresult=\box55
+\maxbalancingoverflow=\dimen148
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@firstbox=\box58
+\mult@gfirstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\c@minrows=\count276
+\c@columnbadness=\count277
+\c@finalcolumnbadness=\count278
+\last@try=\dimen149
+\multicolovershoot=\dimen150
+\multicolundershoot=\dimen151
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
+\mc@col@check@num=\count279
+)
+\GlossaryMin=\dimen152
+\c@GlossaryColumns=\count280
+\check@sum=\count281
+\bslash@cnt=\count282
+\wrong@table=\toks17
+\c@CodelineNo=\count283
+\@temptokenb=\toks18
+))
+
+LaTeX Warning: \include should only be used after \begin{document} on input lin
+e 25.
+
+(./pacotes//pacotes.tex
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+6.
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.st
+y
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperre
+f.sty
+Package: hyperref 2024-05-23 v7.01i Hypertext links for LaTeX
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.st
+y
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.
+sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetk
+eys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/kvdefinekeys/k
+vdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pdfescape/pdfe
+scape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxcmd
+s.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pdftexcmds/pdf
+texcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/infw
+arerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks22
+))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/hycolor/hycolor.
+sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref
+.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcoun
+t.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/gettitlestring
+/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvopti
+ons.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count284
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbo
+x.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count285
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/stri
+ngenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen153
+\Hy@linkcounter=\count286
+\Hy@pagecounter=\count287
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1enc.
+def
+File: pd1enc.def 2024-05-23 v7.01i Hyperref: PDFDocEncoding definition (HO)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/intcalc/intcal
+c.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count288
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc.d
+ef
+File: puenc.def 2024-05-23 v7.01i Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count289
+ (C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen154
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.
+sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/big
+intcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count290
+\Field@Width=\dimen155
+\Fld@charsize=\dimen156
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/base/atbegshi-lt
+x.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count291
+\c@Item=\count292
+\c@Hfootnote=\count293
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hluatex
+.def
+File: hluatex.def 2024-05-23 v7.01i Hyperref driver for luaTeX
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/base/atveryend-l
+tx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count294
+\c@bookmark@seq@number=\count295
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/r
+erunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/uniquecounter/
+uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip55
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/parskip/parskip.
+sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microt
+ype.sty
+Package: microtype 2024/03/29 v3.1b Micro-typographical refinements (RS)
+\MT@toks=\toks23
+\MT@tempbox=\box98
+\MT@count=\count296
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1061.
+LaTeX Info: Redefining \leftprotrusion on input line 1062.
+\MT@prot@toks=\toks24
+LaTeX Info: Redefining \rightprotrusion on input line 1081.
+LaTeX Info: Redefining \textls on input line 1392.
+\MT@outer@kern=\dimen157
+LaTeX Info: Redefining \textmicrotypecontext on input line 2013.
+\MT@listname@count=\count297
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microt
+ype-luatex.def
+File: microtype-luatex.def 2024/03/29 v3.1b Definitions specific to luatex (RS)
+
+Lua module: microtype 2024/03/29 3.1b microtype module.
+Module microtype Info: overwriting function `keepligature' on input line 63
+LaTeX Info: Redefining \lsstyle on input line 693.
+LaTeX Info: Redefining \lslig on input line 693.
+\MT@outer@space=\skip56
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/microtype/microt
+ype.cfg
+File: microtype.cfg 2024/03/29 v3.1b microtype main configuration file (RS)
+))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/morefloats/moref
+loats.sty
+Package: morefloats 2015/07/22 v1.0h Raise limit of unprocessed floats (HMM)
+Package morefloats Info: Maximum number of possible floats asked for: 36
+(morefloats)             (i.e. 18 more floats).
+(morefloats)             LaTeX might run out of memory before this
+(morefloats)             (in which case it will notify you).
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/tools/indentfirs
+t.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/lipsum/lipsum.st
+y
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/l3key
+s2e/l3keys2e.sty
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.s
+ty
+Package: expl3 2024-05-27 L3 programming layer (loader) 
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3back
+end-luatex.def
+File: l3backend-luatex.def 2024-05-08 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count298
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box99
+))
+Package: l3keys2e 2024-05-08 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count299
+\l__lipsum_a_int=\count300
+\l__lipsum_b_int=\count301
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/lipsum/lipsum.lt
+d.tex))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.st
+y
+Package: babel 2024/06/02 v24.6 The Babel package
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel
+.def
+\bbl@readstream=\read2
+\l@afrikaans=\language2
+Package babel Info: Non-standard hyphenation setup on input line 118.
+\l@ancientgreek=\language3
+\l@arabic=\language4
+\l@armenian=\language5
+\l@assamese=\language6
+\l@basque=\language7
+\l@belarusian=\language8
+\l@bengali=\language9
+\l@bokmal=\language10
+\l@bulgarian=\language11
+\l@catalan=\language12
+\l@churchslavonic=\language13
+\l@classiclatin=\language14
+\l@coptic=\language15
+\l@croatian=\language16
+\l@czech=\language17
+\l@danish=\language18
+\l@dutch=\language19
+\l@esperanto=\language20
+\l@estonian=\language21
+\l@ethiopic=\language22
+\l@farsi=\language23
+\l@finnish=\language24
+\l@french=\language25
+\l@friulan=\language26
+\l@galician=\language27
+\l@georgian=\language28
+\l@german=\language29
+\l@german-x-2024-02-28=\language30
+\l@greek=\language31
+\l@gujarati=\language32
+\l@hindi=\language33
+\l@hungarian=\language34
+\l@ibycus=\language35
+\l@icelandic=\language36
+\l@indonesian=\language37
+\l@interlingua=\language38
+\l@irish=\language39
+\l@italian=\language40
+\l@kannada=\language41
+\l@kurmanji=\language42
+\l@latin=\language43
+\l@latvian=\language44
+\l@lithuanian=\language45
+\l@liturgicallatin=\language46
+\l@macedonian=\language47
+\l@malayalam=\language48
+\l@marathi=\language49
+\l@mongolian=\language50
+\l@mongolianlmc=\language51
+\l@monogreek=\language52
+\l@ngerman=\language53
+\l@ngerman-x-2024-02-28=\language54
+\l@nynorsk=\language55
+\l@occitan=\language56
+\l@oriya=\language57
+\l@pali=\language58
+\l@panjabi=\language59
+\l@piedmontese=\language60
+\l@polish=\language61
+\l@portuguese=\language62
+\l@romanian=\language63
+\l@romansh=\language64
+\l@russian=\language65
+\l@sanskrit=\language66
+\l@serbian=\language67
+\l@serbianc=\language68
+\l@slovak=\language69
+\l@slovenian=\language70
+\l@spanish=\language71
+\l@swedish=\language72
+\l@swissgerman=\language73
+\l@tamil=\language74
+\l@telugu=\language75
+\l@thai=\language76
+\l@turkish=\language77
+\l@turkmen=\language78
+\l@ukenglish=\language79
+\l@ukrainian=\language80
+\l@uppersorbian=\language81
+\l@usenglishmax=\language82
+\l@welsh=\language83
+\babelcatcodetablenum=\catcodetable14
+\bbl@pattcodes=\catcodetable15
+)
+\babel@savecnt=\count302
+\U@D=\dimen158
+\l@unhyphenated=\language84
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/babel/luababel
+.def
+\bbl@attr@locale=\attribute4
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/arabi/bblopts.cf
+g
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/babel-english/en
+glish.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language79). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language79). Reported on input line 108.
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/babel-portuges/b
+razil.ldf
+Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
+Package babel Info: Hyphen rules for 'brazil' set to \l@portuguese
+(babel)             (\language62). Reported on input line 111.
+Package babel Info: Making " an active character on input line 143.
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/load
+hyph/loadhyph-pt.tex UTF-8 Portuguese hyphenation patterns
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/hyph-utf8/patt
+erns/tex/hyph-pt.tex))))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/e
+n/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/graphics/color.s
+ty
+Package: color 2024/01/14 v1.3d Standard LaTeX Color (DPC)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/col
+or.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: luatex.def on input line 149.
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/lua
+tex.def
+File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcol
+or.ltx))
+\@indexfile=\write3
+
+\openout3 = DInamica-temporal-espacial.idx
+
+Writing index file DInamica-temporal-espacial.idx
+\@glossaryfile=\write4
+
+\openout4 = DInamica-temporal-espacial.glo
+Writing glossary file DInamica-temporal-espacial.glo 
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/koma-script/scre
+xtend.sty
+Package: scrextend 2023/07/07 v3.41 KOMA-Script package (extend other classes w
+ith features of KOMA-Script classes)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/koma-script/scrk
+base.sty
+Package: scrkbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/koma-script/scrb
+ase.sty
+Package: scrbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/koma-script/scrl
+file.sty
+Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/koma-script/scrl
+file-hook.sty
+Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
+
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/koma-script/scrl
+ogo.sty
+Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+
+LaTeX Warning: Command \@footnotemark  has changed.
+               Check if current package is valid.
+
+)
+Package scrextend Info: File `scrsize12pt.clo' used to setup font sizes on inpu
+t line 55.
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/koma-script/scrs
+ize12pt.clo
+File: scrsize12pt.clo 2023/07/07 v3.41 KOMA-Script font size class option (12pt
+)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/backref
+.sty
+Package: backref 2023-11-26 v1.44 Bibliographical back referencing
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/lastpage/lastpag
+e.sty
+Package: lastpage 2024/04/27 v2.1a lastpage: 2.09 or 2e? (HMM)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/lastpage/lastpag
+e2e.sty
+Package: lastpage2e 2024/04/27 v2.1a Decide which 2e lastpage version to use (H
+MM)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/lastpage/lastpag
+emodern.sty
+Package: lastpagemodern 2024-04-27 v2.1a Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count303
+) 
+))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/fancyhdr/fancyhd
+r.sty
+Package: fancyhdr 2024/04/23 v4.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip57
+\f@nch@O@elh=\skip58
+\f@nch@O@erh=\skip59
+\f@nch@O@olh=\skip60
+\f@nch@O@orh=\skip61
+\f@nch@O@elf=\skip62
+\f@nch@O@erf=\skip63
+\f@nch@O@olf=\skip64
+\f@nch@O@orf=\skip65
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspe
+c.sty
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xpars
+e/xparse.sty
+Package: xparse 2024-05-08 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2024/05/11 2.9e Font selection for XeLaTeX and LuaLaTeX
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspe
+c-luatex.sty
+Package: fontspec-luatex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaT
+eX
+\l__fontspec_script_int=\count304
+\l__fontspec_language_int=\count305
+\l__fontspec_strnum_int=\count306
+\l__fontspec_tmp_int=\count307
+\l__fontspec_tmpa_int=\count308
+\l__fontspec_tmpb_int=\count309
+\l__fontspec_tmpc_int=\count310
+\l__fontspec_em_int=\count311
+\l__fontspec_emdef_int=\count312
+\l__fontspec_strong_int=\count313
+\l__fontspec_strongdef_int=\count314
+\l__fontspec_tmpa_dim=\dimen159
+\l__fontspec_tmpb_dim=\dimen160
+\l__fontspec_tmpc_dim=\dimen161
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspe
+c.cfg)))
+luaotfload | cache : Lookup cache loaded from C:/Users/joseney.moro/AppData/Loca
+l/MiKTeX/luatex-cache/generic/names/luaotfload-lookup-cache.luc.
+luaotfload | aux : font no 27 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 27 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 27 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 27 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 27 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 27 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 28 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 28 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 28 (nil) does not define feature smcp for script dflt
+ with language dflt
+luaotfload | aux : font no 28 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 28 (nil) does not define feature smcp for script latn
+ with language dflt
+luaotfload | aux : font no 28 (nil) does not define feature smcp for script dflt
+ with language dflt
+
+Package fontspec Info: 
+(fontspec)             Font family 'Arial(0)' created for font 'Arial' with
+(fontspec)             options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"name:Arial:mode=node;script=latn;language=dflt;+tlig
+;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"name:Arial:mode=node;script=latn;language=dflt;+tlig
+;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"name:Arial/B:mode=node;script=latn;language=dflt;+tl
+ig;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"name:Arial/B:mode=node;script=latn;language=dflt;+tl
+ig;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"name:Arial/I:mode=node;script=latn;language=dflt;+tl
+ig;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"name:Arial/BI:mode=node;script=latn;language=dflt;+t
+lig;"
+
+)
+
+LaTeX Warning: \include should only be used after \begin{document} on input lin
+e 26.
+
+(./pacotes//pacotes2.tex
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/abntex2/abntex2c
+ite.sty
+Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count315
+\calc@Bcount=\count316
+\calc@Adimen=\dimen162
+\calc@Bdimen=\dimen163
+\calc@Askip=\skip66
+\calc@Bskip=\skip67
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count317
+\calc@Cskip=\skip68
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/abntex2/abntex2a
+brev.sty)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/setspace/setspac
+e.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+\minimumbiblabelwidth=\skip69
+\ABCIauxlen=\skip70
+\c@ABCIaux=\count318
+\c@ABCImax=\count319
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifpdf.st
+y
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifxetex.
+sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/relsize/relsize.
+sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\biblabelsep=\skip71
+LaTeX Info: Redefining \newblock on input line 591.
+LaTeX Info: Redefining \cite on input line 618.
+\ABCItoken=\toks25
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/nomencl/nomencl.
+sty
+Package: nomencl 2021/11/10 v5.6 Nomenclature package
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.
+sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkeyva
+l.tex
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkvuti
+ls.tex
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count320
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/koma-script/tocb
+asic.sty
+Package: tocbasic 2023/07/07 v3.41 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip72
+\scr@dte@tocline@numbox=\box100
+)
+Package tocbasic Info: setting babel extension for `nlo' on input line 187.
+Package tocbasic Info: setting babel extension for `nls' on input line 188.
+\nomlabelwidth=\dimen164
+\nom@tempdim=\dimen165
+\nomitemsep=\skip73
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphic
+x.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphic
+s.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.st
+y
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/gra
+phics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 106.
+)
+\Gin@req@height=\dimen166
+\Gin@req@width=\dimen167
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/caption/subcapti
+on.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption.
+sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption3
+.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen168
+\captionmargin=\dimen169
+\caption@leftmargin=\dimen170
+\caption@rightmargin=\dimen171
+\caption@width=\dimen172
+\caption@indent=\dimen173
+\caption@parindent=\dimen174
+\caption@hangindent=\dimen175
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count321
+\c@continuedfloat=\count322
+Package caption Info: hyperref package is loaded.
+Package caption Info: scrextend package is loaded.
+\caption@addmargin@hsize=\dimen176
+\caption@addmargin@linewidth=\dimen177
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count323
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count324
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count325
+\float@exts=\toks28
+\float@box=\box101
+\@float@everytoks=\toks29
+\@floatcapt=\box102
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.
+sty
+\wrapoverhang=\dimen178
+\WF@size=\dimen179
+\c@WF@wrappedlines=\count326
+\WF@box=\box103
+\WF@everypar=\toks30
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/blindtext/blindt
+ext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count327
+\c@Blindtext=\count328
+\c@blind@countparstart=\count329
+\blind@countxx=\count330
+\blindtext@numBlindtext=\count331
+\blind@countyy=\count332
+\c@blindlist=\count333
+\c@blindlistlevel=\count334
+\c@blindlist@level=\count335
+\blind@listitem=\count336
+\c@blind@listcount=\count337
+\c@blind@levelcount=\count338
+\blind@mathformula=\count339
+\blind@Mathformula=\count340
+\c@blind@randomcount=\count341
+\c@blind@randommax=\count342
+\c@blind@pangramcount=\count343
+\c@blind@pangrammax=\count344
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/pgf/frontendlaye
+r/tikz.sty
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer/p
+gf.sty
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pg
+frcs.sty
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/
+pgfutil-common.tex
+\pgfutil@everybye=\toks31
+\pgfutil@tempdima=\dimen180
+\pgfutil@tempdimb=\dimen181
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/
+pgfutil-latex.def
+\pgfutil@abb=\box104
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/
+pgfrcs.code.tex
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/pgf.revisi
+on.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer/p
+gfcore.sty
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/pgf/systemlayer/
+pgfsys.sty
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlaye
+r/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/
+pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/
+pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks34
+))
+\pgf@x=\dimen182
+\pgf@y=\dimen183
+\pgf@xa=\dimen184
+\pgf@ya=\dimen185
+\pgf@xb=\dimen186
+\pgf@yb=\dimen187
+\pgf@xc=\dimen188
+\pgf@yc=\dimen189
+\pgf@xd=\dimen190
+\pgf@yd=\dimen191
+\w@pgf@writea=\write5
+\r@pgf@reada=\read3
+\c@pgf@counta=\count345
+\c@pgf@countb=\count346
+\c@pgf@countc=\count347
+\c@pgf@countd=\count348
+\t@pgf@toka=\toks35
+\t@pgf@tokb=\toks36
+\t@pgf@tokc=\toks37
+\pgf@sys@id@count=\count349
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlaye
+r/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-luatex.def
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlaye
+r/pgfsys-luatex.def
+File: pgfsys-luatex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlaye
+r/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlaye
+r/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count350
+\pgfsyssoftpath@bigbuffer@items=\count351
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlaye
+r/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.st
+y
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/col
+or.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 274.
+LaTeX Info: Redefining \color on input line 758.
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcol
+or.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer
+/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfma
+th.code.tex
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfma
+thutil.code.tex)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfma
+thparser.code.tex
+\pgfmath@dimen=\dimen192
+\pgfmath@count=\count352
+\pgfmath@box=\box105
+\pgfmath@toks=\toks38
+\pgfmath@stack@operand=\toks39
+\pgfmath@stack@operation=\toks40
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfma
+thfunctions.code.tex)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfma
+thfunctions.basic.code.tex)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfma
+thfunctions.trigonometric.code.tex)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfma
+thfunctions.random.code.tex)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfma
+thfunctions.comparison.code.tex)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfma
+thfunctions.base.code.tex)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfma
+thfunctions.round.code.tex)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfma
+thfunctions.misc.code.tex)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfma
+thfunctions.integerarithmetics.code.tex)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfma
+thcalc.code.tex)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfma
+thfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count353
+))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfin
+t.code.tex)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer
+/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen193
+\pgf@picmaxx=\dimen194
+\pgf@picminy=\dimen195
+\pgf@picmaxy=\dimen196
+\pgf@pathminx=\dimen197
+\pgf@pathmaxx=\dimen198
+\pgf@pathminy=\dimen199
+\pgf@pathmaxy=\dimen256
+\pgf@xx=\dimen257
+\pgf@xy=\dimen258
+\pgf@yx=\dimen259
+\pgf@yy=\dimen260
+\pgf@zx=\dimen261
+\pgf@zy=\dimen262
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer
+/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen263
+\pgf@path@lasty=\dimen264
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer
+/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen265
+\pgf@shorten@start@additional=\dimen266
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer
+/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box106
+\pgf@hbox=\box107
+\pgf@layerbox@main=\box108
+\pgf@picture@serial@count=\count354
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer
+/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen267
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer
+/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen268
+\pgf@pt@y=\dimen269
+\pgf@pt@temp=\dimen270
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer
+/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer
+/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer
+/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer
+/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen271
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer
+/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen272
+\pgf@sys@shading@range@num=\count355
+\pgf@shadingcount=\count356
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer
+/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer
+/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box109
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer
+/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer
+/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer
+/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer
+/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pg
+fmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box110
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pg
+fmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibilit
+y/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen273
+\pgf@nodesepend=\dimen274
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibilit
+y/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pg
+ffor.sty
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pg
+fkeys.sty
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/
+pgfkeys.code.tex))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/pgf/math/pgfmath
+.sty
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfma
+th.code.tex))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/
+pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen275
+\pgffor@skip=\dimen276
+\pgffor@stack=\toks41
+\pgffor@toks=\toks42
+))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendla
+yer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/
+pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count357
+\pgfplotmarksize=\dimen277
+)
+\tikz@lastx=\dimen278
+\tikz@lasty=\dimen279
+\tikz@lastxsaved=\dimen280
+\tikz@lastysaved=\dimen281
+\tikz@lastmovetox=\dimen282
+\tikz@lastmovetoy=\dimen283
+\tikzleveldistance=\dimen284
+\tikzsiblingdistance=\dimen285
+\tikz@figbox=\box111
+\tikz@figbox@bg=\box112
+\tikz@tempbox=\box113
+\tikz@tempbox@bg=\box114
+\tikztreelevel=\count358
+\tikznumberofchildren=\count359
+\tikznumberofcurrentchild=\count360
+\tikz@fig@count=\count361
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pg
+fmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count362
+\pgfmatrixcurrentcolumn=\count363
+\pgf@matrix@numberofcolumns=\count364
+)
+\tikz@expandcount=\count365
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendla
+yer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendla
+yer/tikz/libraries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendla
+yer/tikz/libraries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendla
+yer/tikz/libraries/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/
+pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\arrowsize=\dimen286
+))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendla
+yer/tikz/libraries/tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendla
+yer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/
+shapes/pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendla
+yer/tikz/libraries/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/
+shapes/pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendla
+yer/tikz/libraries/tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/
+shapes/pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendla
+yer/tikz/libraries/tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/
+shapes/pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendla
+yer/tikz/libraries/tikzlibraryshapes.callouts.code.tex
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/
+shapes/pgflibraryshapes.callouts.code.tex))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendla
+yer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/
+shapes/pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodepartlowerbox=\box115
+\pgfnodeparttwobox=\box116
+\pgfnodepartthreebox=\box117
+\pgfnodepartfourbox=\box118
+\pgfnodeparttwentybox=\box119
+\pgfnodepartnineteenbox=\box120
+\pgfnodeparteighteenbox=\box121
+\pgfnodepartseventeenbox=\box122
+\pgfnodepartsixteenbox=\box123
+\pgfnodepartfifteenbox=\box124
+\pgfnodepartfourteenbox=\box125
+\pgfnodepartthirteenbox=\box126
+\pgfnodeparttwelvebox=\box127
+\pgfnodepartelevenbox=\box128
+\pgfnodeparttenbox=\box129
+\pgfnodepartninebox=\box130
+\pgfnodeparteightbox=\box131
+\pgfnodepartsevenbox=\box132
+\pgfnodepartsixbox=\box133
+\pgfnodepartfivebox=\box134
+)))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendla
+yer/tikz/libraries/tikzlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendla
+yer/tikz/libraries/tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/
+pgflibraryfadings.code.tex
+File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendla
+yer/tikz/libraries/tikzlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendla
+yer/tikz/libraries/tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/
+pgflibrarypatterns.code.tex
+File: pgflibrarypatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendla
+yer/tikz/libraries/tikzlibraryquotes.code.tex
+File: tikzlibraryquotes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendla
+yer/tikz/libraries/tikzlibraryspy.code.tex
+File: tikzlibraryspy.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\tikz@lib@spybox=\box135
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/quoting/quoting.
+sty
+Package: quoting 2014/01/28 v0.1c Consolidated environment for displayed text
+\quo@toppartop=\skip74
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsmath.
+sty
+Package: amsmath 2024/05/23 v2.17q AMS math features
+\@mathmargin=\skip75
+
+For additional information on amsmath, use the `?' option.
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amstext.
+sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsgen.s
+ty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks43
+\ex@=\dimen287
+))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsbsy.s
+ty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen288
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsopn.s
+ty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count366
+LaTeX Info: Redefining \frac on input line 235.
+\uproot@=\count367
+\leftroot@=\count368
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count369
+\DOTSCASE@=\count370
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box136
+\strutbox@=\box137
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen289
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count371
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count372
+\dotsspace@=\muskip18
+\c@parentequation=\count373
+\dspbrk@lvl=\count374
+\tag@help=\toks44
+\row@=\count375
+\column@=\count376
+\maxfields@=\count377
+\andhelp@=\toks45
+\eqnshift@=\dimen290
+\alignsep@=\dimen291
+\tagshift@=\dimen292
+\tagwidth@=\dimen293
+\totwidth@=\dimen294
+\lineht@=\dimen295
+\@envbody=\toks46
+\multlinegap=\skip76
+\multlinetaggap=\skip77
+\mathdisplay@stack=\toks47
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/todonotes/todono
+tes.sty
+Package: todonotes 2024/01/05 v1.1.7 Todonotes source and documentation.
+Package: todonotes 2024/01/05
+\c@@todonotes@numberoftodonotes=\count378
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/comment/comment.
+sty
+\CommentStream=\write6
+ Excluding comment 'comment')
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.s
+ty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks48
+\verbatim@line=\toks49
+\verbatim@in@stream=\read4
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/listings/listing
+s.sty
+\lst@mode=\count379
+\lst@gtempboxa=\box138
+\lst@token=\toks50
+\lst@length=\count380
+\lst@currlwidth=\dimen296
+\lst@column=\count381
+\lst@pos=\count382
+\lst@lostspace=\dimen297
+\lst@width=\dimen298
+\lst@newlines=\count383
+\lst@lineno=\count384
+\lst@maxwidth=\dimen299
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstpatc
+h.sty
+File: lstpatch.sty 2024/05/25 1.10b (Carsten Heinz)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstmisc
+.sty
+File: lstmisc.sty 2024/05/25 1.10b (Carsten Heinz)
+\c@lstnumber=\count385
+\lst@skipnumbers=\count386
+\lst@framebox=\box139
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/listings/listing
+s.cfg
+File: listings.cfg 2024/05/25 1.10b listings configuration
+))
+Package: listings 2024/05/25 1.10b (Carsten Heinz)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/mdframed/mdframe
+d.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspag
+e.sty
+Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.s
+ty
+Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/etexcmds/etexc
+mds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/auxhook/auxhook.
+sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count387
+Package zref Info: New property: abspage on input line 67.
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/needspace/needsp
+ace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip78
+\c@mdf@globalstyle@cnt=\count388
+\mdf@skipabove@length=\skip79
+\mdf@skipbelow@length=\skip80
+\mdf@leftmargin@length=\skip81
+\mdf@rightmargin@length=\skip82
+\mdf@innerleftmargin@length=\skip83
+\mdf@innerrightmargin@length=\skip84
+\mdf@innertopmargin@length=\skip85
+\mdf@innerbottommargin@length=\skip86
+\mdf@splittopskip@length=\skip87
+\mdf@splitbottomskip@length=\skip88
+\mdf@outermargin@length=\skip89
+\mdf@innermargin@length=\skip90
+\mdf@linewidth@length=\skip91
+\mdf@innerlinewidth@length=\skip92
+\mdf@middlelinewidth@length=\skip93
+\mdf@outerlinewidth@length=\skip94
+\mdf@roundcorner@length=\skip95
+\mdf@footenotedistance@length=\skip96
+\mdf@userdefinedwidth@length=\skip97
+\mdf@needspace@length=\skip98
+\mdf@frametitleaboveskip@length=\skip99
+\mdf@frametitlebelowskip@length=\skip100
+\mdf@frametitlerulewidth@length=\skip101
+\mdf@frametitleleftmargin@length=\skip102
+\mdf@frametitlerightmargin@length=\skip103
+\mdf@shadowsize@length=\skip104
+\mdf@extratopheight@length=\skip105
+\mdf@subtitleabovelinewidth@length=\skip106
+\mdf@subtitlebelowlinewidth@length=\skip107
+\mdf@subtitleaboveskip@length=\skip108
+\mdf@subtitlebelowskip@length=\skip109
+\mdf@subtitleinneraboveskip@length=\skip110
+\mdf@subtitleinnerbelowskip@length=\skip111
+\mdf@subsubtitleabovelinewidth@length=\skip112
+\mdf@subsubtitlebelowlinewidth@length=\skip113
+\mdf@subsubtitleaboveskip@length=\skip114
+\mdf@subsubtitlebelowskip@length=\skip115
+\mdf@subsubtitleinneraboveskip@length=\skip116
+\mdf@subsubtitleinnerbelowskip@length=\skip117
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/mdframed/md-fram
+e-1.mdf
+File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
+)
+\mdf@frametitlebox=\box140
+\mdf@footnotebox=\box141
+\mdf@splitbox@one=\box142
+\mdf@splitbox@two=\box143
+\mdf@splitbox@save=\box144
+\mdfsplitboxwidth=\skip118
+\mdfsplitboxtotalwidth=\skip119
+\mdfsplitboxheight=\skip120
+\mdfsplitboxdepth=\skip121
+\mdfsplitboxtotalheight=\skip122
+\mdfframetitleboxwidth=\skip123
+\mdfframetitleboxtotalwidth=\skip124
+\mdfframetitleboxheight=\skip125
+\mdfframetitleboxdepth=\skip126
+\mdfframetitleboxtotalheight=\skip127
+\mdffootnoteboxwidth=\skip128
+\mdffootnoteboxtotalwidth=\skip129
+\mdffootnoteboxheight=\skip130
+\mdffootnoteboxdepth=\skip131
+\mdffootnoteboxtotalheight=\skip132
+\mdftotallinewidth=\skip133
+\mdfboundingboxwidth=\skip134
+\mdfboundingboxtotalwidth=\skip135
+\mdfboundingboxheight=\skip136
+\mdfboundingboxdepth=\skip137
+\mdfboundingboxtotalheight=\skip138
+\mdf@freevspace@length=\skip139
+\mdf@horizontalwidthofbox@length=\skip140
+\mdf@verticalmarginwhole@length=\skip141
+\mdf@horizontalspaceofbox=\skip142
+\mdfsubtitleheight=\skip143
+\mdfsubsubtitleheight=\skip144
+\c@mdfcountframes=\count389
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count390
+\c@mdf@env@i=\count391
+\c@mdf@env@ii=\count392
+\c@mdf@zref@counter=\count393
+Package zref Info: New property: mdf@pagevalue on input line 895.
+))
+
+LaTeX Warning: \include should only be used after \begin{document} on input lin
+e 27.
+
+(./pacotes//pacotes3.tex
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometr
+y.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.s
+ty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count394
+\Gm@cntv=\count395
+\c@Gm@tempcnt=\count396
+\Gm@bindingoffset=\dimen300
+\Gm@wd@mp=\dimen301
+\Gm@odd@mp=\dimen302
+\Gm@even@mp=\dimen303
+\Gm@layoutwidth=\dimen304
+\Gm@layoutheight=\dimen305
+\Gm@layouthoffset=\dimen306
+\Gm@layoutvoffset=\dimen307
+\Gm@dimlist=\toks51
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometr
+y.cfg))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+Arial(0) on input li
+ne 116.
+LaTeX Font Info:    No file T1Arial(0).fd. on input line 116.
+
+LaTeX Font Warning: Font shape `T1/Arial(0)/m/n' undefined
+(Font)              using `T1/cmr/m/n' instead on input line 116.
+
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/booktabs/booktab
+s.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen308
+\lightrulewidth=\dimen309
+\cmidrulewidth=\dimen310
+\belowrulesep=\dimen311
+\belowbottomsep=\dimen312
+\aboverulesep=\dimen313
+\abovetopsep=\dimen314
+\cmidrulesep=\dimen315
+\cmidrulekern=\dimen316
+\defaultaddspace=\dimen317
+\@cmidla=\count397
+\@cmidlb=\count398
+\@aboverulesep=\dimen318
+\@belowrulesep=\dimen319
+\@thisruleclass=\count399
+\@lastruleclass=\count400
+\@thisrulewidth=\dimen320
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/supertabular/sup
+ertabular.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count401
+\ST@wd=\dimen321
+\ST@rightskip=\skip145
+\ST@leftskip=\skip146
+\ST@parfillskip=\skip147
+\ST@pageleft=\dimen322
+\ST@headht=\dimen323
+\ST@tailht=\dimen324
+\ST@pagesofar=\dimen325
+\ST@pboxht=\dimen326
+\ST@lineht=\dimen327
+\ST@prevht=\dimen328
+\ST@toadd=\dimen329
+\ST@dimen=\dimen330
+\ST@pbox=\box145
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.s
+ty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
+\col@sep=\dimen331
+\ar@mcellbox=\box146
+\extrarowheight=\dimen332
+\NC@list=\toks52
+\extratabsurround=\skip148
+\backup@length=\skip149
+\ar@cellbox=\box147
+)
+\TX@col@width=\dimen333
+\TX@old@table=\dimen334
+\TX@old@col=\dimen335
+\TX@target=\dimen336
+\TX@delta=\dimen337
+\TX@cols=\count402
+\TX@ftn=\toks53
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/tools/longtable.
+sty
+Package: longtable 2024-04-26 v4.20 Multi-page Table package (DPC)
+\LTleft=\skip150
+\LTright=\skip151
+\LTpre=\skip152
+\LTpost=\skip153
+\LTchunksize=\count403
+\LTcapwidth=\dimen338
+\LT@head=\box148
+\LT@firsthead=\box149
+\LT@foot=\box150
+\LT@lastfoot=\box151
+\LT@gbox=\box152
+\LT@cols=\count404
+\LT@rows=\count405
+\c@LT@tables=\count406
+\c@LT@chunks=\count407
+\LT@p@ftn=\toks54
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/pdflscape/pdflsc
+ape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/pdflscape/pdflsc
+ape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/graphics/lscape.
+sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/multirow/multiro
+w.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip154
+\multirow@cntb=\count408
+\multirow@dima=\skip155
+\bigstrutjot=\dimen339
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/tools/varioref.s
+ty
+Package: varioref 2024/05/23 v1.6g package for extended references (FMi)
+\c@vrcnt=\count409
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/enumitem/enumite
+m.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip156
+\enit@outerparindent=\dimen340
+\enit@toks=\toks55
+\enit@inbox=\box153
+\enit@count@id=\count410
+\enitdp@description=\count411
+) ("C:/Program Files/MiKTeX/tex/latex/hypernat/hypernat.sty"
+Package: hypernat 2001/07/09 v1.0b hyperref and natbib compatibility (jb)
+)
+("C:/Program Files/MiKTeX/tex/latex/threeparttablex/threeparttablex.sty"
+Package: threeparttablex 2013/07/23 v0.3 by daleif
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/threeparttable/t
+hreeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box154
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/environ/environ.
+sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/trimspaces/trims
+paces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\TPTL@width=\skip157
+))
+
+LaTeX Warning: \include should only be used after \begin{document} on input lin
+e 31.
+
+(./Configuracoes//configuracoes4.tex
+
+Package hyperref Warning: Option `pagebackref' has already been used,
+(hyperref)                setting the option has no effect on input line 20.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 20.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 20.
+
+Package hyperref Info: Option `colorlinks' set `true' on input line 20.
+
+Package hyperref Warning: Option `backref' has already been used,
+(hyperref)                setting the option has no effect on input line 20.
+
+)
+
+LaTeX Warning: \include should only be used after \begin{document} on input lin
+e 32.
+
+(./Configuracoes//configuracoes5.tex)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/hypdoc/hypdoc.st
+y
+Package: hypdoc 2023-10-26 v1.19 Hyper extensions for doc.sty (HO)
+
+
+Package hypdoc Warning: hyperref has been loaded before with option 'hyperindex
+' enabled.
+(hypdoc)                The index will not work properly. on input line 65.
+
+Package hypdoc Info: hyperref has been loaded before with option 'pdfusetitle' 
+disabled. on input line 65.
+Package hyperref Info: Option `colorlinks' set `true' on input line 75.
+Package hyperref Info: Option `plainpages' set `false' on input line 75.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 75.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 75.
+\c@HD@unique=\count412
+\c@HD@hypercount=\count413
+\HD@helplength=\skip158
+)
+
+LaTeX Warning: Unused global option(s):
+    [article,section,sumario].
+
+(./DInamica-temporal-espacial.aux)
+\openout1 = DInamica-temporal-espacial.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
+0.
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+Package doc Info: Made | a short reference for \verb on input line 40.
+Package hyperref Info: Link coloring ON on input line 40.
+
+(./DInamica-temporal-espacial.out) (./DInamica-temporal-espacial.out)
+\@outlinefile=\write7
+
+\openout7 = DInamica-temporal-espacial.out
+LaTeX Info: Redefining \microtypecontext on input line 40.
+Package microtype Info: Applying patch `item' on input line 40.
+Package microtype Info: Applying patch `toc' on input line 40.
+Package microtype Info: Applying patch `eqnum' on input line 40.
+
+
+Package microtype Warning: Unable to apply patch `footnote' on input line 40.
+
+Package microtype Info: Applying patch `verbatim' on input line 40.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 40.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Arial' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp
+-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count414
+\scratchdimen=\dimen341
+\scratchbox=\box155
+\nofMPsegments=\count415
+\nofMParguments=\count416
+\everyMPshowfont=\toks56
+\MPscratchCnt=\count417
+\MPscratchDim=\dimen342
+\MPnumerator=\count418
+\makeMPintoPDFobject=\count419
+\everyMPtoPDFconversion=\toks57
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/eps
+topdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epstopd
+f-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/caption/ltcaptio
+n.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: supertabular package is loaded.
+Package caption Info: threeparttable package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count420
+Package tocbasic Info: setting babel extension for `lol' on input line 40.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(110.0pt, 635.4622pt, 99.58464pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=635.4622pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-57.26999pt
+* \headheight=70.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=126.0pt
+* \marginparsep=6.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemargintrue
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(./DInamica-temporal-espacial.hd)
+\HD@savedest@out=\write8
+
+\openout8 = DInamica-temporal-espacial.hd
+ (./Secoes//00-Resumo.tex)
+
+[1
+
+{C:/Users/joseney.moro/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(./DInamica-temporal-espacial.toc
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4
+.
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/microtype/mt-cmr
+.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4
+.
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+4.
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+4.
+
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 4.
+)
+\tf@toc=\write9
+
+\openout9 = DInamica-temporal-espacial.toc
+
+
+<pre-pos-textuais/cabecalho.png, id=156, 512.55319pt x 113.7868pt>
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 56.
+
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+<pre-pos-textuais//rodape.png, id=157, 512.55319pt x 113.7868pt>
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 56.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[2<./pre-pos-textuais/cabecalho.png><./pre-pos-textuais//rodape.png>]
+(./Secoes//01-Introducao.tex
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 32.
+
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 32.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[3]) (./Secoes//02-Objetivo.tex
+Underfull \hbox (badness 10000) in paragraph at lines 12--19
+
+ []
+
+) (./Secoes//03-Material-metodos.tex
+<FIGURAS/Localizacao.jpg, id=184, 2051.41406pt x 621.07031pt>
+File: FIGURAS/Localizacao.jpg Graphic file (type jpg)
+<use FIGURAS/Localizacao.jpg>
+Package luatex.def Info: FIGURAS/Localizacao.jpg  used on input line 12.
+(luatex.def)             Requested size: 218.51869pt x 66.14777pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--15
+
+ []
+
+
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 15.
+
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 15.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 15--20
+
+ []
+
+<FIGURAS/enche.jpg, id=197, 444.91219pt x 287.57437pt>
+File: FIGURAS/enche.jpg Graphic file (type jpg)
+<use FIGURAS/enche.jpg>
+Package luatex.def Info: FIGURAS/enche.jpg  used on input line 27.
+(luatex.def)             Requested size: 145.72462pt x 94.18896pt.
+<FIGURAS/lamache1.jpg, id=198, 443.40656pt x 286.82156pt>
+File: FIGURAS/lamache1.jpg Graphic file (type jpg)
+<use FIGURAS/lamache1.jpg>
+Package luatex.def Info: FIGURAS/lamache1.jpg  used on input line 34.
+(luatex.def)             Requested size: 145.72462pt x 94.26627pt.
+<FIGURAS/lama1red.jpg, id=199, 438.8897pt x 283.0575pt>
+File: FIGURAS/lama1red.jpg Graphic file (type jpg)
+<use FIGURAS/lama1red.jpg>
+Package luatex.def Info: FIGURAS/lama1red.jpg  used on input line 41.
+(luatex.def)             Requested size: 145.72462pt x 93.98369pt.
+
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 53.
+
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 53.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[5<./FIGURAS/Localizacao.jpg><./FIGURAS/enche.jpg><./FIGURAS/lamache1.jpg><./FIG
+URAS/lama1red.jpg>]
+<FIGURAS//quatroDimensao.png, id=228, 230.0595pt x 63.8385pt>
+File: FIGURAS//quatroDimensao.png Graphic file (type png)
+<use FIGURAS//quatroDimensao.png>
+Package luatex.def Info: FIGURAS//quatroDimensao.png  used on input line 73.
+(luatex.def)             Requested size: 441.58734pt x 122.54903pt.
+
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 76.
+
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 76.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[6]
+<FIGURAS/usoSOLOamostras.png, id=251, 1324.95pt x 1084.05pt>
+File: FIGURAS/usoSOLOamostras.png Graphic file (type png)
+<use FIGURAS/usoSOLOamostras.png>
+Package luatex.def Info: FIGURAS/usoSOLOamostras.png  used on input line 100.
+(luatex.def)             Requested size: 287.02907pt x 234.83612pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--103
+
+ []
+
+
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 103
+.
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 103.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[7<./FIGURAS//quatroDimensao.png>]
+Underfull \hbox (badness 3668) in paragraph at lines 103--107
+[]|  \TU/Arial(0)/m/n/12 A me-to-do-lo-gia de
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 103--107
+\TU/Arial(0)/m/n/12 pla-ne-ja-mento e di-re-ci-o-na-
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 103--107
+\TU/Arial(0)/m/n/12 le-van-tes des-ta-cam os co-
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 103--107
+\TU/Arial(0)/m/n/12 por Con-gal-ton ([][]CON-GAL-
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 103--107
+\TU/Arial(0)/m/n/12 ao de-ter-mi-nar o ta-ma-nho
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--107
+
+ []
+
+
+Overfull \hbox (10.84749pt too wide) detected at line 111
+[][][]\OML/lmm/m/it/12 n \OT1/lmr/m/n/12 = []
+ []
+
+
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 125
+.
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 125.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[8<./FIGURAS/usoSOLOamostras.png>]
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 149
+.
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 149.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[9]
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstlang
+1.sty
+File: lstlang1.sty 2024/05/25 1.10b listings language file
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 185
+.
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 185.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[10]
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstlang
+1.sty
+File: lstlang1.sty 2024/05/25 1.10b listings language file
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstlang
+2.sty
+File: lstlang2.sty 2024/05/25 1.10b listings language file
+)
+(C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstlang
+3.sty
+File: lstlang3.sty 2024/05/25 1.10b listings language file
+)
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 224
+.
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 224.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[11]
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 252
+.
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 252.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[12]
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 298
+.
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 298.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[13]) (./Secoes//04-Resultados.tex
+<FIGURAS/indices20131023.png, id=431, 384.6872pt x 368.87813pt>
+File: FIGURAS/indices20131023.png Graphic file (type png)
+<use FIGURAS/indices20131023.png>
+Package luatex.def Info: FIGURAS/indices20131023.png  used on input line 13.
+(luatex.def)             Requested size: 136.89099pt x 131.26503pt.
+<FIGURAS/indices20160101.png, id=432, 387.69844pt x 386.19281pt>
+File: FIGURAS/indices20160101.png Graphic file (type png)
+<use FIGURAS/indices20160101.png>
+Package luatex.def Info: FIGURAS/indices20160101.png  used on input line 22.
+(luatex.def)             Requested size: 136.89099pt x 136.35985pt.
+<FIGURAS/indices20231222.png, id=433, 390.70969pt x 392.21532pt>
+File: FIGURAS/indices20231222.png Graphic file (type png)
+<use FIGURAS/indices20231222.png>
+Package luatex.def Info: FIGURAS/indices20231222.png  used on input line 31.
+(luatex.def)             Requested size: 136.89099pt x 137.41505pt.
+
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 35.
+
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 35.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[14]
+<FIGURAS/Rplotndwi2016.jpeg, id=459, 283.0575pt x 237.13594pt>
+File: FIGURAS/Rplotndwi2016.jpeg Graphic file (type jpg)
+<use FIGURAS/Rplotndwi2016.jpeg>
+Package luatex.def Info: FIGURAS/Rplotndwi2016.jpeg  used on input line 45.
+(luatex.def)             Requested size: 136.89099pt x 114.68512pt.
+<FIGURAS/Rplot0ndwi2023.jpeg, id=460, 268.00125pt x 238.64156pt>
+File: FIGURAS/Rplot0ndwi2023.jpeg Graphic file (type jpg)
+<use FIGURAS/Rplot0ndwi2023.jpeg>
+Package luatex.def Info: FIGURAS/Rplot0ndwi2023.jpeg  used on input line 54.
+(luatex.def)             Requested size: 136.89099pt x 121.89128pt.
+<FIGURAS/difer202332026.png, id=461, 385.44pt x 342.5297pt>
+File: FIGURAS/difer202332026.png Graphic file (type png)
+<use FIGURAS/difer202332026.png>
+Package luatex.def Info: FIGURAS/difer202332026.png  used on input line 63.
+(luatex.def)             Requested size: 136.89099pt x 121.64854pt.
+
+
+Package wrapfig Warning: wrapfigure used inside a conflicting environment on in
+put line 75.
+
+<FIGURAS/mdtamostras.png, id=463, 1726.45pt x 1084.05pt>
+File: FIGURAS/mdtamostras.png Graphic file (type png)
+<use FIGURAS/mdtamostras.png>
+Package luatex.def Info: FIGURAS/mdtamostras.png  used on input line 78.
+(luatex.def)             Requested size: 287.02907pt x 180.21692pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--81
+
+ []
+
+
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 81.
+
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 81.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[15<./FIGURAS/indices20131023.png><./FIGURAS/indices20160101.png><./FIGURAS/indi
+ces20231222.png><./FIGURAS/Rplotndwi2016.jpeg><./FIGURAS/Rplot0ndwi2023.jpeg><./
+FIGURAS/difer202332026.png>]
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 81
+.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 82
+.
+
+
+Underfull \hbox (badness 4266) in paragraph at lines 84--87
+\TU/Arial(0)/m/n/12 vado ser uma su-per-fí-cie,
+ []
+
+<FIGURAS/RplotN1.jpeg, id=488, 386.94562pt x 298.86656pt>
+File: FIGURAS/RplotN1.jpeg Graphic file (type jpg)
+<use FIGURAS/RplotN1.jpeg>
+Package luatex.def Info: FIGURAS/RplotN1.jpeg  used on input line 109.
+(luatex.def)             Requested size: 136.89099pt x 105.73125pt.
+<FIGURAS/RplotMELNHOR.jpeg, id=489, 386.94562pt x 298.86656pt>
+File: FIGURAS/RplotMELNHOR.jpeg Graphic file (type jpg)
+<use FIGURAS/RplotMELNHOR.jpeg>
+Package luatex.def Info: FIGURAS/RplotMELNHOR.jpeg  used on input line 118.
+(luatex.def)             Requested size: 136.89099pt x 105.73125pt.
+<FIGURAS/RplotP34.jpeg, id=490, 151.3153pt x 132.495pt>
+File: FIGURAS/RplotP34.jpeg Graphic file (type jpg)
+<use FIGURAS/RplotP34.jpeg>
+Package luatex.def Info: FIGURAS/RplotP34.jpeg  used on input line 127.
+(luatex.def)             Requested size: 136.89099pt x 119.86504pt.
+
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 131
+.
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 131.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[16<./FIGURAS/mdtamostras.png>]
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 158
+.
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 158.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[17<./FIGURAS/RplotN1.jpeg><./FIGURAS/RplotMELNHOR.jpeg><./FIGURAS/RplotP34.jpeg
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
+
+ []
+
+<FIGURAS/semivariancaIMAG.png, id=529, 397.485pt x 397.485pt>
+File: FIGURAS/semivariancaIMAG.png Graphic file (type png)
+<use FIGURAS/semivariancaIMAG.png>
+Package luatex.def Info: FIGURAS/semivariancaIMAG.png  used on input line 194.
+(luatex.def)             Requested size: 136.89099pt x 136.89592pt.
+<FIGURAS/variogramageor4.png, id=530, 397.485pt x 397.485pt>
+File: FIGURAS/variogramageor4.png Graphic file (type png)
+<use FIGURAS/variogramageor4.png>
+Package luatex.def Info: FIGURAS/variogramageor4.png  used on input line 203.
+(luatex.def)             Requested size: 136.89099pt x 136.89592pt.
+<FIGURAS/modelos-esferico.png, id=531, 397.485pt x 397.485pt>
+File: FIGURAS/modelos-esferico.png Graphic file (type png)
+<use FIGURAS/modelos-esferico.png>
+Package luatex.def Info: FIGURAS/modelos-esferico.png  used on input line 212.
+(luatex.def)             Requested size: 136.89099pt x 136.89592pt.
+<FIGURAS/superficie.png, id=542, 397.485pt x 397.485pt>
+File: FIGURAS/superficie.png Graphic file (type png)
+<use FIGURAS/superficie.png>
+Package luatex.def Info: FIGURAS/superficie.png  used on input line 230.
+(luatex.def)             Requested size: 136.89099pt x 136.89592pt.
+<FIGURAS/varexpmap.png, id=543, 397.485pt x 397.485pt>
+File: FIGURAS/varexpmap.png Graphic file (type png)
+<use FIGURAS/varexpmap.png>
+Package luatex.def Info: FIGURAS/varexpmap.png  used on input line 239.
+(luatex.def)             Requested size: 136.89099pt x 136.89592pt.
+<FIGURAS/xvalid.sph-map.png, id=544, 397.485pt x 397.485pt>
+File: FIGURAS/xvalid.sph-map.png Graphic file (type png)
+<use FIGURAS/xvalid.sph-map.png>
+Package luatex.def Info: FIGURAS/xvalid.sph-map.png  used on input line 248.
+(luatex.def)             Requested size: 136.89099pt x 136.89592pt.
+
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 253
+.
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 253.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[18<./FIGURAS/semivariancaIMAG.png><./FIGURAS/variogramageor4.png><./FIGURAS/mod
+elos-esferico.png>]
+<FIGURAS/MODELOKRIGAGEM-MELHOR.png, id=560, 397.485pt x 397.485pt>
+File: FIGURAS/MODELOKRIGAGEM-MELHOR.png Graphic file (type png)
+<use FIGURAS/MODELOKRIGAGEM-MELHOR.png>
+Package luatex.def Info: FIGURAS/MODELOKRIGAGEM-MELHOR.png  used on input line 
+270.
+(luatex.def)             Requested size: 225.66315pt x 225.67116pt.
+
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 293
+.
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 293.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[19<./FIGURAS/superficie.png><./FIGURAS/varexpmap.png><./FIGURAS/xvalid.sph-map.
+png><./FIGURAS/MODELOKRIGAGEM-MELHOR.png>]
+<FIGURAS/dist-cook-alavan.png, id=577, 600.74437pt x 751.30687pt>
+File: FIGURAS/dist-cook-alavan.png Graphic file (type png)
+<use FIGURAS/dist-cook-alavan.png>
+Package luatex.def Info: FIGURAS/dist-cook-alavan.png  used on input line 342.
+(luatex.def)             Requested size: 123.83011pt x 154.85577pt.
+<FIGURAS/valicas.png, id=578, 397.485pt x 397.485pt>
+File: FIGURAS/valicas.png Graphic file (type png)
+<use FIGURAS/valicas.png>
+Package luatex.def Info: FIGURAS/valicas.png  used on input line 350.
+(luatex.def)             Requested size: 146.60732pt x 146.61226pt.
+<FIGURAS/painel-correla.png, id=579, 397.485pt x 397.485pt>
+File: FIGURAS/painel-correla.png Graphic file (type png)
+<use FIGURAS/painel-correla.png>
+Package luatex.def Info: FIGURAS/painel-correla.png  used on input line 358.
+(luatex.def)             Requested size: 126.74214pt x 126.7429pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--374
+
+ []
+
+
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 374
+.
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 374.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[20<./FIGURAS/dist-cook-alavan.png><./FIGURAS/valicas.png><./FIGURAS/painel-corr
+ela.png>]
+<FIGURAS/indices.png, id=608, 1359.0775pt x 235.88126pt>
+File: FIGURAS/indices.png Graphic file (type png)
+<use FIGURAS/indices.png>
+Package luatex.def Info: FIGURAS/indices.png  used on input line 377.
+(luatex.def)             Requested size: 441.58734pt x 76.6389pt.
+<FIGURAS/graphvisualiser-1747928533564.png, id=609, 1486.55376pt x 256.96pt>
+File: FIGURAS/graphvisualiser-1747928533564.png Graphic file (type png)
+<use FIGURAS/graphvisualiser-1747928533564.png>
+Package luatex.def Info: FIGURAS/graphvisualiser-1747928533564.png  used on inp
+ut line 383.
+(luatex.def)             Requested size: 441.58734pt x 76.33185pt.
+<FIGURAS/graphvisualiser-1747928457345.png, id=611, 1486.55376pt x 256.96pt>
+File: FIGURAS/graphvisualiser-1747928457345.png Graphic file (type png)
+<use FIGURAS/graphvisualiser-1747928457345.png>
+Package luatex.def Info: FIGURAS/graphvisualiser-1747928457345.png  used on inp
+ut line 391.
+(luatex.def)             Requested size: 441.58734pt x 76.33185pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--393
+
+ []
+
+) (./Secoes//05-Discussao.tex
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 22.
+
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 22.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[21<./FIGURAS/indices.png><./FIGURAS/graphvisualiser-1747928533564.png><./FIGURA
+S/graphvisualiser-1747928457345.png>]) (./Secoes//06-Conclusoes.tex)
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 79.
+
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 79.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[22] (./DInamica-temporal-espacial.bbl (./DInamica-temporal-espacial.brf)
+\tf@brf=\write10
+
+\openout10 = DInamica-temporal-espacial.brf
+
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 68.
+
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 68.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[23]
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 151
+.
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 151.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[24])
+No file DInamica-temporal-espacial.gls.
+No file DInamica-temporal-espacial.ind.
+
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 93.
+
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 93.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[25] 
+enddocument/afterlastpage: lastpage setting LastPage.
+(./DInamica-temporal-espacial.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-05-27>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `DInamica-temporal-espacial.out' has not chan
+ged.
+(rerunfilecheck)             Checksum: 9EFA9585B3B5E5CAA7CE9DF8727CB847;3927.
+Package rerunfilecheck Info: File `DInamica-temporal-espacial.hd' has not chang
+ed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `DInamica-temporal-espacial.brf' has not chan
+ged.
+(rerunfilecheck)             Checksum: F171E3DDF27A404AB888A3B6365E5CFC;1982.
+)
+
+Here is how much of LuaTeX's memory you used:
+ 40632 strings out of 475915
+ 244341,1977958 words of node,token memory allocated
+ 1564 words of node memory still in use:
+   23 hlist, 2 vlist, 10 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 3 glyph, 
+99 attribute, 118 glue_spec, 75 attribute_list, 2 write, 16 pdf_literal, 7 pdf_a
+ction, 16 pdf_colorstack nodes
+   avail lists: 1:9,2:4305,3:393,4:3606,5:3388,6:80,7:11674,8:55,9:10114,10:45,1
+1:1091
+ 61496 multiletter control sequences out of 65536+600000
+ 53 fonts using 14639615 bytes
+ 115i,15n,133p,1165b,1335s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<//?/c:/users/joseney.moro/appdata/local/programs/miktex/fonts/opentype/public/l
+m/lmmono10-regular.otf>{C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/font
+s/enc/dvips/lm/lm-mathsy.enc}{C:/Users/joseney.moro/AppData/Local/Programs/MiKTe
+X/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/joseney.moro/AppData/Local/Programs/MiK
+TeX/fonts/enc/dvips/lm/lm-mathit.enc}<C:/WINDOWS/Fonts/arialni.ttf><C:/WINDOWS/F
+onts/arial.ttf><C:/WINDOWS/Fonts/arialnbi.ttf><C:/WINDOWS/Fonts/arialbd.ttf><C:/
+Users/joseney.moro/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pf
+b><C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr
+12.pfb><C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/fonts/type1/public/l
+m/lmr8.pfb><C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/lm/lmsy10.pfb>
+Output written on DInamica-temporal-espacial.pdf (25 pages, 3436736 bytes).
+
+PDF statistics: 754 PDF objects out of 1000 (max. 8388607)
+ 214 named destinations out of 1000 (max. 131072)
+ 368 words of extra memory for PDF output out of 10000 (max. 100000000)
+

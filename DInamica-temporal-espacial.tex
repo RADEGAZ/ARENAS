@@ -1,0 +1,94 @@
+
+% !TeX spellcheck = ptBR
+% !TeX encoding = utf8
+% !TeX program = lualatex
+% -----------------------------------
+\documentclass[
+% -- op\c{c}ões da classe memoir --
+article,			                                    % indica que é um artigo acadêmico
+12pt,				                                   % tamanho da fonte
+oneside,											% para impressão apenas no recto. Oposto a twoside
+a4paper,											% tamanho do papel. 
+% -- op\c{c}ões da classe abntex2 --
+%chapter=TITLE,								  % títulos de capítulos convertidos em letras maiúsculas
+section=TITLE,									 % títulos de se\c{c}ões convertidos em letras maiúsculas
+%subsection=TITLE,															% títulos de subse\c{c}ões convertidos em letras maiúsculas
+%subsubsection=TITLE % títulos de subsubse\c{c}ões convertidos em letras maiúsculas
+% -- op\c{c}ões do pacote babel --
+english,																				% idioma adicional para hifeniza\c{c}ão
+brazil,																						% o último idioma é o principal do documento
+sumario=tradicional
+]{ltxdoc}
+
+%\usepackage[top=120pt, bottom=2.5cm, left=3cm, right=2cm, headheight=95pt, footskip=66pt]{geometry}%
+% PACOTES
+\include{pacotes//pacotes} 													% Trazer os pacotes
+\include{pacotes//pacotes2} 												% Trazer os pacotes
+\include{pacotes//pacotes3} 												% Trazer os pacotes
+%%%CONFIGURACOES
+\setlength{\parindent}{0cm} % SEM IDENTECAO
+
+\include{Configuracoes//configuracoes4} 
+\include{Configuracoes//configuracoes5} 
+% ------------------------------------------------------
+\usepackage{fontspec} %% => Ligar fonte Arial
+\setmainfont{Arial}
+\usepackage{fontspec} %% => Ligar fonte Arial
+\setmainfont{Arial}
+% ------------------------------------------------------ 
+
+\begin{document}
+
+\begin{center}
+	\textbf{Dinâmica espaço-temporal da contaminação pelo rompimento da Barragem de Fundão próximo à foz do Rio Doce}
+\end{center}
+	\thispagestyle{empty} % Não enumere esta pagina-
+	
+%
+
+%\listoftables
+
+\input{Secoes//00-Resumo.tex}
+% ------
+ \newpage
+ \tableofcontents
+ 
+\newpage
+% ------
+\input{Secoes//01-Introducao.tex}
+% ------
+\input{Secoes//02-Objetivo.tex}
+% ------
+\input{Secoes//03-Material-metodos.tex}
+% ------
+\input{Secoes//04-Resultados.tex}
+% ------
+\input{Secoes//05-Discussao.tex}
+% ------
+\input{Secoes//06-Conclusoes.tex}
+% ------
+\addcontentsline{toc}{section}{Referências}
+% ----------------------------------------------------------
+% ELEMENTOS PÓS-TEXTUAIS
+% ----------------------------------------------------------
+%\postextual
+%\newpage
+% ----------------------------------------------------------
+% Referências bibliográficas
+% ----------------------------------------------------------
+\bibliography{Referencias//abntex2-doc}
+% ------
+
+
+% ------
+\PrintChanges
+\PrintIndex
+% ------
+
+% ------
+\StopEventually{\PrintIndex}
+% ------
+
+\StopEventually{\PrintIndex}
+\end{document}
+
