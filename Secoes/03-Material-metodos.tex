@@ -21,7 +21,7 @@
 % {{{   
 			\begin{minipage}[t!]{0.33\textwidth}
 				\begin{figure}[H]
-					\centering \small \caption{Ano de 2013}
+					\centering \small \caption{AnoIn 2013}
 					\includegraphics[width=0.97\linewidth]{FIGURAS/enche}
 					\label{fig:indao} 
 				\end{figure}			
@@ -99,8 +99,22 @@
   	\end{center}
   \end{wrapfigure} 
   %
- \hspace*{1.25 cm} A metodologia de planejamento e direcionamento baseada na relação entre amostras e classes de uso do solo é um procedimento comum entre profissionais da área de cartografia. Diversos estudos descrevem essas atividades; no entanto, segundo os autores, os trabalhos mais relevantes destacam os conhecimentos apresentados por Congalton \cite[p.79]{Congalton}, que vinculam cada classe de uso do solo à quantidade de amostras correspondente. Além disso, Ariza \cite[p.135]{Ariza} complementa ao determinar o tamanho amostral e o erro com base na estimativa, enquanto \cite[p.192-196]{Ariza} ilustra os quantitativos, em metros quadrados, de cada classe de uso do solo e o número necessário de fragmentos por classe. Esses fundamentos permitem a aplicação de fórmulas estatísticas, como a equação \( n= \dfrac{zC ^{2} * sd^{2}* N}{ E^{2}(N-1) + Zc^{2}*sd^{2}} \) para determinar o número de amostras por classe, considerando o erro, o nível de confiança estipulado e a representação gráfica demonstrada na Figura \ref{fig:usoSOLOamostras}  .\\
+ \hspace*{1.25 cm} A metodologia de planejamento e direcionamento baseada na relação entre amostras e classes de uso do solo é um procedimento comum entre profissionais da área de cartografia. Diversos estudos descrevem essas atividades; no entanto, segundo os autores, os trabalhos mais relevantes destacam os conhecimentos apresentados por Congalton \cite[p.79]{Congalton}, que vinculam cada classe de uso do solo à quantidade de amostras correspondente. Além disso, Ariza \cite[p.135]{Ariza} complementa ao determinar o tamanho amostral e o erro com base na estimativa, enquanto \cite[p.192-196]{Ariza} ilustra os quantitativos, em metros quadrados, de cada classe de uso do solo e o número necessário de fragmentos por classe. Esses fundamentos permitem a aplicação de fórmulas estatísticas, como a equação \eqref{eq:namostra}, em quantitativo de classes conhecidas,  para determinar o número de amostras por classe, considerando o erro, o nível de confiança estipulado e a representação gráfica demonstrada na Figura \ref{fig:usoSOLOamostras}  .\\
  %
+ \begin{minipage}[t!]{0.30\textwidth}
+ 	\begin{equation}\label{eq:namostra}
+ 		n = \dfrac{ Zc ^{2}*\sigma ^{2} *N  }{ E ^{2} * (N-1) + Zc ^{2} * \sigma ^{2}
+ 	\end{equation}
+ \end{minipage}\hfill
+ \begin{minipage}[t!]{0.685\textwidth}
+ 	%
+ Onde: 
+  n -  e o tamanho da amostra ;\\
+  \textbf{E} -  e o erro amostral (precisão)
+   $\sigma$ e a variância da população;\\
+  Zc  -  é a abscissa da distribuição normal padrão, fixado um nível de confiança  C;\\
+N  - E o tamanho da população
+ \end{minipage} 
    %  \hspace*{1.25 cm}  Segundocorroborando a escolha do plano de amostragem estratificada, em outros termos: segmentação de grupos em estratos(ou subpopulações),  é o conhecimento prévio da área de estudo, possibilitando que as amostras sejam suficiente e se destaque eventos mais importantes.\\
     
 
@@ -110,15 +124,15 @@
  %
    \hspace*{1.25 cm} A  utilização de malha regularas, também conhecido como "\textbf{grid}" , como exposto em \cite[p.83]{Andriotti}, tem a função de através de pontos amostrados, estabelecer um mapa de forma continua, passível de estimar valores dentro deste estrutura e até estabelecer extrapolações. Isso é possível através de técnicas de interpolação, voltando a \cite[p.304]{Ariza},  caracterizando o papel da interpolação, para este autor, "\textit{a interpolação e uma transformação que permite estivar valores desconhecidos a partir de valores conhecidos em posições certas}". \\
   %
-    \hspace*{1.25 cm} Isso ocorre por que, conforme \cite[p.21]{Yamamoto}, o fenômeno espacial compreende um conjunto de valores possíveis da variável de interesse, e a sua distribuição e variabilidade está dentro de respectivos domínios sejam eles 2D ou 3D.  Voltando a  \cite[p.95]{Andriotti}, pode ser caracterizada como variável regionalizada.\\
+    \hspace*{1.25 cm} Isso ocorre por que, conforme \cite[p.21]{Yamamoto}, o fenômeno espacial compreende um conjunto de valores possíveis da variável de interesse, e a sua distribuição e variabilidade está dentro de respectivos domínios sejam eles 2-D ou 3-D.  Voltando a  \cite[p.95]{Andriotti}, pode ser caracterizada como variável regionalizada.\\
   %
   \hspace*{1.25 cm}  Em  \cite[p.37]{Webster} os fenômenos físicos naturais, possuem variação determinística e sistemática, e estão relacionados a campo da matemática e geometria. E através destas das técnicas, podemos estabelecer predicações e interpolações entre elas a polígonos de Thielsse, inverso da distancias, superfícies de tendencias, splines e por fim a krigagem.   
   %
   \subsection{Dados Espaço - Temporal} 
   
   %
-  \hspace*{1.25 cm} O paradigma espaço tempo, para \cite[p.2]{mateu}, este processo pode ser assumido como um modelo estatístico, e ser representado pela equação:
-  \begin{equation}
+  \hspace*{1.25 cm} O paradigma espaço tempo, para \cite[p.2]{mateu}, este processo pode ser assumido como um modelo estatístico, e ser representado pela equação:\eqref{eq:dinaespatermpo}
+  \begin{equation}\label{eq:dinaespatermpo}
   	 Z(x,s,t) =  \eta ( x,(s,t), s.t.\beta) + \in (x,s,t)  \; s \in D, t \, \in T.  
   \end{equation}
   %
@@ -153,7 +167,7 @@
  %=========================================================== 
   \subsection{Operações}  
   %
-    \subsubsection{Indices Espectrais}
+    \subsubsection{Índices Espectrais}
  \hspace*{1.25 cm} A operação com dados raster, dados binários, para \cite[106]{Dormam} "\textit{grids de valores numéricos}", e estes estão agrupados bandas espectrais, e para \cite[p.178 e p.181]{Liu}  podem sofrer operações e conversões unárias, e sujeitas a operações comuns matemáticas com: adição, subtração, multiplicação, divisão, módulos. Inclui-se também operações relacionais e boleanas, logicas e combinatórias.  \\
  %
  \hspace*{1.25 cm}  Neste contexto, inicia-se nossas atividades. com a compreensão de índices espectrais, devemos entender, que são operações matemáticas entre bandas, sendo amplamente difundidos em diferentes meios das literatura técnica. Ao nosso estudo de alteração do meio físico, e conhecendo que os principais elementos encontrados no local são: solo, a água e a vegetação, entende-se  que  os índices  são capazes meios capazes de ser sensibilizados pelas variações destes elementos. E ao utilizamos as operações algébricas  \eqref{eq:ndvi}, \eqref{eq:ndwi} e \eqref{eq:savi} , de combinação de bandas que estão dispostas em \cite[p.165]{Thekapbail} e equação  \eqref{eq:evii} \cite[p.7]{Thekapbail}. 
@@ -227,8 +241,9 @@ spplot(VI_20131023, col.regions = VI_palette, cuts = 6, col = "transparente")
 	caption= normalizacao do modelo em linguagem R,} % Legenda do código
 \begin{lstlisting}[language=R]
  library(bestNormalize)
-modelo_normal <- bestNormalize(arquivodogrid$variavelmensurada )
+modelo_normal <- bestNormalize(arquivodogrid\$variavelmensurada )
 \end{lstlisting}  
+
 \hspace*{1.25 cm}  Segundo \cite[P.35]{Yamamoto} o termo variograma, ou semivariograma, ocorre um confusão terminológica de acordo com a literatura utilizada, para estes autores preferimos o exposto por \cite[p.228]{Ferreira}.  \begin{quoting}[rightmargin=0cm,leftmargin=2cm]
 	\begin{singlespace}
 		{
@@ -251,22 +266,26 @@ modelo_normal <- bestNormalize(arquivodogrid$variavelmensurada )
  	caption= Auto ajuste do Variograma em linguagem R,} % Legenda do código
  \begin{lstlisting}[language=R]
    library(automap)
- variogram_auto <- autofitVariogram(variavelmensurada~1, arquivodogrid, start_vals=c(variogramar$nugget, variogramar$cov.pars[2], variograma$cov.pars[1]))
+ variogram\_auto <- autofitVariogram(variavelmensurada~1, arquivodogrid, start\_vals=c(variogramar\$nugget, variogramar\$cov.pars[2], variograma\$cov.pars[1]))
  \end{lstlisting}  
- 
+ %
+ \hspace*{1.25 cm}   O mapa variografico, das covariâncias em.
   \lstset{
 	language=R, % Define a linguagem como R
 	caption= Mapa variografico em linguagem R,} % Legenda do código
 \begin{lstlisting}[language=R]
 	var_exp_map <- gstat::variogram(g, 	cutoff = 10000,	width = 1400, 	map = T)
 \end{lstlisting}  
- 
+ %%
+  \hspace*{1.25 cm}   A criação do variograma.
    \lstset{
  	language=R, % Define a linguagem como R
  	caption= Variograma utilizando funcao esférica em linguagem R,} % Legenda do código
  \begin{lstlisting}[language=R]
  	fit.sph <- gstat::fit.variogram(var_exp, vgm(contri1,"Sph", Range ,  0.01))
  \end{lstlisting}  
+  \hspace*{1.25 cm} A verificação se os valores preditos e observados
+
  
   \lstset{
 	language=R, % Define a linguagem como R
