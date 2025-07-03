@@ -13,6 +13,7 @@
 \contentsline {subsubsection}{\numberline {3.6.1}Índices Espectrais}{10}{subsubsection.3.6.1}%
 \contentsline {subsubsection}{\numberline {3.6.2}Geostatistica}{12}{subsubsection.3.6.2}%
 \contentsline {subsubsection}{\numberline {3.6.3}Estatística clássica -validação cruzada do modelo predito }{14}{subsubsection.3.6.3}%
+\contentsline {subsubsection}{\numberline {3.6.4} Alteração temporal}{15}{subsubsection.3.6.4}%
 \contentsline {section}{\numberline {4} Resultados }{15}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Índices espectrais}{15}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Geoestátistica}{16}{subsection.4.2}%

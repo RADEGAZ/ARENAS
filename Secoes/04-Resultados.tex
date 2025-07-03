@@ -255,7 +255,6 @@ Estimated statistics:
  			\end{center}
  			% }}
 
-\hspace*{1.25 cm} Dando o enfoque no modelo esférico,  determinados enfase nos parâmetros deste modelo. E passo que escolhemos o modelo, sendo que o resultado erro médio quadrático  e a porcentagem explicada do modelo em quadra a seguir. 
 %%
 \lstset{
 	language=R, % Define a linguagem como R
@@ -265,32 +264,29 @@ Estimated statistics:
 A matrix: 1 × 1 of type dbl
 0.9465385  # % de explicacao do modelo
 \end{lstlisting}   
+
+ 
+\hspace*{1.25 cm} Dando o enfoque no modelo esférico,  determinados enfase nos parâmetros deste modelo. E passo que escolhemos o modelo, sendo que o resultado erro médio quadrático  e a porcentagem explicada do modelo em quadro acima. 
+ 
+\hspace*{1.25 cm} O que nos animou a elaboração da krigagem. Visto que  o procedimento produz de acordo com a literatura, uma melhor estimativa linear não enviesada. Uma representação suavizada da variabilidade espacial em larga escala, e ao mesmo tempo, a quantificação das incertezas estatísticas. 
  	\begin{figure}[H]
-	\centering  \small \caption{Modelagem por krigagem}
-	\includegraphics[width=0.4957\linewidth]{FIGURAS/MODELOKRIGAGEM-MELHOR}
+	\centering  \small \caption{Modelo por Krigagem e Variograma}
+	\includegraphics[width=0.957\linewidth]{FIGURAS/MODELOKRIGAGEM-1}
 	\label{fig:rplotkriga}\\{ Fonte:   Elaborado pelos Autores (2025)}
 \end{figure}
+\hspace*{1.25 cm}  A tendencias dos valor da imagem subtraída,  pode ser apreciada na  Figura \ref{fig:rplotkriga}, o que possibilita ao lado direito da figura os locais onde ocorrem os maiores erros, na determinação desta superfície. E para também o variograma ficou próximo ao da Figura \ref{fig:Rplothddg} 
+
+
 
 
  \begin{comment}
  	
- 	
- 	  \begin{wrapfigure}{l}{0.506\textwidth}
- 		\begin{center}
- 			\centering  \small \caption{Modelagem por krigagem}
- 			\includegraphics[width=0.97\linewidth]{FIGURAS/MODELOKRIGAGEM-MELHOR}
- 			\label{fig:rplotkriga}\\{ Fonte:   Elaborado pelos Autores (2025)}
- 		\end{center}
- 	\end{wrapfigure} 	 
- 	
 
- 	
  	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
  \end{comment}
   
-\hspace*{1.25 cm} O que nos animou a elaboração da krigagem em Figura \ref{fig:rplotkriga}, o que possibilita ao lado direito da figura os locais onde ocorrem os maiores erros, na determinação desta superfície. E para também o variograma ficou próximo ao da Figura \ref{fig:Rplothddg} 
- 
+
  \begin{comment}
 \begin{figure}
 	\centering
@@ -311,6 +307,8 @@ A matrix: 1 × 1 of type dbl
  \end{comment}
  
  \subsection{Analise da validação cruzada do Modelo }
+ 
+\hspace*{1.25 cm}  O resultado do teste  de normalidade Kolmogorov Smirnov demonstrando a normalidade.
  
    \lstset{
  	language=R, % Define a linguagem como R
@@ -341,6 +339,8 @@ D = 0.024572, p-value = 0.5765 \end{lstlisting}
 \end{table}
 
 %=============== 
+\hspace*{1.25 cm}  O resultado do teste correlacao de Pearson
+%%===
    \lstset{
  	language=R, % Define a linguagem como R
  	caption= Resultado do Teste de Correlação em linguagem R,} % Legenda do código
