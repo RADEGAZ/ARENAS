@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.4.23)  2 JUL 2025 16:05
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2025.4.23)  3 JUL 2025 08:42
  restricted system commands enabled.
 **preambulo.tex
 (./preambulo.tex
@@ -2605,114 +2605,50 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 
 [16<./FIGURAS/RplotN1.jpeg><./FIGURAS/RplotMELNHOR.jpeg><./FIGURAS/RplotP34.jpeg
 >]
-<FIGURAS/variogramaPTONOS.png, id=501, 397.485pt x 397.485pt>
-File: FIGURAS/variogramaPTONOS.png Graphic file (type png)
-<use FIGURAS/variogramaPTONOS.png>
-Package luatex.def Info: FIGURAS/variogramaPTONOS.png  used on input line 165.
-(luatex.def)             Requested size: 220.79367pt x 220.80086pt.
-<FIGURAS/normali.png, id=502, 394.47375pt x 392.96812pt>
-File: FIGURAS/normali.png Graphic file (type png)
-<use FIGURAS/normali.png>
-Package luatex.def Info: FIGURAS/normali.png  used on input line 172.
-(luatex.def)             Requested size: 220.79367pt x 219.9527pt.
-<FIGURAS/variogramageor4.png, id=505, 397.485pt x 397.485pt>
-File: FIGURAS/variogramageor4.png Graphic file (type png)
-<use FIGURAS/variogramageor4.png>
-Package luatex.def Info: FIGURAS/variogramageor4.png  used on input line 190.
-(luatex.def)             Requested size: 136.89099pt x 136.89592pt.
-<FIGURAS/modelos-esferico.png, id=506, 397.485pt x 397.485pt>
-File: FIGURAS/modelos-esferico.png Graphic file (type png)
-<use FIGURAS/modelos-esferico.png>
-Package luatex.def Info: FIGURAS/modelos-esferico.png  used on input line 199.
-(luatex.def)             Requested size: 136.89099pt x 136.89592pt.
-<FIGURAS/valicas.png, id=507, 397.485pt x 397.485pt>
-File: FIGURAS/valicas.png Graphic file (type png)
-<use FIGURAS/valicas.png>
-Package luatex.def Info: FIGURAS/valicas.png  used on input line 208.
-(luatex.def)             Requested size: 136.89099pt x 136.89592pt.
+
+LaTeX Warning: Reference `fig:variinical' on page 17 undefined on input line 16
+0.
 
 
-File: pre-pos-textuais/cabecalho.png Graphic file (type png)
-<use pre-pos-textuais/cabecalho.png>
-Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 213
-.
-(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
-
-Package fancyhdr Warning: \headheight is too small (70.0pt): 
-(fancyhdr)                Make it at least 107.9448pt, for example:
-(fancyhdr)                \setlength{\headheight}{107.9448pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
-
-File: pre-pos-textuais//rodape.png Graphic file (type png)
-<use pre-pos-textuais//rodape.png>
-Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 213.
-(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 87.22618pt, for example:
-(fancyhdr)                \setlength{\footskip}{87.22618pt}.
-
-[17<./FIGURAS/variogramaPTONOS.png><./FIGURAS/normali.png>]
-<FIGURAS/superficie.png, id=529, 397.485pt x 397.485pt>
-File: FIGURAS/superficie.png Graphic file (type png)
-<use FIGURAS/superficie.png>
-Package luatex.def Info: FIGURAS/superficie.png  used on input line 226.
-(luatex.def)             Requested size: 136.89099pt x 136.89592pt.
-<FIGURAS/varexpmap.png, id=530, 397.485pt x 397.485pt>
-File: FIGURAS/varexpmap.png Graphic file (type png)
-<use FIGURAS/varexpmap.png>
-Package luatex.def Info: FIGURAS/varexpmap.png  used on input line 235.
-(luatex.def)             Requested size: 136.89099pt x 136.89592pt.
-<FIGURAS/xvalid.sph-map.png, id=531, 397.485pt x 397.485pt>
-File: FIGURAS/xvalid.sph-map.png Graphic file (type png)
-<use FIGURAS/xvalid.sph-map.png>
-Package luatex.def Info: FIGURAS/xvalid.sph-map.png  used on input line 244.
-(luatex.def)             Requested size: 136.89099pt x 136.89592pt.
-
-
-File: pre-pos-textuais/cabecalho.png Graphic file (type png)
-<use pre-pos-textuais/cabecalho.png>
-Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 262
-.
-(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
-
-Package fancyhdr Warning: \headheight is too small (70.0pt): 
-(fancyhdr)                Make it at least 107.9448pt, for example:
-(fancyhdr)                \setlength{\headheight}{107.9448pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
-
-File: pre-pos-textuais//rodape.png Graphic file (type png)
-<use pre-pos-textuais//rodape.png>
-Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 262.
-(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
-
-Package fancyhdr Warning: \footskip is too small (30.0pt): 
-(fancyhdr)                Make it at least 87.22618pt, for example:
-(fancyhdr)                \setlength{\footskip}{87.22618pt}.
-
-[18<./FIGURAS/variogramageor4.png><./FIGURAS/modelos-esferico.png><./FIGURAS/val
-icas.png><./FIGURAS/superficie.png><./FIGURAS/varexpmap.png><./FIGURAS/xvalid.sp
-h-map.png>]
-<FIGURAS/MODELOKRIGAGEM-MELHOR.png, id=549, 397.485pt x 397.485pt>
-File: FIGURAS/MODELOKRIGAGEM-MELHOR.png Graphic file (type png)
-<use FIGURAS/MODELOKRIGAGEM-MELHOR.png>
-Package luatex.def Info: FIGURAS/MODELOKRIGAGEM-MELHOR.png  used on input line 
-266.
-(luatex.def)             Requested size: 259.49246pt x 259.50243pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
 
  []
 
+<FIGURAS/semivariancaIMAG.png, id=502, 397.485pt x 397.485pt>
+File: FIGURAS/semivariancaIMAG.png Graphic file (type png)
+<use FIGURAS/semivariancaIMAG.png>
+Package luatex.def Info: FIGURAS/semivariancaIMAG.png  used on input line 194.
+(luatex.def)             Requested size: 136.89099pt x 136.89592pt.
+<FIGURAS/variogramageor4.png, id=503, 397.485pt x 397.485pt>
+File: FIGURAS/variogramageor4.png Graphic file (type png)
+<use FIGURAS/variogramageor4.png>
+Package luatex.def Info: FIGURAS/variogramageor4.png  used on input line 203.
+(luatex.def)             Requested size: 136.89099pt x 136.89592pt.
+<FIGURAS/modelos-esferico.png, id=504, 397.485pt x 397.485pt>
+File: FIGURAS/modelos-esferico.png Graphic file (type png)
+<use FIGURAS/modelos-esferico.png>
+Package luatex.def Info: FIGURAS/modelos-esferico.png  used on input line 212.
+(luatex.def)             Requested size: 136.89099pt x 136.89592pt.
+<FIGURAS/superficie.png, id=515, 397.485pt x 397.485pt>
+File: FIGURAS/superficie.png Graphic file (type png)
+<use FIGURAS/superficie.png>
+Package luatex.def Info: FIGURAS/superficie.png  used on input line 230.
+(luatex.def)             Requested size: 136.89099pt x 136.89592pt.
+<FIGURAS/varexpmap.png, id=516, 397.485pt x 397.485pt>
+File: FIGURAS/varexpmap.png Graphic file (type png)
+<use FIGURAS/varexpmap.png>
+Package luatex.def Info: FIGURAS/varexpmap.png  used on input line 239.
+(luatex.def)             Requested size: 136.89099pt x 136.89592pt.
+<FIGURAS/xvalid.sph-map.png, id=517, 397.485pt x 397.485pt>
+File: FIGURAS/xvalid.sph-map.png Graphic file (type png)
+<use FIGURAS/xvalid.sph-map.png>
+Package luatex.def Info: FIGURAS/xvalid.sph-map.png  used on input line 248.
+(luatex.def)             Requested size: 136.89099pt x 136.89592pt.
 
 
 File: pre-pos-textuais/cabecalho.png Graphic file (type png)
 <use pre-pos-textuais/cabecalho.png>
-Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 327
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 253
 .
 (luatex.def)             Requested size: 466.62503pt x 103.59476pt.
 
@@ -2725,7 +2661,84 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
-Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 327.
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 253.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[17<./FIGURAS/semivariancaIMAG.png><./FIGURAS/variogramageor4.png><./FIGURAS/mod
+elos-esferico.png>]
+<FIGURAS/MODELOKRIGAGEM-MELHOR.png, id=535, 397.485pt x 397.485pt>
+File: FIGURAS/MODELOKRIGAGEM-MELHOR.png Graphic file (type png)
+<use FIGURAS/MODELOKRIGAGEM-MELHOR.png>
+Package luatex.def Info: FIGURAS/MODELOKRIGAGEM-MELHOR.png  used on input line 
+270.
+(luatex.def)             Requested size: 259.49246pt x 259.50243pt.
+
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 273
+.
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 273.
+(luatex.def)             Requested size: 373.30144pt x 82.87614pt.
+
+Package fancyhdr Warning: \footskip is too small (30.0pt): 
+(fancyhdr)                Make it at least 87.22618pt, for example:
+(fancyhdr)                \setlength{\footskip}{87.22618pt}.
+
+[18<./FIGURAS/superficie.png><./FIGURAS/varexpmap.png><./FIGURAS/xvalid.sph-map.
+png>]
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+
+ []
+
+<FIGURAS/dist-cook-alavan.png, id=550, 600.74437pt x 751.30687pt>
+File: FIGURAS/dist-cook-alavan.png Graphic file (type png)
+<use FIGURAS/dist-cook-alavan.png>
+Package luatex.def Info: FIGURAS/dist-cook-alavan.png  used on input line 342.
+(luatex.def)             Requested size: 123.83011pt x 154.85577pt.
+<FIGURAS/valicas.png, id=551, 397.485pt x 397.485pt>
+File: FIGURAS/valicas.png Graphic file (type png)
+<use FIGURAS/valicas.png>
+Package luatex.def Info: FIGURAS/valicas.png  used on input line 350.
+(luatex.def)             Requested size: 146.60732pt x 146.61226pt.
+<FIGURAS/painel-correla.png, id=552, 397.485pt x 397.485pt>
+File: FIGURAS/painel-correla.png Graphic file (type png)
+<use FIGURAS/painel-correla.png>
+Package luatex.def Info: FIGURAS/painel-correla.png  used on input line 358.
+(luatex.def)             Requested size: 126.74214pt x 126.7429pt.
+
+
+File: pre-pos-textuais/cabecalho.png Graphic file (type png)
+<use pre-pos-textuais/cabecalho.png>
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 363
+.
+(luatex.def)             Requested size: 466.62503pt x 103.59476pt.
+
+Package fancyhdr Warning: \headheight is too small (70.0pt): 
+(fancyhdr)                Make it at least 107.9448pt, for example:
+(fancyhdr)                \setlength{\headheight}{107.9448pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-37.9448pt}.
+
+File: pre-pos-textuais//rodape.png Graphic file (type png)
+<use pre-pos-textuais//rodape.png>
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 363.
 (luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -2733,41 +2746,37 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 (fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
 [19<./FIGURAS/MODELOKRIGAGEM-MELHOR.png>]
-<FIGURAS/dist-cook-alavan.png, id=573, 600.74437pt x 450.18187pt>
-File: FIGURAS/dist-cook-alavan.png Graphic file (type png)
-<use FIGURAS/dist-cook-alavan.png>
-Package luatex.def Info: FIGURAS/dist-cook-alavan.png  used on input line 340.
-(luatex.def)             Requested size: 141.31117pt x 105.89578pt.
-File: FIGURAS/valicas.png Graphic file (type png)
-<use FIGURAS/valicas.png>
-Package luatex.def Info: FIGURAS/valicas.png  used on input line 348.
-(luatex.def)             Requested size: 146.60732pt x 146.61226pt.
-<FIGURAS/painel-correla.png, id=574, 397.485pt x 397.485pt>
-File: FIGURAS/painel-correla.png Graphic file (type png)
-<use FIGURAS/painel-correla.png>
-Package luatex.def Info: FIGURAS/painel-correla.png  used on input line 356.
-(luatex.def)             Requested size: 101.97656pt x 101.97293pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 369--372
+Underfull \hbox (badness 10000) in paragraph at lines 371--374
 
  []
 
-<FIGURAS/indices.png, id=576, 1359.0775pt x 235.88126pt>
+<FIGURAS/indices.png, id=577, 1359.0775pt x 235.88126pt>
 File: FIGURAS/indices.png Graphic file (type png)
 <use FIGURAS/indices.png>
-Package luatex.def Info: FIGURAS/indices.png  used on input line 375.
+Package luatex.def Info: FIGURAS/indices.png  used on input line 377.
 (luatex.def)             Requested size: 441.58734pt x 76.6389pt.
-<FIGURAS/graphvisualiser-1747928533564.png, id=577, 1486.55376pt x 256.96pt>
+<FIGURAS/graphvisualiser-1747928533564.png, id=578, 1486.55376pt x 256.96pt>
 File: FIGURAS/graphvisualiser-1747928533564.png Graphic file (type png)
 <use FIGURAS/graphvisualiser-1747928533564.png>
 Package luatex.def Info: FIGURAS/graphvisualiser-1747928533564.png  used on inp
-ut line 381.
+ut line 383.
 (luatex.def)             Requested size: 441.58734pt x 76.33185pt.
+<FIGURAS/graphvisualiser-1747928457345.png, id=580, 1486.55376pt x 256.96pt>
+File: FIGURAS/graphvisualiser-1747928457345.png Graphic file (type png)
+<use FIGURAS/graphvisualiser-1747928457345.png>
+Package luatex.def Info: FIGURAS/graphvisualiser-1747928457345.png  used on inp
+ut line 391.
+(luatex.def)             Requested size: 441.58734pt x 76.33185pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--393
+
+ []
+
 
 
 File: pre-pos-textuais/cabecalho.png Graphic file (type png)
 <use pre-pos-textuais/cabecalho.png>
-Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 384
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 393
 .
 (luatex.def)             Requested size: 466.62503pt x 103.59476pt.
 
@@ -2780,27 +2789,16 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
-Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 384.
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 393.
 (luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
 (fancyhdr)                Make it at least 87.22618pt, for example:
 (fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
-[20<./FIGURAS/dist-cook-alavan.png><./FIGURAS/painel-correla.png><./FIGURAS/indi
-ces.png>]
-<FIGURAS/graphvisualiser-1747928457345.png, id=601, 1486.55376pt x 256.96pt>
-File: FIGURAS/graphvisualiser-1747928457345.png Graphic file (type png)
-<use FIGURAS/graphvisualiser-1747928457345.png>
-Package luatex.def Info: FIGURAS/graphvisualiser-1747928457345.png  used on inp
-ut line 389.
-(luatex.def)             Requested size: 441.58734pt x 76.33185pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 385--391
-
- []
-
-) (./Secoes//05-Discussao.tex
+[20<./FIGURAS/dist-cook-alavan.png><./FIGURAS/valicas.png><./FIGURAS/painel-corr
+ela.png><./FIGURAS/indices.png><./FIGURAS/graphvisualiser-1747928533564.png>]) 
+(./Secoes//05-Discussao.tex
 
 File: pre-pos-textuais/cabecalho.png Graphic file (type png)
 <use pre-pos-textuais/cabecalho.png>
@@ -2824,9 +2822,15 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 (fancyhdr)                Make it at least 87.22618pt, for example:
 (fancyhdr)                \setlength{\footskip}{87.22618pt}.
 
-[21<./FIGURAS/graphvisualiser-1747928533564.png><./FIGURAS/graphvisualiser-17479
-28457345.png>]) (./Secoes//06-Conclusoes.tex) (./preambulo.bbl
-(./preambulo.brf)
+[21<./FIGURAS/graphvisualiser-1747928457345.png>]) (./Secoes//06-Conclusoes.tex
+
+LaTeX Warning: Reference `fig:Rplothdg' on page 22 undefined on input line 12.
+
+
+LaTeX Warning: Reference `fig:variinical' on page 22 undefined on input line 12
+.
+
+) (./preambulo.bbl (./preambulo.brf)
 \tf@brf=\write10
 
 \openout10 = preambulo.brf
@@ -2834,7 +2838,7 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 
 File: pre-pos-textuais/cabecalho.png Graphic file (type png)
 <use pre-pos-textuais/cabecalho.png>
-Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 13.
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 30.
 
 (luatex.def)             Requested size: 466.62503pt x 103.59476pt.
 
@@ -2847,7 +2851,7 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
-Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 13.
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 30.
 (luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -2858,8 +2862,8 @@ Package fancyhdr Warning: \footskip is too small (30.0pt):
 
 File: pre-pos-textuais/cabecalho.png Graphic file (type png)
 <use pre-pos-textuais/cabecalho.png>
-Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 94.
-
+Package luatex.def Info: pre-pos-textuais/cabecalho.png  used on input line 120
+.
 (luatex.def)             Requested size: 466.62503pt x 103.59476pt.
 
 Package fancyhdr Warning: \headheight is too small (70.0pt): 
@@ -2871,7 +2875,7 @@ Package fancyhdr Warning: \headheight is too small (70.0pt):
 
 File: pre-pos-textuais//rodape.png Graphic file (type png)
 <use pre-pos-textuais//rodape.png>
-Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 94.
+Package luatex.def Info: pre-pos-textuais//rodape.png  used on input line 120.
 (luatex.def)             Requested size: 373.30144pt x 82.87614pt.
 
 Package fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -2916,24 +2920,27 @@ L3 programming layer <2024-05-27>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `preambulo.out' has not changed.
 (rerunfilecheck)             Checksum: 2A7AFC191CF5A4EE213437F78DD127F4;3802.
 Package rerunfilecheck Info: File `preambulo.hd' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package rerunfilecheck Info: File `preambulo.brf' has not changed.
-(rerunfilecheck)             Checksum: A446570211A9D4464280A747D7291837;1984.
+(rerunfilecheck)             Checksum: AD8C02E11709CF682014B2BCEA838363;1982.
 )
 
 Here is how much of LuaTeX's memory you used:
- 40605 strings out of 475915
+ 40595 strings out of 475915
  244341,1977958 words of node,token memory allocated
  1552 words of node memory still in use:
    23 hlist, 2 vlist, 10 rule, 1 local_par, 5 glue, 4 kern, 1 penalty, 3 glyph, 
 95 attribute, 118 glue_spec, 73 attribute_list, 2 write, 16 pdf_literal, 7 pdf_a
 ction, 16 pdf_colorstack nodes
-   avail lists: 1:7,2:5233,3:475,4:3788,5:3506,6:91,7:10629,8:53,9:10689,10:45,1
+   avail lists: 1:7,2:5227,3:475,4:3780,5:3505,6:91,7:10617,8:54,9:10689,10:45,1
 1:1074
- 61477 multiletter control sequences out of 65536+600000
+ 61479 multiletter control sequences out of 65536+600000
  53 fonts using 14639615 bytes
  115i,15n,133p,1153b,1335s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <//?/c:/users/joseney.moro/appdata/local/programs/miktex/fonts/opentype/public/l
@@ -2947,9 +2954,9 @@ b><C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr
 12.pfb><C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/fonts/type1/public/l
 m/lmr8.pfb><C:/Users/joseney.moro/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/lm/lmsy10.pfb>
-Output written on preambulo.pdf (24 pages, 3398485 bytes).
+Output written on preambulo.pdf (24 pages, 3429851 bytes).
 
-PDF statistics: 737 PDF objects out of 1000 (max. 8388607)
- 206 named destinations out of 1000 (max. 131072)
+PDF statistics: 727 PDF objects out of 1000 (max. 8388607)
+ 200 named destinations out of 1000 (max. 131072)
  368 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -159,25 +159,29 @@ Estimated statistics:
 % 
 \hspace*{1.25 cm} A produção inicial do variograma,  com procedimentos em \cite[p.224]{Bivand}, com a caracterização mensurada e sua distância em visão inicial da análise em Figura \ref{fig:variinical}\\
  %%%===================
- \begin{minipage}[t!]{0.5\textwidth}
- 	\begin{figure}[H]
- 		\centering \small \caption{Semivariograma sem definição do modelo explicativo}
- 		\includegraphics[width=0.97\linewidth]{FIGURAS/variogramaPTONOS}
- 		\label{fig:variinical}
- 	\end{figure}	
- \end{minipage}\hfill
- \begin{minipage}[t!]{0.5\textwidth}
- 	\begin{figure}[H]
- 		\centering \small \caption{Modularização da reflectância}
- 		\includegraphics[width=0.97\linewidth]{FIGURAS/normali}
- 		\label{fig:Rplothdg}
- 	\end{figure}		
- \end{minipage} 
- % {{{   			
- 			\begin{center}
- 				Fonte:   Elaborado pelos Autores (2025)
- 			\end{center}
- 			% }}
+ 
+ \begin{comment}
+ 	  \begin{minipage}[t!]{0.5\textwidth}
+ 	 	\begin{figure}[H]
+ 	 		\centering \small \caption{Semivariograma sem definição do modelo explicativo}
+ 	 		\includegraphics[width=0.97\linewidth]{FIGURAS/variogramaPTONOS}
+ 	 		\label{fig:variinical}
+ 	 	\end{figure}	
+ 	 \end{minipage}\hfill
+ 	 \begin{minipage}[t!]{0.5\textwidth}
+ 	 	\begin{figure}[H]
+ 	 		\centering \small \caption{Modularização da reflectância}
+ 	 		\includegraphics[width=0.97\linewidth]{FIGURAS/normali}
+ 	 		\label{fig:Rplothdg}
+ 	 	\end{figure}		
+ 	 \end{minipage} 
+ 	 % {{{   			
+ 	 			\begin{center}
+ 	 				Fonte:   Elaborado pelos Autores (2025)
+ 	 			\end{center}
+ 	 			% }}
+ \end{comment}
+
  %==========================================		
 %\hspace*{1.25 cm} E seu modelo de superfície plana, pode ser apreciado em Figura \ref{fig:superficie} critérios que podem também ser observados em Figura \ref{fig:superficie1} e sua melhora e Figura  \ref{fig:Rplothdg}\\
  		 %%-------------- 
@@ -187,7 +191,7 @@ Estimated statistics:
 			\begin{minipage}[t!]{0.31\textwidth}
 				\begin{figure}[H]
 					\centering \small \caption{ Escolha da função }
-					\includegraphics[width=0.97\linewidth]{FIGURAS/variogramageor4}
+					\includegraphics[width=0.97\linewidth]{FIGURAS/semivariancaIMAG}
 					\label{fig:variogramageor4}
 				\end{figure}			
 				
@@ -195,8 +199,8 @@ Estimated statistics:
 			\begin{minipage}[t!]{0.31\textwidth}
 				
 				\begin{figure}[H]
-					\centering \small \caption{Modelo esférico}
-					\includegraphics[width=0.97\linewidth]{FIGURAS/modelos-esferico}
+					\centering \small \caption{Escolha da função }
+					\includegraphics[width=0.97\linewidth]{FIGURAS/variogramageor4}
 					\label{fig:varexpfitsp}
 				\end{figure}			
 				
@@ -204,8 +208,8 @@ Estimated statistics:
 			\begin{minipage}[t!]{0.31\textwidth}
 				
 				\begin{figure}[H]
-					\centering \small \caption{Validação cruzada}
-					\includegraphics[width=0.97\linewidth]{FIGURAS/valicas}
+					\centering \small \caption{Modelo esférico}
+					\includegraphics[width=0.97\linewidth]{FIGURAS/modelos-esferico}
 					\label{fig:xvalid.cruzadaesferica2}
 				\end{figure}		
 			\end{minipage} 
@@ -214,7 +218,7 @@ Estimated statistics:
 				Fonte:   Elaborado pelos Autores (2025)
 			\end{center}
 			% }}
- \hspace*{1.25 cm} 	Em todas as Figuras \ref{fig:variinical} e \ref{fig:superfdicie} que a estacionáriedade  inicia-se visualmente em aproximadamente em 0,9 e seu "range" em torno de 1300 metros\\
+ \hspace*{1.25 cm} 	Em todas as Figuras \ref{fig:variogramageor4} e \ref{fig:superfdicie} que a estacionáriedade  inicia-se visualmente em aproximadamente em 0,9 e seu "range" em torno de 1300 metros\\
  %		
  \hspace*{1.25 cm} Na Figura \ref{fig:variogramageor4} o processo da escolha da função, na Figura \ref{fig:varexpfitsp} a função escolhida, e finalmente na Figura \ref{fig:xvalid.cruzadaesferica2} a validação cruzada, com a regressão em homocedasticidade\\
  %%-------------- 
@@ -269,6 +273,8 @@ A matrix: 1 × 1 of type dbl
 
 
  \begin{comment}
+ 	
+ 	
  	  \begin{wrapfigure}{l}{0.506\textwidth}
  		\begin{center}
  			\centering  \small \caption{Modelagem por krigagem}
@@ -308,20 +314,17 @@ A matrix: 1 × 1 of type dbl
  
    \lstset{
  	language=R, % Define a linguagem como R
- 	caption= Resultado do Teste Shapiro-Wilk em linguagem R,} % Legenda do código
+ 	caption= Resultado do Teste Lilliefors (Kolmogorov\_Smirnov) R,} % Legenda do código
  \begin{lstlisting}[language=R]
- 	Shapiro-Wilk normality test
- 	
- 	data:  Mod_esfe$pred
- 	W = 0.93923, p-value = 1.384e-14
- \end{lstlisting} 
+	Lilliefors (Kolmogorov-Smirnov) normality test
+data:  valida3$pred
+D = 0.024572, p-value = 0.5765 \end{lstlisting} 
  
    \lstset{
  	language=R, % Define a linguagem como R
  	caption= Resultado do Teste de Correlação em linguagem R,} % Legenda do código
- \begin{lstlisting}[language=R]
- 	
- 	Pearson's product-moment correlation
+ \begin{lstlisting}[language=R]	
+ 	Pearson s product-moment correlation
  	
  	data:  Mod_esfe$pred and Mod_esfe$observed
  	t = 24.657, df = 574, p-value < 2.2e-16
@@ -330,14 +333,13 @@ A matrix: 1 × 1 of type dbl
  	0.6750592 0.7546794
  	sample estimates:
  	cor 
- 	0.7172019 
- \end{lstlisting}   
+ 	0.7172019  \end{lstlisting}   
  
 % {{{   
 		 \begin{minipage}[t!]{0.32\textwidth}
 				\begin{figure}[H]
 					\centering  \small \caption{Distancia de Cooks e Alavancagem}
-					\includegraphics[width=0.97\linewidth]{FIGURAS/dist-cook-alavan}
+					\includegraphics[width=0.85\linewidth]{FIGURAS/dist-cook-alavan}
 					\label{fig:DISTCOOK}
 				\end{figure}
 				
@@ -353,7 +355,7 @@ A matrix: 1 × 1 of type dbl
 			\begin{minipage}[t!]{0.32\textwidth}
 					\begin{figure}[H]
 					\centering  \small \caption{Analise gráfica da  correlação entre variáveis}
-					\includegraphics[width=0.7\linewidth]{FIGURAS/painel-correla}
+					\includegraphics[width=0.87\linewidth]{FIGURAS/painel-correla}
 					\label{fig:painel-correla}
 				\end{figure}
 				

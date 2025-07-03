@@ -286,9 +286,9 @@ modelo_normal <- bestNormalize(arquivodogrid$variavelmensurada )
  
   \lstset{
 	language=R, % Define a linguagem como R
-	caption= Teste de Shapiro-Wilk  em linguagem R,} % Legenda do código
+	caption= Teste Lilliefors (Kolmogorov\_Smirnov)em linguagem R,} % Legenda do código
 \begin{lstlisting}[language=R]
-	shapiro.test(Mod_esfe$pred)
+	lillie.test(valida3$pred)
 \end{lstlisting}  
  
    \lstset{
@@ -296,7 +296,7 @@ modelo_normal <- bestNormalize(arquivodogrid$variavelmensurada )
  	caption= Teste de correlação em linguagem R,} % Legenda do código
  \begin{lstlisting}[language=R]
  	cor.test(Mod_esfe$pred, Mod_esfe$observed, method = "pearson")
- \end{lstlisting} 
+ 	 \end{lstlisting} 
  
  
 \hspace*{1.25 cm} Realizado a análise exploratória dos dados, estabelecido o modelo matemático que melhor se ajusta aos  fenômenos, podemos iniciar a inferência sobre nossos resultados. 
