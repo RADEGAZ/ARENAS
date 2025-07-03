@@ -17,7 +17,7 @@
 \contentsline {subsection}{\numberline {4.1}Índices espectrais}{15}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Geoestátistica}{16}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Analise da validação cruzada do Modelo }{20}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Dinâmica temporal }{20}{subsection.4.4}%
-\contentsline {section}{\numberline {5}Discussão }{21}{section.5}%
-\contentsline {section}{\numberline {6}Conclusão}{22}{section.6}%
+\contentsline {subsection}{\numberline {4.4}Dinâmica temporal }{21}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Discussão }{22}{section.5}%
+\contentsline {section}{\numberline {6}Conclusão}{23}{section.6}%
 \contentsline {section}{Referências}{23}{section.6}%

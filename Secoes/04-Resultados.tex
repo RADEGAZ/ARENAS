@@ -319,7 +319,28 @@ A matrix: 1 × 1 of type dbl
 	Lilliefors (Kolmogorov-Smirnov) normality test
 data:  valida3$pred
 D = 0.024572, p-value = 0.5765 \end{lstlisting} 
- 
+%=============================================
+ \begin{table}[h!t]
+	\centering
+	\begin{threeparttable}
+		\caption{Resultado do Predição }
+		\label{Tabela-entrada-avalia-modelo}
+		\begin{tabular}{ l l l l ll}
+			\toprule
+				cooks.distanc&dfbeta1&	dfbeta2&	dfbeta1\_st&	zscore&	leverage	 \\\midrule
+	4.915116e-05	&-3.618e-05	&4.236e-06&-1.3644e-04&0.003093&0.003093860	 \\ 
+	1.067958e-03	&	-3.6184e-05&5.5829e-04	&	5.582e-04&	-3.618e-05&0.0026221872 \\ 
+			...&	....&	...&	...&...&... \\ 
+	2.136032e-09	&2.310e-08	&	5.582e-04	&1.103e-06&2.310e-08&0.005113479 \\ 
+			\bottomrule
+		\end{tabular}%
+		\begin{tablenotes}
+			\item [{\normalsize Fonte:     Elaborado pelos Autores (2025)}]  
+		\end{tablenotes}
+	\end{threeparttable}
+\end{table}
+
+%=============== 
    \lstset{
  	language=R, % Define a linguagem como R
  	caption= Resultado do Teste de Correlação em linguagem R,} % Legenda do código

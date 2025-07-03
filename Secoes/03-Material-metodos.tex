@@ -224,7 +224,7 @@
 		
 		\subsubsection{Geostatistica}
 		% 
-		\hspace*{1.25 cm} A analise das características da variabilidade espacia, que também pode ser chamada de "análise estrutural", tem o objetivo a determinação com a previsão de valores de atributos em locais não amostrados, uma simulação, para estes valores não incorporados. Produzindo um modelo, em forma de superfície continua, Figura \ref{fig:superficie-de-tendencia}\\
+		\hspace*{1.25 cm} A analise das características da variabilidade espacial, que também pode ser chamada de "análise estrutural", tem o objetivo a determinação com a previsão de valores de atributos em locais não amostrados, uma simulação, para estes valores não incorporados. Produzindo um modelo, em forma de superfície continua, Figura \ref{fig:superficie-de-tendencia}\\
 		%
 \hspace*{1.25 cm} Inicialmente, utilizou-se a quantidade de amostras obtidas na equação \eqref{eq:namostra}. Mas os resultados em primeira analise não foram satisfatórios. E portando optou-se pela amostragem em grid.\\
 		%
@@ -241,7 +241,7 @@
 		% 
 		\hspace*{1.25 cm}  A terceira linha, é a imagem subtraída das alterações temporais, a ser demonstrada na Figura \ref{fig:difer202332026}, sendo necessária a todos os procedimentos inclusive a krigagem e superfícies de tendencia.\\
 		% 
-		\hspace*{1.25 cm}  O resultado deste modelo, uma superfície continua, já nos possibilita termo o valor observado, o predito, seus resíduos, zscore, incluído suas coordenadas. Mais a possibilidade de monitorarmos a raiz do erro médio quadrado, e a estimativa da porcentagem da variação explicada $ R^{2}$.\\
+		\hspace*{1.25 cm}  O resultado deste modelo, uma superfície continua, já nos possibilita avaliarmos o \textbf{\underline{1º Critério}} numérico. Neste caso raiz do erro médio quadrado, e a estimativa da porcentagem da variação explicada $ R^{2}$.\\
 		%%
 		\hspace*{1.25 cm}  E neste momento, o processo torna-se interativo, testando os vários métodos de interpolação(simples interpolação, inverso das distância, inverso da distância com pesos ponderados, superfície de tendência e a krigagem). Enfatizando, por  termos os valores medido e estimado todos as medidas de variabilidade (media, mediana,moda, medidas de dispersão, distribuição de frequência ...)  \\
 		%
@@ -315,7 +315,7 @@
  
  \subsubsection{Estatística clássica -validação cruzada do modelo predito }
  
- \hspace*{1.25 cm} O processo da modelagem espacial do fenômeno, com o sem a krigagem, teremos uma estrutura tabular "dataframe" com as disposicao da Tabela 1. Que nos possibilitará tratarmos com um modelo matemático, e  com isso os critérios e da metodologia clássica, para avaliarmos a sua qualidade.
+ \hspace*{1.25 cm} O processo da modelagem espacial do fenômeno, com o sem a krigagem, teremos uma estrutura tabular "dataframe" com as disposicao da Tabela 1. Que nos possibilitará tratarmos com um modelo matemático, e  com isso os critérios e da metodologia clássica, para avaliarmos a sua qualidade, o \textbf{\underline{2º critério}} numérico e gráfico.
  \begin{table}[h!t]
  	\centering
  	\begin{threeparttable}
@@ -335,7 +335,8 @@ pred&	var&	observed&	residual&	zscore&	fold	 \\\midrule
  		\end{tablenotes}
  	\end{threeparttable}
  \end{table}
- 
+ %
+\hspace*{1.25 cm} Inicialmente  pelo teste da normalidade principal, valor numérico. E posterior por testes gráficos, ambos mostrados na seção 4.3. Pela quantidade de dados utilizou-se o teste de Kolmogorov Smirnov, como demonstrado pelo script a seguir.
  
  \lstset{
  	language=R, % Define a linguagem como R
@@ -343,7 +344,8 @@ pred&	var&	observed&	residual&	zscore&	fold	 \\\midrule
  \begin{lstlisting}[language=R]
  	lillie.test(valida3$pred)
  \end{lstlisting}  
- 
+ %
+ \hspace*{1.25 cm}  E o teste numérico de correlação pelo método de Pearson, pelo script:
  \lstset{
  	language=R, % Define a linguagem como R
  	caption= Teste de correlação em linguagem R,} % Legenda do código
