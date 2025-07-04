@@ -1,0 +1,98 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: DInamica-temporal-espacial.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+The style file: abntex2-alf.bst
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Database file #1: abntex2-options.bib
+Database file #2: Referencias//abntex2-doc.bib
+Repeated entry---line 789 of file Referencias//abntex2-doc.bib
+ : @book{Liu
+ :          ,
+I'm skipping whatever remains of this entry
+"{" immediately follows a field part---line 3975 of file Referencias//abntex2-doc.bib
+ :         Title = \textbf
+ :                        {{Hidrologia Avançada}  },
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 4303 of file Referencias//abntex2-doc.bib
+ :  
+ :  pages = {36}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 4731 of file Referencias//abntex2-doc.bib
+ :  
+ :  Journal   = "Mdpi-jornal remoresensing",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 4751 of file Referencias//abntex2-doc.bib
+ :  
+ :  Journal   = "Mdpi-jornal remoresensing",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 5141 of file Referencias//abntex2-doc.bib
+ :  
+ :  Timestamp                = {2013.02.28}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "abnt-repeated-author-omit=true"
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+You've used 28 entries,
+            6714 wiz_defined-function locations,
+            1387 strings with 13140 characters,
+and the built_in function-call counts, 20602 in all, are:
+= -- 1738
+> -- 656
+< -- 23
++ -- 279
+- -- 200
+* -- 1342
+:= -- 2796
+add.period$ -- 124
+call.type$ -- 28
+change.case$ -- 241
+chr.to.int$ -- 93
+cite$ -- 25
+duplicate$ -- 1095
+empty$ -- 1739
+format.name$ -- 937
+if$ -- 5026
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 541
+newline$ -- 133
+num.names$ -- 125
+pop$ -- 659
+preamble$ -- 1
+purify$ -- 99
+quote$ -- 0
+skip$ -- 1133
+stack$ -- 1
+substring$ -- 505
+swap$ -- 500
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 152
+width$ -- 0
+write$ -- 407
+(There were 6 error messages)

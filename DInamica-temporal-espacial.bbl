@@ -1,0 +1,164 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Andriotti 2009]{Andriotti}
+\abntrefinfo{Andriotti}{ANDRIOTTI}{2009}
+{ANDRIOTTI, J. L.~S. \textbf{Fundamentos de Estatistica e Geoestatistica}. 2.
+  ed. Sao Leopoldo, RS, Brasil: Unisinos, 2009.
+ISBN 8574311715.}
+
+\bibitem[Arantes e Arantes 2016]{Arantes}
+\abntrefinfo{Arantes e Arantes}{ARANTES; ARANTES}{2016}
+{ARANTES, C.~A.; ARANTES, C. \textbf{Pericia Ambiental: Aspectos Técnicos e
+  Legais}. 2. ed. Birigui, SP: Boreal Editora, 2016.
+ISBN 9788599286562.}
+
+\bibitem[Bivand, Pebesma e Gomez-Rubio 2013]{Bivand}
+\abntrefinfo{Bivand, Pebesma e Gomez-Rubio}{BIVAND; PEBESMA; GOMEZ-RUBIO}{2013}
+{BIVAND, R.~S.; PEBESMA, E.; GOMEZ-RUBIO, V. \textbf{Applied Spatial Data
+  Analysis with R}. 2. ed. London, UK: Springer, 2013.
+ISBN 9781461476177.}
+
+\bibitem[Bolfarine 2005]{Bolfarine1}
+\abntrefinfo{Bolfarine}{BOLFARINE}{2005}
+{BOLFARINE, H. \textbf{Elementos de amostragem}. 4. ed. [S.l.]: Blucher, 2005.
+ISBN 9788521203674.}
+
+\bibitem[Centeno 2003]{Centeno}
+\abntrefinfo{Centeno}{CENTENO}{2003}
+{CENTENO, J. A.~S. \textbf{Sensoriamento Remoto e Processamento de Imagens
+  Digitais}. Curitiba, PR -Brasil: Editora UFPR, 2003.
+ISBN 8535909559.}
+
+\bibitem[Chuvieco 2008]{Chuvieco}
+\abntrefinfo{Chuvieco}{CHUVIECO}{2008}
+{CHUVIECO, E.~S. \textbf{Teledeteccion Ambiental: La observacion de la Tierra}.
+  3. ed. Barcelona, Espanha: Ariel Ciencias, 2008.
+ISBN 9788434480733.}
+
+\bibitem[Congalton e Green 2009]{Congalton}
+\abntrefinfo{Congalton e Green}{CONGALTON; GREEN}{2009}
+{CONGALTON, R.~G.; GREEN, K. \textbf{\textbf{Assessing the Accuracy of Remotely
+  Sensed Data : Principles and Practices}}. 2. ed. [S.l.]: CRC Press, 2009.
+ISBN 978-1-4200-5512-2.}
+
+\bibitem[Dorman 2014]{Dormam}
+\abntrefinfo{Dorman}{DORMAN}{2014}
+{DORMAN, M. \textbf{Learnin R for Geospatial Analysis}. 1. ed. Birmanghm , UK:
+  Packt Publishimn Ltda, 2014.
+ISBN 9781783984367.}
+
+\bibitem[Ferreira 2014]{Ferreira}
+\abntrefinfo{Ferreira}{FERREIRA}{2014}
+{FERREIRA, M.~C. \textbf{{\textbf{Iniciaç\~ao a análise geoespacial: Teoria,
+  T\'ecnica e exemplos para geoprocessamento}}}. 3. ed. S\~ao Paulo, SP:
+  Editora Unesp, 2014. 347~p.
+ISBN 978--85-393-0537-7.}
+
+\bibitem[Jensen 1949]{Jensensens}
+\abntrefinfo{Jensen}{JENSEN}{1949}
+{JENSEN, J.~R. \textbf{Introductory digital processing: a remote sensing
+  perspective}. 2015. ed. University of South Carolina, USA: Pearson Education,
+  inc, 1949. v.~4.
+ISBN 9780134058160.}
+
+\bibitem[Krishnaswamy, Sivakumar e Mathirajan 2012]{Krishnaswamy}
+\abntrefinfo{Krishnaswamy, Sivakumar e Mathirajan}{KRISHNASWAMY; SIVAKUMAR;
+  MATHIRAJAN}{2012}
+{KRISHNASWAMY, K.~N.; SIVAKUMAR, A.~I.; MATHIRAJAN, M. \textbf{Management
+  Research Methodology: Integration of Principles, Methods and Techniques}. 1.
+  ed. New Delhi, India: Pearson Education, 2012.
+ISBN 97881131798811.}
+
+\bibitem[Kumar e Mutanga 2019]{Mutanga}
+\abntrefinfo{Kumar e Mutanga}{KUMAR; MUTANGA}{2019}
+{KUMAR, L.; MUTANGA, O. \textbf{Google Earth Engine Applications}. Basel,
+  Switzerlan: MDPI, 2019. 422~p.
+ISBN 978303897775.}
+
+\bibitem[Lillesand e Kiefe 2016]{Lilesat}
+\abntrefinfo{Lillesand e Kiefe}{LILLESAND; KIEFE}{2016}
+{LILLESAND, T.~M.; KIEFE, R. \textbf{Remote Sensing and Interpretation}. 7. ed.
+  Hoboken, USA: John Wiley and Sons, 2016.
+ISBN 8781118343289.}
+
+\bibitem[Liu 2015]{Liu}
+\abntrefinfo{Liu}{LIU}{2015}
+{LIU, W. T.~H. \textbf{Aplicações de sensoriamento remoto}. [S.l.]: Oficina
+  dos Textos, 2015.
+ISBN 8577040400.}
+
+\bibitem[Lohs 2022]{Lohr}
+\abntrefinfo{Lohs}{LOHS}{2022}
+{LOHS, S.~L. \textbf{Sampling Design and Analysis}. 3. ed. [S.l.]: CRC Press,
+  2022.
+ISBN 9780129298899.}
+
+\bibitem[Lopes 2002]{Ariza}
+\abntrefinfo{Lopes}{LOPES}{2002}
+{LOPES, F. J.~A. \textbf{Calidad en la Producción Cartográfica}. Madri,
+  Espanha: ra-ma, 2002.
+ISBN 9788478975242.}
+
+\bibitem[Magri et al. 2023]{Magri}
+\abntrefinfo{Magri et al.}{MAGRI et al.}{2023}
+{MAGRI, P.~P.; MARROS, J.; HARCIA, M.~H.; NETO, A.~C. \textbf{Pericia
+  Ambiental: expertises e abordagens ambientais}: \textbf{Incidência de àrea
+  de Preservação Permanente em Terreno Urbano}. Sao Paulos, SP: Leud Editora,
+  2023.
+ISBN 9788574564401.}
+
+\bibitem[Mateu e Muller 2013]{mateu}
+\abntrefinfo{Mateu e Muller}{MATEU; MULLER}{2013}
+{MATEU, J.; MULLER, W.~G. \textbf{Spatial-Temporal design: Advences in
+  efficient data acquisition}. 2. ed. Chichester, UK: Wiley Publication, 2013.
+ISBN 9780470974292.}
+
+\bibitem[Pebesma e Bivand 2023]{Pebesma}
+\abntrefinfo{Pebesma e Bivand}{PEBESMA; BIVAND}{2023}
+{PEBESMA, E.; BIVAND, R. \textbf{Spatial Data Science with Applications in R}.
+  1. ed. New York, USA: CRC Press, 2023.
+ISBN 9781138311183.}
+
+\bibitem[Reddy 2008]{Reddy}
+\abntrefinfo{Reddy}{REDDY}{2008}
+{REDDY, M.~A. \textbf{{\textbf{Textbook of Remote Sensing and Geographical
+  Information System}}}. 3. ed. Giriraj Lane,Sultan Bazar, India: BS
+  Publications, 2008. 478~p.
+ISBN 978-81-7800-135-7.}
+
+\bibitem[Schowengerdt 2007]{Schowengerdt}
+\abntrefinfo{Schowengerdt}{SCHOWENGERDT}{2007}
+{SCHOWENGERDT, R.~A. \textbf{Remote Sensing Models and Methods for Image
+  Processing}. 3. ed. Tucson, Arizona, USA: Elvier, 2007.
+ISBN 9780123694072.}
+
+\bibitem[Thenkabail 2016]{Thekapbail}
+\abntrefinfo{Thenkabail}{THENKABAIL}{2016}
+{THENKABAIL, P. \textbf{Land Resousces monitoring , modeling, and mapping with
+  remote sensing}. 1. ed. Boca Raton, FL, USA: CRC Press, 2016.
+ISBN 9781482217957.}
+
+\bibitem[Tolosana-Delgado e Mueller 2021]{delgado}
+\abntrefinfo{Tolosana-Delgado e Mueller}{TOLOSANA-DELGADO; MUELLER}{2021}
+{TOLOSANA-DELGADO, R.; MUELLER, U. \textbf{Geostatistics for Compositional Data
+  with R}. 1. ed. Cham, Switzerland: Springer, 2021.
+ISBN 9783030825683.}
+
+\bibitem[Webster e Oliver 2007]{Webster}
+\abntrefinfo{Webster e Oliver}{WEBSTER; OLIVER}{2007}
+{WEBSTER, R.; OLIVER, M. \textbf{Geostatistics for Environmental Scientists}.
+  2. ed. John Wily Sons , UK: Packt Publishimn Ltda, 2007.
+ISBN 978047002858.}
+
+\bibitem[Yamamoto e Landin 2013]{Yamamoto}
+\abntrefinfo{Yamamoto e Landin}{YAMAMOTO; LANDIN}{2013}
+{YAMAMOTO, J.~K.; LANDIN, P. M.~B. \textbf{Geoestatistica: Conceitos +
+  aplicacoes}. 1. ed. Sao Paulo, SP, Brasil: Oficina dos Textos, 2013.
+ISBN 9788579750779.}
+
+\end{thebibliography}
